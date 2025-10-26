@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/邮件更新.md",
+                "file": "小龚git测试2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "邮件更新"
+              "title": "小龚git测试2"
             }
           }
         ],
@@ -258,8 +258,11 @@
   },
   "active": "be0c8c382660a332",
   "lastOpenFiles": [
-    "diary/20251026.md",
+    "大数据分享.md",
+    "小龚git测试2.md",
+    "资产划分.md",
     "inbox/邮件更新.md",
+    "diary/20251026.md",
     "日记.base",
     "diary/20251025.md",
     "diary/timestamp/202510260017.md",
@@ -283,9 +286,6 @@
     "diary/timestamp/202510211258.md",
     "diary/timestamp/202510211253.md",
     "diary/20251021.md",
-    "香港Vlog参考.md",
-    "diary/20251021 英文名.md",
-    "diary/20251020.md",
     "图片.base",
     "inbox/未命名 1.base",
     "inbox/未命名.base",
