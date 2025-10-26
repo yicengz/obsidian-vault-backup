@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: 卡片
+    filters:
+      and:
+        - file.ext != "md"
+    order:
+      - file.name
+    image: file.file
+    imageFit: ""
+    cardSize: 180

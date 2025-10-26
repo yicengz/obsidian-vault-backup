@@ -1,0 +1,314 @@
+{
+  "main": {
+    "id": "1e425b505a03a711",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa440205b26df712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e411523c6e6b3cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/20251026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251026"
+            }
+          },
+          {
+            "id": "be0c8c382660a332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/邮件更新.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "邮件更新"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faa7595cf698121f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e4c6a6185814871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "930f48eeb8a9ff99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "17a9da38f3045c57",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "f8ef91488ff092ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "a83e49cff6131bb3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "053d85a9c51cad0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1808c6c07cbd11a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c47f346a6b87e7ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "2b72b9e989262e0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "diary/20251024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "20251024 的反向链接列表"
+            }
+          },
+          {
+            "id": "2eea9ab9cbc20c6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "diary/20251024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "20251024 的出链列表"
+            }
+          },
+          {
+            "id": "dcba038e3e9670d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "diary/20251024.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "20251024 的大纲"
+            }
+          },
+          {
+            "id": "276ea6058a33ad3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bf8d597888c03cab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "724802c4f768fbba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": true,
+      "audio-recorder:开始/结束录音": true,
+      "random-note:开始漫游笔记": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
+      "notebook-navigator:笔记本导航器": false
+    }
+  },
+  "active": "be0c8c382660a332",
+  "lastOpenFiles": [
+    "diary/20251026.md",
+    "inbox/邮件更新.md",
+    "日记.base",
+    "diary/20251025.md",
+    "diary/timestamp/202510260017.md",
+    "diary/20251024.md",
+    "diary/20251023.md",
+    "content/有知有行：E002 有它帮我投资，能安心睡觉了.md",
+    "diary/2025Q2/20250621.md",
+    "diary/timestamp/202506292315  obsidian web clipper.md",
+    "inbox/理财.md",
+    "diary/2025Q3/20250727.md",
+    "diary/2025Q2/20250629.md",
+    "content/有知有行：E001 为什么我选择【有知有行】.md",
+    "inbox/《西方现代思想讲义》.md",
+    "写文.base",
+    "金句整理.md",
+    "知识点.md",
+    "diary/timestamp/202510221146.md",
+    "inbox/点击链接查看和.md",
+    "inbox/邓宁–克鲁格效应 Dunning–Kruger Effect.md",
+    "diary/timestamp/202510220020.md",
+    "diary/timestamp/202510211258.md",
+    "diary/timestamp/202510211253.md",
+    "diary/20251021.md",
+    "香港Vlog参考.md",
+    "diary/20251021 英文名.md",
+    "diary/20251020.md",
+    "图片.base",
+    "inbox/未命名 1.base",
+    "inbox/未命名.base",
+    "inbox/未命名 2.base",
+    "attachments/inbox/日本所见 2.jpeg",
+    "attachments/inbox/20230212 生日日料 1.jpeg",
+    "attachments/inbox/Pasted image 20251013002958 -- ttt.png",
+    "attachments/inbox/链上转账截图.png",
+    "attachments/inbox/Pasted image 20251006154827.png",
+    "attachments/inbox/Pasted image 20251002150623.png",
+    "attachments/inbox/Pasted image 20251002142447.png",
+    "attachments/我投资长钱账户的钱安全吗.jpeg",
+    "attachments/长钱账户和其他投顾产品有什么区别.jpeg",
+    "attachments/自己语音：今年的大不同是和很多人聊天.m4a",
+    "attachments/recording.m4a",
+    "inbox/测试.canvas",
+    "未命名 1.base",
+    "attachments/inbox/album_temp__ss15b32b5071c9be2e15b33dass_1758335189.png",
+    "inbox/资产流转.canvas",
+    "attachments/阅读",
+    "未命名 3.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas"
+  ]
+}

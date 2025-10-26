@@ -1,0 +1,54 @@
+formulas:
+  大小 KB: |-
+    if(file.size < 1024, 
+        file.size + " B",
+        if(file.size < 1024*1024,
+            ( ( file.size / 1024 ).toFixed(0) + " KB" ),
+            if(file.size < 1024*1024*1024,
+                ( ( file.size / 1024/1024      ).toFixed(0) + " MB" ),
+                ( ( file.size / 1024/1024/1024 ).toFixed(0) + " GB" )
+            )
+        )
+    )
+properties:
+  file.size:
+    displayName: 文件大小-Bytes
+  formula.大小 KB:
+    displayName: 文件大小
+  note.测试:
+    displayName: 是否日记
+  note.测试-复选框:
+    displayName: 是否日记
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.ext == "md"
+    order:
+      - file.name
+      - title
+      - tags
+      - file.tags
+      - file.ctime
+      - formula.大小 KB
+      - file.ext
+      - 日记
+    sort:
+      - property: title
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: file.ctime
+        direction: ASC
+      - property: created
+        direction: DESC
+      - property: file.size
+        direction: DESC
+    columnSize:
+      file.name: 221
+      note.title: 247
+      file.ctime: 189
+      formula.大小 KB: 231
+      file.ext: 101
+      note.author: 192

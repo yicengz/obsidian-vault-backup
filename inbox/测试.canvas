@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{
+			"id":"1488a3e9ae1e9e1b",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-460,
+			"width":260,
+			"height":60
+		},
+		{"id":"d4364f02a8533822","type":"file","file":"diary/20250626.md","x":-400,"y":-220,"width":400,"height":400},
+		{"id":"4257056b1fefffb1","type":"file","file":"attachments/多长时间的钱适合投资长钱账户.jpeg","x":60,"y":-220,"width":202,"height":399}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"fbe7de262e6e9d37"
+	}
+}

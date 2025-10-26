@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "attachmentFolderPath": "attachments/inbox",
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "promptDelete": true,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": false,
+  "spellcheck": false,
+  "defaultViewMode": "preview"
+}
