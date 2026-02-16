@@ -17,5 +17,5 @@ created: 2025-06-29
 description: "有人知道obsidian麻烦不麻烦嘛#笔记软件  #obsidian"
 tags:
   - clippings
-is_dairy: false
+is_diary: false
 ---

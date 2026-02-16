@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"efaa194cf863e698","type":"text","text":"你好\n嗷嗷a","x":-740,"y":-400,"width":250,"height":60,"color":"2"},
+		{"id":"0d5bee2d056e143a","type":"file","file":"diary/2025Q4/20251118.md","x":-380,"y":-570,"width":400,"height":400},
+		{"id":"36efd63419bd29e5","type":"file","file":"attachments/inbox/香港_西九文化区.png","x":-380,"y":-140,"width":400,"height":263}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

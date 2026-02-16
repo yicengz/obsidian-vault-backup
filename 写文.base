@@ -35,10 +35,10 @@ views:
       - file.ext
       - 日记
     sort:
+      - property: file.name
+        direction: DESC
       - property: title
         direction: DESC
-      - property: file.name
-        direction: ASC
       - property: file.ctime
         direction: ASC
       - property: created
@@ -46,9 +46,9 @@ views:
       - property: file.size
         direction: DESC
     columnSize:
-      file.name: 221
+      file.name: 280
       note.title: 247
+      note.tags: 177
       file.ctime: 189
       formula.大小 KB: 231
       file.ext: 101
-      note.author: 192
