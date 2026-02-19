@@ -9,6 +9,7 @@ views:
       - miletone_date
       - title
       - description
+      - link
     sort:
       - property: miletone_date
         direction: DESC
@@ -18,5 +19,5 @@ views:
         direction: DESC
     columnSize:
       file.name: 233
-      note.title: 379
-      note.description: 476
+      note.title: 344
+      note.description: 619
