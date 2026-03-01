@@ -17,7 +17,7 @@ is_wx_article: true
 
 这几天去北京出差，在路上重温播客《无人知晓》E42，嘉宾韦青聊到一个有趣的历史故事。
 
-麦克卢汉有一本书《The medium is the massage》，中文是《媒介即按摩》有句名言："媒介即讯息"（The medium is the message）。但某次传播过程中，有人把 message 拼成了 massage——按摩。这个错误非但没有被纠正，反而流传开来，麦克卢汉也认为比原版更准确：**媒介即按摩**。
+麦克卢汉有一本书《The medium is the massage》，中文是《媒介即按摩》。由于在排版过程中的失误，原文 message 错打成了 massage，被有句名言："媒介即讯息"（The medium is the message）。但某次传播过程中，有人把 message 拼成了 massage——按摩。这个错误非但没有被纠正，反而流传开来，麦克卢汉也认为比原版更准确：**媒介即按摩**。
 
 我第一次听到这个说法，脑子里停了很久。
 
