@@ -5,6 +5,7 @@ tags:
 is_diary: false
 is_essay: false
 is_wx_article: true
+link: https://mp.weixin.qq.com/s/74-IviQEIwbfvzSTu2bp3w
 ---
 > [!note]
 > Claude https://claude.ai/share/83b23dad-81d5-466c-bfc1-81a9811f818f
