@@ -67,6 +67,27 @@ left join (
 group by a.enter_id;
 ```
 
+-- enter_id 商家/门店详情页进入唯一ID
+select 
+    a.enter_id,
+    min(if(action = 'shop_comment_show', time, null)) as shop_comment_show_earliest_time
+from (
+    select 
+        enter_id,
+        min(time) as time
+    from    log_table
+    where   action = 'shop_detail_show'
+    group by enter_id
+) a
+left join (
+    select  enter_id, action
+    from    log_table
+    where   action in ('product_card_show', 'product_card_click', 'shop_comment_show')
+    group by enter_id, action
+) b
+    on  a.enter_id = b.enter_id
+group by a.enter_id;
+
 看出来了吗？
 
 `min(if(event = 'shop_comment_show', time, null))` 里的 `time`，没有带表别名。
