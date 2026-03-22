@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - is_language == true
+    order:
+      - file.name
+      - title
+      - description
+      - language
+    sort:
+      - property: description
+        direction: ASC
+      - property: language
+        direction: DESC
+      - property: title
+        direction: ASC
+      - property: is_language
+        direction: ASC
+    columnSize:
+      file.name: 178
+      note.title: 155
