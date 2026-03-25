@@ -19,51 +19,74 @@
 
 ## Obsidian CLI 使用指南 (优先使用)
 
-当需要操作 Obsidian 笔记时，**优先使用 CLI 命令**而不是直接读取文件，以减少 token 消耗：
+当需要操作 Obsidian 笔记时，**优先使用 CLI 命令**而不是直接读取文件，以减少 token 消耗。
 
-### 搜索笔记
+### 当前可用的工具
+
+#### 1. Python obsidian-cli (已安装)
 ```bash
-# 搜索包含关键词的笔记
+# 列出 vault
+obsidian ls
+
+# 打开 vault (在 Obsidian 中打开)
+obsidian open /Users/yiceng/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng
+
+# 创建新 vault
+obsidian new "新vault路径"
+```
+
+#### 2. ripgrep (搜索笔记内容)
+```bash
+# 搜索关键词
+rg "关键词" /Users/yiceng/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/
+
+# 搜索特定目录
+rg "关键词" ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/Clippings/
+
+# 列出所有 markdown 文件
+rg -l "" ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/ --type md
+```
+
+#### 3. fd (快速查找文件)
+```bash
+# 查找文件
+fd "文件名" ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/
+
+# 列出所有 markdown
+fd -e md . ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/
+```
+
+### 待启用：Obsidian 官方 CLI / REST API
+
+当你完成以下配置后，我可以使用更强大的命令：
+
+**官方 CLI** (需要在 Obsidian Settings → General → Advanced → Command line interface 中开启):
+```bash
 obsidian search "关键词"
-
-# 使用 REST API 搜索 (如果安装了插件)
-curl "http://127.0.0.1:27124/search?q=关键词"
-```
-
-### 读取笔记
-```bash
-# 打印笔记内容
 obsidian print "笔记名"
-
-# 或使用 REST API
-curl http://127.0.0.1:27124/vault/笔记路径.md
+obsidian create "路径.md" --content "内容"
+obsidian append "内容"
+obsidian daily
 ```
 
-### 创建/修改笔记
+**REST API** (需要安装 "Obsidian CLI REST" 或 "Local REST API" 插件):
 ```bash
-# 创建新笔记
-obsidian create "路径.md" --content "内容"
+# 搜索笔记
+curl "http://127.0.0.1:27124/search?q=关键词"
 
-# 追加到今日日记
-obsidian append "内容"
+# 获取笔记内容
+curl http://127.0.0.1:27124/vault/笔记路径.md
 
-# 使用 REST API 更新
-curl -X POST http://127.0.0.1:27124/vault/笔记.md \
+# 创建/更新笔记
+curl -X POST http://127.0.0.1:27124/vault/新笔记.md \
   -H "Content-Type: text/markdown" \
   -d "# 标题\n\n内容"
 ```
 
-### 每日笔记
-```bash
-# 打开/创建今日日记
-obsidian daily
-```
+## Token 节省策略
 
-## 配置要求
-
-要使用 Obsidian CLI，需要：
-1. Obsidian 应用保持运行
-2. 在 Settings → General → Advanced → Command line interface 中开启 CLI
-3. (可选) 安装 "Obsidian CLI REST" 插件以启用 HTTP API
-
-详见: `Clippings/Obsidian CLI 配置指南.md`
+| 任务 | 旧方式 | CLI 方式 | 节省 |
+|------|--------|---------|------|
+| 搜索笔记 | 扫描所有文件 | `rg "关键词"` | ~95% |
+| 列出文件 | 扫描目录 | `fd -e md` | ~90% |
+| 读取特定笔记 | 扫描+读取 | `curl` / `cat` | ~80% |
