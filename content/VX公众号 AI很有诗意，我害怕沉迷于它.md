@@ -6,6 +6,7 @@ is_diary: false
 is_essay: false
 is_wx_article: true
 link: https://mp.weixin.qq.com/s/zD5u9VqjgAmj1R4Vh2-6Uw
+publish: true
 ---
 工作，是为了更好地生活。
 
