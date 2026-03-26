@@ -15,7 +15,6 @@ publish: true
 密集型工作结束后，我往往需要鼓起很大的力气，才能躲开各种多巴胺刺激，让自己静下来思考。
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/37X2DwwWHLjWPVCaSicU2BNJLDrOrcfClqAEiazvs6wZiaML8soWJSLUhf9VNj5u6KCDQNhklYFq5dRvseau9UlnOTYnSQiawQSCmmBYmMxl8icM/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
-
 Sage Friedman | unsplash.com
 
 但我需要生存。密集型工作或许是我当下的局部最优解，却一定不是人生的全局最优解。
@@ -24,13 +23,9 @@ Sage Friedman | unsplash.com
 
   
 
-01
-
-  
+# 01
 
 ---
-
-  
 
 AI 的工程能力 & 人类的善良
 
@@ -64,13 +59,10 @@ Nick Page | unsplash.com
 
 或许，在 AI 时代，善良反而是一种更不能被忽略的美德。
 
-02
 
-  
+# 02
 
 ---
-
-  
 
 AI 的文学素养 & 人类的审美
 
@@ -99,15 +91,9 @@ Siora Photography | unsplash.com
 
 “我认为人类的未来像一座珠穆朗玛峰。它有南坡、北坡，也可能有东坡、西坡，大家都在往上走。等到了山顶才发现，科学、哲学、神学都在同一个山头上等着呢。”
 
-03
-
-  
+# 03
 
 ---
-
-  
-
-尾声
 
 我很喜欢有知有行这家公司。在我当前的认知里，我觉得他们在践行「本分」。
 
