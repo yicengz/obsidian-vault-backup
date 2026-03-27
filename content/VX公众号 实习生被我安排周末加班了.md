@@ -6,6 +6,7 @@ tags:
 is_diary: false
 is_essay: false
 is_wx_article: true
+publish: true
 ---
 # 我自己写的
 
