@@ -6,6 +6,10 @@ description:
 link: https://www.youtube.com/watch?v=WXuK6gekU1Y&t=495s
 ---
 https://claude.ai/share/e2e68b0a-91e0-44ad-bf91-9d5bffc2f9f8
+---
+> [!我的感受]
+> 我感觉在DeepMind找到的围棋手里，最初听到要和机器下棋都是不以为然。直到被AlphaGO打败后开始自闭、沉思。我觉得是一种对“我擅长领域被外敌攻占的恐慌和无助”，而对方是一个我们俗称的“电脑”or“机器”
+
 
 
 
