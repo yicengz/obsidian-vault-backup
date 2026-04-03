@@ -1,6 +1,6 @@
 ---
 is_language: true
-title: ambivalent
+title:
 description: 矛盾的
 language:
   - 英语

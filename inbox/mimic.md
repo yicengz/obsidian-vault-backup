@@ -1,6 +1,6 @@
 ---
 is_language: true
-title: mimic
+title:
 description: 模仿
 language:
   - 英语

@@ -6,9 +6,9 @@ views:
         - is_language == true
     order:
       - file.name
-      - title
       - description
       - language
+      - created
     sort:
       - property: description
         direction: ASC

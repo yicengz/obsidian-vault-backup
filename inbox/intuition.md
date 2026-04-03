@@ -1,6 +1,6 @@
 ---
 is_language: true
-title: intuition
+title:
 description: 直觉
 language:
   - 英语

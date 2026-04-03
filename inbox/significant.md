@@ -1,6 +1,6 @@
 ---
 is_language: true
-title: significant
+title:
 description: 重要的；有意义的
 language:
   - 英语

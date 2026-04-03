@@ -1,6 +1,6 @@
 ---
 is_language: true
-title: intitution
+title:
 description: 习俗
 language:
   - 英语

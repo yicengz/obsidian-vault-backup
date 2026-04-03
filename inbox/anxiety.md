@@ -1,6 +1,6 @@
 ---
 is_language: true
-title: anxiety
+title:
 description: 焦虑
 language:
   - 英语

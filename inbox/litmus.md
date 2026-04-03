@@ -1,6 +1,6 @@
 ---
 is_language: true
-title: litmus
+title:
 description: 石蕊
 language:
   - 英语

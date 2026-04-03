@@ -1,6 +1,6 @@
 ---
 is_language: true
-title: tournament
+title:
 description: 比赛；竞技
 language:
   - 英语

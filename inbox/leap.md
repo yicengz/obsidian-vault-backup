@@ -1,6 +1,6 @@
 ---
 is_language: true
-title: leap
+title:
 description: 跳跃
 language:
   - 英语
