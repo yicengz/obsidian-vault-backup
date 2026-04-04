@@ -1,10 +1,6 @@
 ## 张雪峰老师，一路走好。这些年曾写过好几篇与张雪峰老师有关的小文章，斯人已逝，哀悼
 
-[
-
-全站排行榜最高第74名
-
-](https://www.bilibili.com/v/popular/rank/all)
+[全站排行榜最高第74名](https://www.bilibili.com/v/popular/rank/all)
 
 95.9万
 
