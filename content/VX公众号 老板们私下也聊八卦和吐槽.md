@@ -31,7 +31,8 @@ publish: false
 
 那70%呢，就是真的随便聊——美股最近跌了好多、对美元走势的判断、vibe coding了一个跟进组员重要产出的网页，还有各自产品里觉得不合理的地方。
 
-
+![[ben-white-4Bs9kSDJsdc-unsplash.jpg]]
+[Ben White](https://unsplash.com/@benwhitephotography) | from unsplash.com
 
 夜宵过程中，我开始理解那位产品leader说的话了——关系不是靠一次对齐会议建立起来的。那些"没什么用"的闲聊，才是让两个人从"协作对象"变成"认识的人"的过程。双方都能了解对方是个什么风格。
 
