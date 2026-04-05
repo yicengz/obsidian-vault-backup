@@ -14,7 +14,8 @@ publish: false
 
 我的leader知道消息后，主动约了新团队的负责人，在正式开始合作之前先吃个饭熟悉下（虽然他们之前就认识）。我听说后，厚着脸皮去硬蹭了这顿饭，毕竟是我leader请客。
 
-
+![[giollianosulit-sulit-1TPdQq54fH0-unsplash.jpg]]
+[Giollianosulit Sulit](https://unsplash.com/@giollianosulit_sulit) | from unsplash.com
 
 想去的理由说起来有点好笑：不久前我约了某方向的产品leader吃饭，想着趁机拉近一下关系，结果她临走前笑着说，"你这次吃饭不符合预期，你没有带着八卦来找我。" 她还很认真地给了我一个建议："想和人拉近关系，不要只谈工作。"
 
