@@ -1,5 +1,4 @@
 ---
-is_language: true
 description: 操纵
 language:
   - 英语

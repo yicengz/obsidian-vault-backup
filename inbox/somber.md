@@ -1,5 +1,4 @@
 ---
-is_language: true
 title:
 description: 灰暗的；沮丧的
 language:

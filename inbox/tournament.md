@@ -1,5 +1,4 @@
 ---
-is_language: true
 title:
 description: 比赛；竞技
 language:

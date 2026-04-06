@@ -1,5 +1,4 @@
 ---
-is_language: true
 description: 推理；推断
 language:
   - 英语

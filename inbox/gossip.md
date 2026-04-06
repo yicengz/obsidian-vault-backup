@@ -1,5 +1,4 @@
 ---
-is_language: true
 description: 闲话；八卦
 language:
   - 英语

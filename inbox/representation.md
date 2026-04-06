@@ -1,5 +1,4 @@
 ---
-is_language: true
 description: 表征
 language:
   - 英语

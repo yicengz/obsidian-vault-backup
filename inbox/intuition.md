@@ -1,5 +1,4 @@
 ---
-is_language: true
 title:
 description: 直觉
 language:

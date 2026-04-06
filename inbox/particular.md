@@ -1,5 +1,4 @@
 ---
-is_language: true
 title:
 description: 特别的；特指的
 language:
