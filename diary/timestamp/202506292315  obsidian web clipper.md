@@ -1,6 +1,6 @@
 ---
 title: obsidian插入图片麻烦吗 - 小红书
-source: https://www.xiaohongshu.com/explore/684c182700000000230028f6?xsec_token=AB5yh2UBlnhbjYUgY7i8NeqTlXJ8viKSwuoNmo9t62gKI=&xsec_source=pc_search&source=web_search_result_notes
+link: https://www.xiaohongshu.com/explore/684c182700000000230028f6?xsec_token=AB5yh2UBlnhbjYUgY7i8NeqTlXJ8viKSwuoNmo9t62gKI=&xsec_source=pc_search&source=web_search_result_notes
 author:
   - "[[Everything is possible]]"
   - "[[vran]]"
