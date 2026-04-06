@@ -1,6 +1,0 @@
-filters:
-  and:
-    - is_wx_article == true
-views:
-  - type: table
-    name: 表格

@@ -1,6 +1,6 @@
 ---
 title: 【数仓工作分享】老板们私下也聊八卦和吐槽
-date: 2026-04-05
+published: 2026-04-06
 description:
 tags:
   - 内容/微信公众号
