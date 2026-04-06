@@ -22,9 +22,8 @@ publish: true
 
 想去的理由说起来有点好笑：不久前我约了某方向的产品leader，想着趁机拉近一下关系，结果她临走前笑着说，"你这次不符合预期，**没有带着八卦来找我**。" 她还很认真地给了我一个建议："想和人拉近关系，不要只谈工作。"
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/37X2DwwWHLhsGiaZffqlV02FJ9BafMW1BDh07ITZLW2tcccHTDvEibt9CiaZ9g1iacL0MaoWRrTxMBAcOv7UiaSQwqlmVRJo7rGQ3Or05z5QZyD4/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
-
-Giollianosulit Sulit | from unsplash.com
+![[giollianosulit-sulit-1TPdQq54fH0-unsplash.jpg]]
+[Giollianosulit Sulit]([Giollianosulit Sulit](https://unsplash.com/@giollianosulit_sulit)) | [from unsplash.com](https://unsplash.com/photos/white-and-brown-short-coated-dog-1TPdQq54fH0)
 
 这话我确实听进去了，但心里其实有点纠结：我不太愿意拿A告诉我的事去和B聊，总觉得这是在背叛A对于我的信任，并且自己也不擅长拿捏分享的分寸。但这次刚好有个机会，就想跟着leader去看看，老板们私下到底都在聊些什么。
 
