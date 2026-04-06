@@ -89,10 +89,4 @@ publish: true
 
 有知有行的创始人孟岩，从2017年9月开始了本金500万的投资实证[时间](https://mp.weixin.qq.com/s?__biz=MzIzNTQ4ODg4OA==&mid=2247489065&idx=1&sn=ccaa3f11296e59c39d2422d3aef5fd24&scene=21#wechat_redirect)，真实地记录了自己在市场中的所思所想，近期发版了一本书《投资中，我相信的事》。我也把我自己的表达当作一场记录，表达即存在。
 
-Giollianosulit Sulit | https://unsplash.com/photos/white-and-brown-short-coated-dog-1TPdQq54fH0
-Ben White | https://unsplash.com/photos/woman-whispering-on-womans-ear-while-hands-on-lips-4Bs9kSDJsdc
-Milan Popovic | https://unsplash.com/photos/woman-sitting-on-cliff-overlooking-mountains-during-daytime-Zf0-90SpDD0
-Łukasz Rawa | https://unsplash.com/photos/black-and-white-bird-on-brown-tree-branch-5B_ItUbsXz8
-Almos Bechtold | https://unsplash.com/photos/tilt-shift-lens-photography-of-fire-ember-GFgWx3o8bTI
-
 ![[微信公众号二维码 一层檐下.jpg]]
