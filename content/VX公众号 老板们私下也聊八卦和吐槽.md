@@ -77,7 +77,7 @@ Milan Popovic | from unsplash.com
 我在这家公司的两年多时间里，一直是纯一线执行者，工作里基本都是干状态：需求来了就想办法实现，有问题及时沟通清楚。但今年1月初成为小组长之后，我开始意识到：工作场景里执行很重要，但纯执行似乎已经不够了（至少在我当下的环境里是这样）。这顿夜宵倒是让我看到了另一种状态。
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/37X2DwwWHLgNqksethlluTUxKgO83uaL6MnFlVYlYop6jfrTWwv2wQibI8reFNvhJU3icSNVb9blL096GXAtZFComV9AAoLkkf2tXpl9yvzJI/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
-
+![[almos-bechtold-GFgWx3o8bTI-unsplash.jpg]]
 Almos Bechtold | from unsplash.com
 
 我的leader在聊那些有的没的的时候，不像是在"完成一个建立联系的任务"，至少明面上看很松弛地在聊天，这本身也是一个信号——我对你这个人有兴趣，不只是对你负责的事情有兴趣。
