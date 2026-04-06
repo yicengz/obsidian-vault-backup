@@ -8,7 +8,8 @@ is_wx_article: true
 link:
 publish: false
 ---
-> 有些事情看起来没什么用，但它撑着你所有有用的事。
+> [!with claude]
+> [[content/chat with ai/VX公众号 老板们私下也聊八卦和吐槽|VX公众号 老板们私下也聊八卦和吐槽]] 
 
 > 有些事情看起来没什么用，但它撑着你所有有用的事。
 
