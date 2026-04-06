@@ -35,9 +35,8 @@ publish: true
 
 所谓"工作"，也不是排期需求那些，更多是各自团队最近的处境，组织上的一些感受，以及以后合作可能踩的坑。说的都挺直接，但氛围很轻松。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/37X2DwwWHLj39jD1hJa0qTicibYIXkYNluyiakQsib2MyrIW7XCMqODExXjiaHQX8aJB5bJ1UNtRN4B9ubSlOSe1KvEGrnyDbhLLkfdzesibr5HZU/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
-
-Ben White | from unsplash.com
+![[ben-white-4Bs9kSDJsdc-unsplash.jpg]]
+[Ben White](https://unsplash.com/@benwhitephotography) | [from unsplash.com](https://unsplash.com/photos/woman-whispering-on-womans-ear-while-hands-on-lips-4Bs9kSDJsdc)
 
 那70%呢，就是真的随便聊——美股最近跌了好多、对美元走势的判断、vibe coding了给业务看需求进展的漫画，还有自家产品里不合理的地方。
 
@@ -49,9 +48,8 @@ Ben White | from unsplash.com
 
 我以前也是这么想的。但最近听说了一件事，也让我产生了另一个视角看待这个问题。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/37X2DwwWHLjcptIYATibC9LTnuO3SHKfAaUgYovqEOKNVtwfrxtylOCxfwRE1icv3A9kRLc2r11UTDfSNugCtptaH7REiaNgW5CHRyZKhiauRlU/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
-
-Milan Popovic | from unsplash.com
+![[milan-popovic-Zf0-90SpDD0-unsplash.jpg]]
+[Milan Popovic](https://unsplash.com/@itsmiki5) | [from unsplash.com](https://unsplash.com/photos/woman-sitting-on-cliff-overlooking-mountains-during-daytime-Zf0-90SpDD0)
 
 近期，几个业务大leader给业务boss汇报的时候，一个明显的数据问题被当场指出来了。排查后发现，是某个数仓小组在看板配置上有个小瑕疵——并不是数仓模型设计和开发的问题。
 
@@ -59,9 +57,8 @@ Milan Popovic | from unsplash.com
 
 这并非耸人听闻，2024年相似的事情在我们团队发生过，最后甚至立了一个专项——"woodpecker"，寓意是主动去发现所有潜在的数据问题。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/37X2DwwWHLjWdrIQe9A1FnV1G7bUQeSmuicjF6r6ab0P2nM91UaN2JKd83HG1icU0Gmzc1h0sRpDjkHR3nqfNXcm7surpOGQugtNUnxuydk9Q/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
-
-Łukasz Rawa | from unsplash.com
+![[lukasz-rawa-5B_ItUbsXz8-unsplash.jpg]]
+[Łukasz Rawa](https://unsplash.com/@lukasz_rawa) | [from unsplash.com](https://unsplash.com/photos/black-and-white-bird-on-brown-tree-branch-5B_ItUbsXz8)
 
 但这次大事化小了。因为那位数仓小组的负责人，平时虽然不写需求，但一直在把控风险，和那几位业务大leader之间也保持着不错的沟通：工作上保证交付质量，工作时间之外的夜宵也保持着一些交流——至于私交是否也有来往，这个不得而知。但这确实是最终大事化小的一个重要原因。
 
@@ -75,9 +72,8 @@ Milan Popovic | from unsplash.com
 
 我在这家公司的两年多时间里，一直是纯一线执行者，工作里基本都是干状态：需求来了就想办法实现，有问题及时沟通清楚。但今年1月初成为小组长之后，我开始意识到：工作场景里执行很重要，但纯执行似乎已经不够了（至少在我当下的环境里是这样）。这顿夜宵倒是让我看到了另一种状态。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/37X2DwwWHLgNqksethlluTUxKgO83uaL6MnFlVYlYop6jfrTWwv2wQibI8reFNvhJU3icSNVb9blL096GXAtZFComV9AAoLkkf2tXpl9yvzJI/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
 ![[almos-bechtold-GFgWx3o8bTI-unsplash.jpg]]
-Almos Bechtold | from unsplash.com
+[Almos Bechtold](https://unsplash.com/@almosbech) | [from unsplash.com](https://unsplash.com/photos/tilt-shift-lens-photography-of-fire-ember-GFgWx3o8bTI)
 
 我的leader在聊那些有的没的的时候，不像是在"完成一个建立联系的任务"，至少明面上看很松弛地在聊天，这本身也是一个信号——我对你这个人有兴趣，不只是对你负责的事情有兴趣。
 
