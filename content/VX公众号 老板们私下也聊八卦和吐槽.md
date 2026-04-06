@@ -1,12 +1,13 @@
 ---
-title:
+title: 【数仓工作分享】老板们私下也聊八卦和吐槽
 description:
 tags:
+  - 内容/微信公众号
 is_diary: false
 is_essay: false
 is_wx_article: true
-link:
-publish: false
+link: https://mp.weixin.qq.com/s/ruXQRV5SUnpc-JuozhL9Aw
+publish: true
 ---
 > [!with claude]
 > [[content/chat with ai/VX公众号 老板们私下也聊八卦和吐槽|VX公众号 老板们私下也聊八卦和吐槽]] 
@@ -17,12 +18,13 @@ publish: false
 
 前段时间，我们业务侧有一轮非常大的架构调整，涉及产品、运营、销售。这个动作对协作团队的影响也不小——前后端、算法、数据分析师、数仓，都要跟着重新适应。
 
-我的leader知道消息后，主动约了新团队的负责人，在正式开始合作之前先吃个饭熟悉下（虽然他们之前就认识）。我听说后，厚着脸皮去硬蹭了这顿饭，leader请客蹭一顿也不亏，还能露个脸🐶。
+我的leader知道消息后，主动约了新团队的负责人，在正式开始合作之前先吃个饭熟悉下。我听说后，厚着脸皮去硬蹭了这顿饭，leader请客蹭一顿也不亏，还能露个脸🐶。
 
-想去的理由说起来有点好笑：不久前我约了某方向的产品leader吃饭，想着趁机拉近一下关系，结果她临走前笑着说，"你这次吃饭不符合预期，**没有带着八卦来找我**。" 她还很认真地给了我一个建议："想和人拉近关系，不要只谈工作。"
+想去的理由说起来有点好笑：不久前我约了某方向的产品leader，想着趁机拉近一下关系，结果她临走前笑着说，"你这次不符合预期，**没有带着八卦来找我**。" 她还很认真地给了我一个建议："想和人拉近关系，不要只谈工作。"
 
-![[giollianosulit-sulit-1TPdQq54fH0-unsplash.jpg]]
-[Giollianosulit Sulit](https://unsplash.com/@giollianosulit_sulit) | from unsplash.com
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/37X2DwwWHLhsGiaZffqlV02FJ9BafMW1BDh07ITZLW2tcccHTDvEibt9CiaZ9g1iacL0MaoWRrTxMBAcOv7UiaSQwqlmVRJo7rGQ3Or05z5QZyD4/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+
+Giollianosulit Sulit | from unsplash.com
 
 这话我确实听进去了，但心里其实有点纠结：我不太愿意拿A告诉我的事去和B聊，总觉得这是在背叛A对于我的信任，并且自己也不擅长拿捏分享的分寸。但这次刚好有个机会，就想跟着leader去看看，老板们私下到底都在聊些什么。
 
