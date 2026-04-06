@@ -5,14 +5,21 @@
 ## 知识库结构
 
 - **attachments/** - 附件
+	- inbox/ - 附件收集箱
+	- unsplash/ - 下载自unsplash.com的图片
+	- yiceng/ - 我的核心附件，比如头像照片等
 - **clippings/** - 网页剪藏文章
 - **content/** - 内容产出
+	- chat with ai/ - 在最终输出内容钱，我和AI的沟通记录
 - **diary/** - 内容产出
+	- 2025Q4/ - 存放2025年第4季度的日记
+	- 2026Q1/ - 存放2026年第1季度的日记
+	- 2026Q2/ - 存放2026年第2季度的日记
+	- timestamp/ - 存放时间戳随笔
 - **inbox/** - 收集箱
 - **investment/** - 投资
 - **template/** - obsidian模版
 - **yiceng/** - 我的重要内容
-- 
 
 ## 个性化回复风格
 
@@ -74,22 +81,6 @@ obsidian help
 ```
 
 > 值：含空格时用引号，如 `name="My Note"`；换行用 `\n`
-
-#### 2. ripgrep (备用：正则搜索文件内容)
-
-当需要复杂正则匹配时可用，日常搜索优先用 `obsidian search`。
-
-```bash
-# 搜索关键词
-rg "关键词" /Users/yiceng/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/
-
-# 搜索特定目录
-rg "关键词" /Users/yiceng/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/Clippings/
-
-# 列出所有 markdown 文件
-rg -l "" /Users/yiceng/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/ --type md
-```
-
 ## Token 节省策略
 
 | 任务     | 旧方式    | CLI 方式         | 节省   |

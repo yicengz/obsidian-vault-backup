@@ -3,7 +3,7 @@ views:
     name: 表格
     filters:
       and:
-        - is_language == true
+        - "!language.isEmpty()"
     order:
       - file.name
       - description
