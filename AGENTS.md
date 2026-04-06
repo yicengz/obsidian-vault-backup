@@ -4,8 +4,15 @@
 
 ## 知识库结构
 
+- **attachments/** - 附件
 - **clippings/** - 网页剪藏文章
-- **其他目录** - 根据你的实际使用而定
+- **content/** - 内容产出
+- **diary/** - 内容产出
+- **inbox/** - 收集箱
+- **investment/** - 投资
+- **template/** - obsidian模版
+- **yiceng/** - 我的重要内容
+- 
 
 ## 个性化回复风格
 
@@ -13,74 +20,74 @@
 
 ## 工作原则
 
-- 保持原有文件内容不变，除非明确请求修改
+- 保持原有文件夹和文件内容不变，除非明确请求修改
 - 操作前确认目录结构
 - 帮助整理、翻译、总结笔记内容
 
 ## Obsidian CLI 使用指南 (优先使用)
 
-当需要操作 Obsidian 笔记时，**优先使用 CLI 命令**而不是直接读取文件，以减少 token 消耗。
+当需要操作 Obsidian 笔记时，**优先使用官方 CLI 命令**而不是直接读取文件，以减少 token 消耗。
 
 ### 当前可用的工具
 
-#### 1. Python obsidian-cli (已安装)
+#### 1. Obsidian 官方 CLI (已启用)
+
+在 Settings → General → Command line interface 中开启后即可使用。
+
 ```bash
-# 列出 vault
-obsidian ls
+# 列出 vault 中所有文件
+obsidian files
 
-# 打开 vault (在 Obsidian 中打开)
-obsidian open /Users/yiceng/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng
+# 列出所有文件夹
+obsidian folders
 
-# 创建新 vault
-obsidian new "新vault路径"
+# 读取笔记内容（按文件名模糊匹配）
+obsidian read file=<名称>
+# 读取笔记内容（精确路径）
+obsidian read path=<folder/note.md>
+
+# 搜索笔记
+obsidian search query=<关键词>
+
+# 创建笔记
+obsidian create name=<名称> content=<内容>
+# 用模板创建
+obsidian create name=<名称> template=<模板名>
+
+# 追加内容到笔记
+obsidian append file=<名称> content=<内容>
+
+# 日记相关
+obsidian daily           # 打开今日日记
+obsidian daily:read      # 读取今日日记内容
+obsidian daily:append content=<内容>  # 追加到今日日记
+obsidian daily:path      # 获取今日日记路径
+
+# 删除笔记
+obsidian delete file=<名称>
+
+# 查看 vault 信息
+obsidian vault
+
+# 查看所有可用命令
+obsidian help
 ```
 
-#### 2. ripgrep (搜索笔记内容)
+> 值：含空格时用引号，如 `name="My Note"`；换行用 `\n`
+
+#### 2. ripgrep (备用：正则搜索文件内容)
+
+当需要复杂正则匹配时可用，日常搜索优先用 `obsidian search`。
+
 ```bash
 # 搜索关键词
 rg "关键词" /Users/yiceng/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/
 
 # 搜索特定目录
-rg "关键词" ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/Clippings/
+rg "关键词" /Users/yiceng/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/Clippings/
 
 # 列出所有 markdown 文件
-rg -l "" ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/ --type md
-```
-
-#### 3. fd (快速查找文件)
-```bash
-# 查找文件
-fd "文件名" ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/
-
-# 列出所有 markdown
-fd -e md . ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/
-```
-
-### 待启用：Obsidian 官方 CLI / REST API
-
-当你完成以下配置后，我可以使用更强大的命令：
-
-**官方 CLI** (需要在 Obsidian Settings → General → Advanced → Command line interface 中开启):
-```bash
-obsidian search "关键词"
-obsidian print "笔记名"
-obsidian create "路径.md" --content "内容"
-obsidian append "内容"
-obsidian daily
-```
-
-**REST API** (需要安装 "Obsidian CLI REST" 或 "Local REST API" 插件):
-```bash
-# 搜索笔记
-curl "http://127.0.0.1:27124/search?q=关键词"
-
-# 获取笔记内容
-curl http://127.0.0.1:27124/vault/笔记路径.md
-
-# 创建/更新笔记
-curl -X POST http://127.0.0.1:27124/vault/新笔记.md \
-  -H "Content-Type: text/markdown" \
-  -d "# 标题\n\n内容"
+rg -l "" /Users/yiceng/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/yiceng/ --type md
 ```
 
 ## Token 节省策略
