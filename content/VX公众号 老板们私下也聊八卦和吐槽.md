@@ -7,7 +7,7 @@ is_diary: false
 is_essay: false
 is_wx_article: true
 link: https://mp.weixin.qq.com/s/ruXQRV5SUnpc-JuozhL9Aw
-publish: true
+is_yiceng_public: true
 ---
 > [!with claude]
 > [[content/chat with ai/VX公众号 老板们私下也聊八卦和吐槽|VX公众号 老板们私下也聊八卦和吐槽]] 

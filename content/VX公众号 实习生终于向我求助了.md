@@ -5,7 +5,7 @@ tags:
 is_diary: false
 is_essay: false
 is_wx_article: true
-publish: true
+is_yiceng_public: true
 ---
 > [!Prompt]
 > [[20260307]] 记录了与AI的对话

@@ -6,7 +6,7 @@ is_diary: false
 is_essay: false
 is_wx_article: true
 link: https://mp.weixin.qq.com/s/74-IviQEIwbfvzSTu2bp3w
-publish: true
+is_yiceng_public: true
 ---
 
 
