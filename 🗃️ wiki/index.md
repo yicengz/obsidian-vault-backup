@@ -3,7 +3,7 @@ title: Wiki Index
 description: AI-compiled knowledge base — auto-maintained, do not edit manually
 ---
 
-# 🧠 Wiki
+# 🗃️ Wiki
 
 这里是由 AI 从 `📥 raw/` 持续编译产出的知识库。不要手动整理，往 raw 里扔材料就够了。
 
