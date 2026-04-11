@@ -9,7 +9,7 @@
 	- unsplash/ - 下载自unsplash.com的图片
 	- yiceng/ - 我的核心附件，比如头像照片等
 - **clippings/** - 网页剪藏文章
-- **content/** - 内容产出
+- **content/** - 内容产\出
 	- chat with ai/ - 在最终输出内容钱，我和AI的沟通记录
 - **diary/** - 内容产出
 	- 2025Q4/ - 存放2025年第4季度的日记
