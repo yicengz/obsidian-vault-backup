@@ -2,8 +2,8 @@
 title: 香港Vlog参考
 description: 看了BGG的视频部分截图信息
 tags:
-  - 香港
-  - 旅游
+  - travel/hongkong
+  - travel
 ---
 
 [港岛攻略：香港大学百年校园，中环街市百年变迁，西营盘的烟火气](https://www.bilibili.com/video/BV13i4y1q7Ub?spm_id_from=333.788.recommend_more_video.2&vd_source=9c13a8b769be918066b4954159c567ba)

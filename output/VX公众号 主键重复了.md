@@ -2,7 +2,7 @@
 title: 主键重复了
 description:
 tags:
-  - 内容/微信公众号
+  - content/wechat
 is_diary: false
 is_essay: false
 is_wx_article: true

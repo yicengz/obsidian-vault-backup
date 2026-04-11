@@ -3,7 +3,7 @@ title: 【数仓工作分享】老板们私下也聊八卦和吐槽
 publish_date: 2026-04-06
 description:
 tags:
-  - 内容/微信公众号
+  - content/wechat
 is_diary: false
 is_essay: false
 is_wx_article: true

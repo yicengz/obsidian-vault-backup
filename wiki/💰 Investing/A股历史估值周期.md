@@ -2,7 +2,7 @@
 title: A股历史估值周期
 tags:
   - investing
-  - china-market
+  - investing
 created: 2026-04-11
 ---
 
