@@ -12,7 +12,7 @@ author:
   - "[[吾爱有名白锦眀]]"
   - "[[光头obsidian教学]]"
   - "[[鱼先生的模块化Obsidian]]"
-published:
+publish_date:
 created: 2025-06-29
 description: "有人知道obsidian麻烦不麻烦嘛#笔记软件  #obsidian"
 tags:

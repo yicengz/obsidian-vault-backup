@@ -1,14 +1,13 @@
 ---
-title: "能用好AI的人一定是个好领导和好伴侣"
+title: 能用好AI的人一定是个好领导和好伴侣
 author:
-  - "课代表立正"
-link: "https://www.youtube.com/watch?v=drTNakM9iRA"
-published: 2026-04-05
+  - 课代表立正
+link: https://www.youtube.com/watch?v=drTNakM9iRA
+publish_date: 2026-04-05
 created: 2026-04-06
-description: "最近 CZ 轉發了一則新聞，一位 Ledger 用戶因為收到假冒官方的實體信件，掃碼後輸入助記詞，結果損失超過 23 萬美元。這支影片，我想帶你完整看懂這起案件是怎麼發生的，也聊聊很多人最在意的兩個問題。第一，冷錢包不是最安全嗎，為什麼還是會被騙。第二，USDT 明明在區塊鏈上，為什麼最後還是能被警方凍結追回。我..."
+description: 最近 CZ 轉發了一則新聞，一位 Ledger 用戶因為收到假冒官方的實體信件，掃碼後輸入助記詞，結果損失超過 23 萬美元。這支影片，我想帶你完整看懂這起案件是怎麼發生的，也聊聊很多人最在意的兩個問題。第一，冷錢包不是最安全嗎，為什麼還是會被騙。第二，USDT 明明在區塊鏈上，為什麼最後還是能被警方凍結追回。我...
 tags:
-  - "微信公众号"
-
+  - 微信公众号
 ---
 ![# 能用好AI的人一定是个好领导和好伴侣](https://www.youtube.com/watch?v=drTNakM9iRA)
 
