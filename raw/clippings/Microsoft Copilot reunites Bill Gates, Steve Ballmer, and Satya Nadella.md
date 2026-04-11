@@ -1,13 +1,15 @@
 ---
-title: "Microsoft Copilot reunites Bill Gates, Steve Ballmer, and Satya Nadella"
+title: Microsoft Copilot reunites Bill Gates, Steve Ballmer, and Satya Nadella
 author:
-  - "Microsoft"
-link: "https://www.youtube.com/watch?v=ncjM7mY4LvE"
+  - Microsoft
+link: https://www.youtube.com/watch?v=ncjM7mY4LvE
 publish_date: 2025-04-08
 clip_date: 2026-04-11
 description: "A Copilot moderated conversation between Bill Gates, Steve Ballmer, and Satya Nadella on Microsoft’s 50th anniversary.Subscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTubeFol"
 trigger:
-  - "youtube.com/watch"
+  - youtube.com/watch
+tags:
+  - clippings
 ---
 ![](https://www.youtube.com/watch?v=ncjM7mY4LvE)
 
