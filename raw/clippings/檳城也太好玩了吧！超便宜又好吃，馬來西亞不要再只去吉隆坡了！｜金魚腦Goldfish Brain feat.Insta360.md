@@ -138,7 +138,7 @@ tags:
 **3:02** · And the moment that yolk bursts in your mouth...
 
 **3:04** · combined with that savory flavor, you just...
-
+]
 **3:06** · Wow, it's so satisfying!
 
 **3:07** · Great.
