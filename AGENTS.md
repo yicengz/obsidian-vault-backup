@@ -8,6 +8,34 @@
 
 ## 知识库结构
 
+```
+raw/          原始素材（只增不改，事实基准）
+  inbox/      碎片笔记、想法、摘抄
+  clippings/  网页剪藏
+  epub/       epub 转 md（勿读，token 消耗大）
+
+wiki/         AI 编译产出的知识库（按主题归档）
+  Investing/  投资、股票、基金、宏观经济
+  Tech/       AI、技术、产品、工程
+  Reading/    书籍、文章、播客笔记
+  Life/       生活观察、人际、消费
+  Travel/     旅行记录与攻略
+  thinking/   哲学、心理、思考框架
+  index.md    主题地图（每次新增页面后更新）
+
+output/       草稿、对话产出（非最终知识，可参考）
+  chat with ai/
+diary/        日记
+
+attachments/  图片等附件
+```
+
+### wiki 页面约定
+
+每个 wiki 页面包含：frontmatter（title、tags、created）、正文、`## 相关` 内链、`来源` 说明。
+
+tags 层级用 `/` 分隔，如 `thinking/psychology`、`tech/ai`。
+
 
 ## 个性化回复风格
 
