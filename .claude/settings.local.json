@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "Bash(obsidian --version)"
+      "Bash(obsidian --version)",
+      "WebFetch(domain:archive.org)"
     ]
   }
 }
