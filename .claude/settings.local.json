@@ -3,7 +3,9 @@
     "allow": [
       "WebSearch",
       "Bash(obsidian --version)",
-      "WebFetch(domain:archive.org)"
+      "WebFetch(domain:archive.org)",
+      "Bash(xargs ls:*)",
+      "Bash(awk '{print $6, $7, $8, $9}')"
     ]
   }
 }
