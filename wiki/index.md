@@ -13,7 +13,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 | ------------- | ------------- |
 | [[Investing]] | 投资、股票、基金、宏观经济 |
 | [[Tech]]      | AI、技术、产品、工程   |
-| [[Reading]]   | 书籍、文章、播客笔记    |
+| [[Reading]]   | 书籍、哲学家、阅读笔记   |
 | [[Life]]      | 生活观察、人际、消费    |
 | [[Travel]]    | 旅行记录与攻略       |
 | [[Thinking]]  | 哲学、佛学、思考框架    |
