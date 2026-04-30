@@ -1,0 +1,1 @@
+![[chat with claude 从MBTI到极致理性主义|INFJ和INFP的区别]]

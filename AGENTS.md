@@ -47,6 +47,16 @@ tags 层级用 `/` 分隔，如 `thinking/psychology`、`tech/ai`。
 - 操作前确认目录结构
 - 帮助整理、翻译、总结笔记内容
 
+## Apple Books 路径
+
+Apple Books 的 EPUB 文件（解包后的目录）存储位置：
+
+```
+~/Library/Mobile Documents/iCloud~com~apple~iBooks/Documents/
+```
+
+转换流程：目录需先 `zip -r` 打包为 `.epub`，再用 `pandoc -f epub -t markdown` 转换，输出至本仓库 `raw/epub/`。转换后需 sed 清理 HTML/CSS 残留。
+
 ## Obsidian CLI 使用指南 (优先使用)
 
 当需要操作 Obsidian 笔记时，**优先使用官方 CLI 命令**而不是直接读取文件，以减少 token 消耗。

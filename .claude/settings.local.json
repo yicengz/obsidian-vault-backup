@@ -5,7 +5,9 @@
       "Bash(obsidian --version)",
       "WebFetch(domain:archive.org)",
       "Bash(xargs ls:*)",
-      "Bash(awk '{print $6, $7, $8, $9}')"
+      "Bash(awk '{print $6, $7, $8, $9}')",
+      "WebFetch(domain:claude.ai)",
+      "WebFetch(domain:unsplash.com)"
     ]
   }
 }
