@@ -20,10 +20,7 @@ link:
 在我工作的这家公司里，每个季度谈目标的时候，"激进"这个词几乎都会出现。它像一个固定的修饰语，贴在各种目标前面，提醒所有人：我们不满足于此，不仅要快、还要做得好。
 
 前两天的一个周日又是加班的一天，我出门前好奇看了眼自己近一年的静息心率，在2026年1月份担任小组长后，上升了不少。而2月份略有下降，还得归功于春节假期让我平静了许久。
-
-
-![[luis-villasmil-mlVbMbxfWI4-unsplash.jpg]]
-[Luis Villasmil](https://unsplash.com/@villxsmil) | [from unsplash.com](https://unsplash.com/photos/mlVbMbxfWI4)
+![[IMG_1926.png]]
 
 ---
 
