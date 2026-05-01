@@ -41,12 +41,8 @@ link:
 
 他当时直接愣住了，缓了缓再问我："你觉得难过在哪里？或者他们应该把时间放在什么事情上？"
 
-
-https://unsplash.com/photos/person-holding-black-phone-FPt10LXK0cg
-
-
-[ROBIN WORRALL](https://unsplash.com/@robin_rednine)
-
+![[robin-worrall-FPt10LXK0cg-unsplash.jpg]]
+[ROBIN WORRALL](https://unsplash.com/@robin_rednine) | [from unsplash.com](https://unsplash.com/photos/person-holding-black-phone-FPt10LXK0cg)
 
 我回答："看书思考这些说法有点太装了，但我觉得可以把更多精力放在人与人之间的相处上。"
 
