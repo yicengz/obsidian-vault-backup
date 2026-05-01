@@ -21,3 +21,5 @@ views:
     columnSize:
       file.name: 178
       note.title: 155
+  - type: cards
+    name: 视图
