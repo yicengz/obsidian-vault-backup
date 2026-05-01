@@ -32,6 +32,9 @@ link:
 
 举个🌰，我能感受到他开会时心理上的压力，但这个压力也催生出来了兴奋。这类型的人是世界需要的，就像乔布斯和马斯克那样。他们能把一件事从零推到一百，过程里的消耗和摩擦对他们来说是燃料，不是损耗。
 
+![[luis-villasmil-mlVbMbxfWI4-unsplash.jpg]]
+[Luis Villasmil](https://unsplash.com/@villxsmil) | [from unsplash.com](https://unsplash.com/photos/mlVbMbxfWI4)
+
 有一次在北京出差，我们趁着阳光超好在楼下散步，聊到了招人的话题。他说，招人要招认可这个业务、认可这个产品、认可这种氛围的人。
 
 那段时间我和他唱反调频次有点高，我就说："我就不太用我自家产品，觉得是在浪费时间。我有时候看到老人沉迷于手机还挺难过的。"
