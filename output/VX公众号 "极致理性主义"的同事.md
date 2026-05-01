@@ -44,6 +44,10 @@ link:
 
 https://unsplash.com/photos/person-holding-black-phone-FPt10LXK0cg
 
+
+[ROBIN WORRALL](https://unsplash.com/@robin_rednine)
+
+
 我回答："看书思考这些说法有点太装了，但我觉得可以把更多精力放在人与人之间的相处上。"
 
 他觉得自家的产品为很多人创造了价值，让大家了解了更多资讯和内容，也促成了更多交易。我理解这个逻辑，但我心里也会想 —— 那些我粗浅认为"奇奇怪怪"的内容，某个商品便宜了几块钱、哪家直播间又开播了，这些算不算真正的价值？不创造这些，是不是也挺好的？
