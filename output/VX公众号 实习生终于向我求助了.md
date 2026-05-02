@@ -6,6 +6,9 @@ is_diary: false
 is_essay: false
 is_wx_article: true
 is_yiceng_public: true
+category:
+  - 数仓随笔
+  - 职场观察
 ---
 > [!Prompt]
 > [[20260307]] 记录了与AI的对话

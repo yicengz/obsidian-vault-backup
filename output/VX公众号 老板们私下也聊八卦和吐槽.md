@@ -9,6 +9,9 @@ is_essay: false
 is_wx_article: true
 link: https://mp.weixin.qq.com/s/ruXQRV5SUnpc-JuozhL9Aw
 is_yiceng_public: true
+category:
+  - 数仓随笔
+  - 职场观察
 ---
 > [!with claude]
 > [[content/chat with ai/VX公众号 老板们私下也聊八卦和吐槽|VX公众号 老板们私下也聊八卦和吐槽]] 

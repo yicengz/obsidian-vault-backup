@@ -8,6 +8,9 @@ is_essay: false
 is_wx_article: true
 is_yiceng_public: true
 link:
+category:
+  - 数仓随笔
+  - 技术
 ---
 
 # 前言：连着2天凌晨5点告警

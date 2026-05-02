@@ -7,6 +7,9 @@ is_essay: false
 is_wx_article: true
 link: https://mp.weixin.qq.com/s/74-IviQEIwbfvzSTu2bp3w
 is_yiceng_public: true
+category:
+  - 数仓随笔
+  - 工作思考
 ---
 
 
