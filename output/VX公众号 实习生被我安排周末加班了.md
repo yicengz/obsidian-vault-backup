@@ -1,5 +1,5 @@
 ---
-title: VX公众号 实习生被我安排周末加班了
+title: 【数仓工作分享】实习生被我安排周末加班了
 description:
 tags:
   - content/wechat
