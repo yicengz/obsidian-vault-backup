@@ -7,7 +7,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 由 AI 从 `raw/` 持续编译产出的知识库。不要手动整理，往 raw 里扔材料就够了。
 
-> 最近一次 ingest：[[log#2026-06-10|2026-06-10]]
+> 最近一次 ingest：[[log#2026-06-16|2026-06-16]]
 > 完整时间线：[[log]]
 
 ## 主题地图
@@ -24,9 +24,10 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## Reading（书籍与人物）
 
-- [[《不止减压的正念艺术》]] · 🆕 看理想节目（杨光&即非），世俗时代的精神修炼
-- [[《自我、爱与理想：给青年的哲学启蒙课》]] · 🆕 看理想节目（刘擎等），9 次走出现实桎梏的生命追问
-- [[刘擎]] · 🆕 华师大哲学教授，公共哲学家
+- [[帕慕克]] · 🆕 土耳其作家，2006 诺奖；hüzün 是他写《伊斯坦布尔》时的底色
+- [[《不止减压的正念艺术》]] · 看理想节目（杨光&即非），世俗时代的精神修炼
+- [[《自我、爱与理想：给青年的哲学启蒙课》]] · 看理想节目（刘擎等），9 次走出现实桎梏的生命追问
+- [[刘擎]] · 华师大哲学教授，公共哲学家
 - [[《禅者的初心》]]
 - [[《沉思录》]]
 - [[加缪]]
@@ -36,8 +37,9 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## knowledge（可被引用的概念）
 
-- [[自我关怀]] · 🆕 不是"爱自己"，而是在真实关系里学会与脆弱共处的能力
-- [[渗透性自我]] · 🆕 自我不是有清晰边界的原子，而是虚线包裹的关系性存在
+- [[通讯隔离]] · 🆕 主动设计"不能玩手机"的环境，让外部条件替自律工作
+- [[自我关怀]] · 不是"爱自己"，而是在真实关系里学会与脆弱共处的能力
+- [[渗透性自我]] · 自我不是有清晰边界的原子，而是虚线包裹的关系性存在
 - [[Vipassana 内观禅修]]
 - [[峇峇娘惹]]
 - [[贝叶斯定理]]
@@ -49,7 +51,8 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## thinking（思考框架）
 
-- [[死亡观]] · 🆕 柏拉图、伊壁鸠鲁、维特根斯坦的死亡哲学比较
+- [[自我洁净]] · 🆕 把"恶"放在外部，本质上是在保护自己免于审视（帕慕克）
+- [[死亡观]] · 柏拉图、伊壁鸠鲁、维特根斯坦的死亡哲学比较
 - [[成就感与目标]]
 - [[邓宁-克鲁格效应]]
 - [[工作中的执着与认同]]
@@ -61,7 +64,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## Investing（投资）
 
-- [[中国大类资产长期回报-SBBI2025|中国大类资产长期回报 (SBBI 2025)]] · 🆕 有知有行陈鹏 2025 年报核心结论
+- [[中国大类资产长期回报-SBBI2025|中国大类资产长期回报 (SBBI 2025)]] · 有知有行陈鹏 2025 年报核心结论
 - [[20250719 泸州老窖]]
 - [[202507272229 A股股票下跌]]
 - [[A股历史估值周期]]
@@ -78,7 +81,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## travel（旅行）
 
-- [[清迈]] · 🆕 泰国北部山城，亚太退休天堂、数字游牧之都
+- [[清迈]] · 泰国北部山城，亚太退休天堂、数字游牧之都
 - [[2026国庆13天候选]]
 - [[槟城]]
 - [[不丹]]
@@ -89,4 +92,4 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ---
 
-*Last compiled: 2026-06-10 · 🆕 标记的是最近一次 ingest 新增的条目，旧条目的一行摘要将在后续 lint 中逐步补齐。*
+*Last compiled: 2026-06-16 · 🆕 标记的是最近一次 ingest 新增的条目；旧条目的一行摘要将在后续 lint 中逐步补齐。*
