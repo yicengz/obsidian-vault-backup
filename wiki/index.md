@@ -8,7 +8,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 由 AI 从 `raw/` 持续编译产出的知识库。不要手动整理，往 raw 里扔材料就够了。
 
 > 最近一次 ingest：[[log#2026-06-16|2026-06-16]]
-> 完整时间线：[[log]]
+> 完整时间线：[[log|Wiki Log]]
 
 ## 主题地图
 
