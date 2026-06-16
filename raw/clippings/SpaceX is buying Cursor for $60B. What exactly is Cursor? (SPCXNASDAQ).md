@@ -61,9 +61,9 @@ Musk [hinted](https://seekingalpha.com/news/4577587-musks-spacex-weighs-60b-buy
 
 > 马斯克 4 月时曾[暗示](https://seekingalpha.com/news/4577587-musks-spacex-weighs-60b-buyout-of-cursor-or-10b-partnership-payout#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews "hinted")，Cursor 与 SpaceX 旗下 Colossus 数据中心算力的结合，将让公司在 AI 大模型赛道上更具竞争力。
 
-“The combination of Cursor’s leading product and distribution to expert software engineers with SpaceX’s million H100 equivalent Colossus training supercomputer will allow us to build the world’s most useful models,” SpaceX said in a post on X. “SpaceXAI and @cursor_ai are now working closely together to create the world’s best coding and knowledge work AI.
+“The combination of Cursor’s leading product and distribution to expert software engineers with SpaceX’s million H100 equivalent Colossus training supercomputer will allow us to build the world’s most useful models,” SpaceX said in a post on X. “SpaceXAI and @cursor_ai are now working closely together to create the world’s best coding and knowledge work AI.”
 
-> "Cursor 领先的产品 + 在资深软件工程师群体里的分发能力，叠加 SpaceX 相当于 100 万颗 H100 算力的 Colossus 训练超算，将让我们造出全世界最有用的模型。" SpaceX 在 X 上的一则贴文中如是说道。"SpaceXAI 和 @cursor_ai 正紧密合作，打造全球最好的编程与知识工作 AI。"”
+> "Cursor 领先的产品 + 在资深软件工程师群体里的分发能力，叠加 SpaceX 相当于 100 万颗 H100 算力的 Colossus 训练超算，将让我们造出全世界最有用的模型。" SpaceX 在 X 上的一则贴文中如是说道。"SpaceXAI 和 @cursor_ai 正紧密合作，打造全球最好的编程与知识工作 AI。"
 
 Goldman Sachs [recently forecast](https://seekingalpha.com/news/4600816-spacex-ai-related-revenue-expected-to-jump-100-times-by-2030-report#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews "recently forecast") that SpaceX's AI-related revenue would jump 100 times by 2030, no doubt aided partly because of Cursor.
 
