@@ -16,6 +16,8 @@ U.S. President Trump denied that the Iran war revealed the limits of his abili
 
 The U.S. and Iran signed the agreement on Thursday, after three and a half months of conflict that shut the Strait of Hormuz and rattled global energy markets. Trump said he negotiated the agreement to prevent the conflict from triggering a global economic depression, speaking in the [interview](https://www.axios.com/2026/06/18/trump-iran-war-power-no-limits "interview") Thursday evening stateside.
 
+> 美国与伊朗于周四签署了这份协议，此前双方为期三个半月的冲突封锁了霍尔木兹海峡、震动了全球能源市场。特朗普在美国本土时间周四晚间接受采访时表示，他谈判这份协议是为了阻止冲突引发一场全球经济萧条。
+
 Asked what he had learned from the war about the limits to his power, Trump said that “I haven’t learned that lesson yet. I know there are, but there are no limits.”
 
 > 被问及这场战争让他对自身权力的极限学到了什么时，特朗普说："我还没学到那一课。我知道有（极限），但其实没有极限。"
@@ -29,6 +31,8 @@ The deal has drawn criticism from lawmakers who argue Trump was not tough enough
 > 这份协议招致了一些议员的批评——他们认为特朗普对伊朗不够强硬，临时协议的条款未能达到总统在开战之初设定的目标。
 
 Trump on Thursday pushed back at the mounting criticism, saying those who think he was soft on Tehran were either “jealous, bad people or stupid.”
+
+> 周四特朗普反击日益增长的批评声音，称那些认为他对德黑兰过于软弱的人，要么"嫉妒、坏，要么就蠢"。
 
 During the Axios interview, Trump again bristled at the idea that he should have pressed harder, asking what additional weeks of bombardment would have achieved while the strait remained closed. “This is the kind of thing that could cause a worldwide depression,” he said.
 
