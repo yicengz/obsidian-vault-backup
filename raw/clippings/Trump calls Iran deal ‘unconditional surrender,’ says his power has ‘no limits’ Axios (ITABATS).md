@@ -30,10 +30,10 @@ The deal has drawn criticism from lawmakers who argue Trump was not tough enough
 
 > 这份协议招致了一些议员的批评——他们认为特朗普对伊朗不够强硬，临时协议的条款未能达到总统在开战之初设定的目标。
 
-Trump on Thursday pushed back at the mounting criticism, saying those who think he was soft on Tehran were either “jealous, bad people or stupid.”
+Trump on Thursday pushed back at the ==mounting criticism==, saying those who think he was soft on Tehran were either “jealous, bad people or stupid.”
 
-> 周四特朗普反击日益增长的批评声音，称那些认为他对德黑兰过于软弱的人，要么"嫉妒、坏，要么就蠢"。
+> 周四特朗普反击==日益增长的批评声音==，称那些认为他对德黑兰过于软弱的人，要么"嫉妒、坏，要么就蠢"。
 
-During the Axios interview, Trump again bristled at the idea that he should have pressed harder, asking what additional weeks of bombardment would have achieved while the strait remained closed. “This is the kind of thing that could cause a worldwide depression,” he said.
+During the Axios interview, Trump again ==bristled== at the idea that he should have pressed harder, asking what additional weeks of bombardment would have achieved while the strait remained closed. “This is the kind of thing that could cause a worldwide depression,” he said.
 
-> 在 Axios 的采访中，特朗普再次对"他本应该施压更狠"的说法表示恼怒，反问道：海峡封闭的情况下再多轰炸几周能换来什么？他说："这种事可能造成全球性的经济萧条。"
+> 在 Axios 的采访中，特朗普再次对"他本应该施压更狠"的说法==表示恼怒==，反问道：海峡封闭的情况下再多轰炸几周能换来什么？他说："这种事可能造成全球性的经济萧条。"
