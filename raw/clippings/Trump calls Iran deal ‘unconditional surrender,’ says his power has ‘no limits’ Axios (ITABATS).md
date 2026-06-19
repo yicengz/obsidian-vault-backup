@@ -14,9 +14,9 @@ U.S. President Trump denied that the Iran war revealed the limits of his abili
 
 > 美国总统特朗普否认对伊战争暴露了他行使权力的极限，他在《Axios 秀》节目中表示自己依然相信"没有极限"，并坚称与伊朗达成的协议相当于德黑兰方面的"无条件投降"。
 
-The U.S. and Iran signed the agreement on Thursday, after three and a half months of conflict that shut the Strait of Hormuz and rattled global energy markets. Trump said he negotiated the agreement to prevent the conflict from triggering a global economic depression, speaking in the [interview](https://www.axios.com/2026/06/18/trump-iran-war-power-no-limits "interview") Thursday evening stateside.
+The U.S. and Iran signed the agreement on Thursday, after three and a half months of conflict that shut the Strait of Hormuz and rattled global energy markets. Trump said he negotiated the agreement to prevent the conflict from triggering a global economic depression, speaking ==in the [interview](https://www.axios.com/2026/06/18/trump-iran-war-power-no-limits "interview") Thursday evening <u>stateside</u> ==.
 
-> 美国与伊朗于周四签署了这份协议，此前双方为期三个半月的冲突封锁了霍尔木兹海峡、震动了全球能源市场。特朗普在美国本土时间周四晚间接受采访时表示，他谈判这份协议是为了阻止冲突引发一场全球经济萧条。
+> 美国与伊朗于周四签署了这份协议，此前双方为期三个半月的冲突封锁了霍尔木兹海峡、震动了全球能源市场。特朗普==在美国本土时间周四晚间==接受采访时表示，他谈判这份协议是为了阻止冲突引发一场全球经济萧条。
 
 Asked what he had learned from the war about the limits to his power, Trump said that “I haven’t learned that lesson yet. I know there are, but there are no limits.”
 
