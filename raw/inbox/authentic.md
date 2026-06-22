@@ -1,7 +1,12 @@
 ---
+description: 真实的；正宗的；真诚的
 language:
   - 英语
-description: 真正的；确有其事
-created: 2026-05-01
+created: 2026-06-21
 ---
-choose photos for real-world scenes and authentic moments
+
+## 语境
+
+This is an **authentic** painting by Picasso, not a reproduction.
+
+> 这是毕加索的真迹，不是复制品。
