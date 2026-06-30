@@ -12,6 +12,47 @@ action 可能值：`ingest`、`batch-ingest`、`lint`、`refactor`、`query-arch
 
 ---
 
+## [2026-07-01] batch-ingest | 中道 + 创作者 + 鲎式生存
+
+蒸馏来源（4 份高价值素材）：
+
+- 《无人知晓》E31 中（孟岩，2026-06-29 转录）— 整期讲"中道"，串了一连串看似矛盾的金句（专注森林/细节决定成败、小步快跑/两年磨一剑、心理安全感/硬核文化、自我表达/忘记自我、风险与收益、成功/失败是成功之母…）
+- 《无人知晓》E39（孟岩 × 重轻，2026-06-23 转录）— 谈 Rick Rubin《The Creative Act》、创作者状态、不打稿、城市发展门槛、苏格拉底 "not wanting something is as good as having something"
+- 人物公众号《周末了，活得别太挑剔》（2026-05-24，2026-06-28 剪藏）— 鲎和蟑螂的生存策略
+- Seeking Alpha *Nvidia Stock: The Next Dividend Aristocrat?*（Steven Cress，2026-06-26，2026-06-28 剪藏）
+
+新建 wiki 条目（7 个）：
+
+- [[中道]] · thinking
+- [[班尼斯特效应]] · knowledge
+- [[心理安全感与硬核文化]] · knowledge
+- [[重轻]] · Reading（人物页）
+- [[《创造力法则》]] · Reading（书页，Rick Rubin *The Creative Act*）
+- [[不挑剔的生存策略]] · thinking
+- [[股息贵族]] · Investing
+
+更新文件：
+
+- [[index|Wiki Index]] — 加入 7 个新条目，移除上一轮 🆕，更新 Last compiled
+- [[log|Wiki Log]] — 本文件追加
+
+本轮跳过的源（含理由）：
+
+- `footprint/千岛湖.md`、`footprint/上海大学溜达一圈.md` — 只有 frontmatter / 空文件
+- `raw/inbox/Trump calls Iran deal 'unconditional surrender'…` — 空文件
+- `output/book/《黄仁勋与英伟达之芯》.md` — 空文件（仅 milestone card）
+- `output/VX公众号 初心.md` + `output/chat with ai/VX公众号 初心.md` — 用户自己的公众号草稿，是产出不反向蒸馏
+- `diary/20260619-20260628` — 个人随笔，按规矩不蒸馏
+
+待办（lint）：
+
+- [[中道]] 提到的「同时追求两件矛盾的事」（高德威/《长期主义》）值得有独立 Reading 页
+- [[《创造力法则》]] 提到的 [[有限与无限的游戏]] 是 dangling link，需要补
+- 旧 wiki 条目的一行摘要仍待补
+- 帕慕克的 hüzün（上一轮遗留）、渗透性自我里的「共具身性」（上一轮遗留）仍未拆条
+
+---
+
 ## [2026-06-16] batch-ingest | 帕慕克 + 通讯隔离
 
 蒸馏来源（2 份高价值素材）：
