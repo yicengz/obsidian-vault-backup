@@ -7,6 +7,7 @@ is_essay: false
 is_wx_article: true
 is_yiceng_public: true
 link: https://mp.weixin.qq.com/s/qWlEviAzrnxeL8qxKRrdYg
+publish_date: 2026-06-22
 ---
 > 你想要生活的那一刻，生命的火花就已经点亮了
 > 

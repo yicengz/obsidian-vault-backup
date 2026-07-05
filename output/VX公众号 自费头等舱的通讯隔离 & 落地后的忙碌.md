@@ -5,6 +5,7 @@ tags:
 is_wx_article: true
 is_yiceng_public: true
 link: https://mp.weixin.qq.com/s/fC-tl1PBCW2_rK8yzhts0g
+publish_date: 2026-06-15
 ---
 > > 剧烈的转变一般无法持久，而正念的生活恰恰要实现持久
 > 
