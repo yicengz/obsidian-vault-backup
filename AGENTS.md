@@ -275,3 +275,8 @@ obsidian help
 ```
 
 > 值：含空格时用引号，如 `name="My Note"`；换行用 `\n`
+
+
+## 播客订阅源
+
+- 《知行小酒馆》RSS 订阅链接：https://feed.xyzfm.space/j8yp8gxkmgqr
