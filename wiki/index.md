@@ -7,7 +7,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 由 AI 从 `raw/` 持续编译产出的知识库。不要手动整理，往 raw 里扔材料就够了。
 
-> 最近一次 ingest：[[log#2026-07-01|2026-07-01]]
+> 最近一次 ingest：[[log#2026-07-06|2026-07-06]]
 > 完整时间线：[[log|Wiki Log]]
 
 ## 主题地图
@@ -24,8 +24,10 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## Reading（书籍与人物）
 
-- [[《创造力法则》]] · 🆕 Rick Rubin *The Creative Act*，重轻译；金句体，关于"如何作为创作者活着"
-- [[重轻]] · 🆕 《不在场》主播，长期深思熟虑的创作者
+- [[《共同知识》]] · 🆕 平克 *Common Knowledge*，李井奎译；博弈论概念的日常化讲解
+- [[李井奎]] · 🆕 经济学者、译者；译了平克《共同知识》，也花十年独自翻译凯恩斯文集
+- [[《创造力法则》]] · Rick Rubin *The Creative Act*，重轻译；金句体，关于"如何作为创作者活着"
+- [[重轻]] · 《不在场》主播，长期深思熟虑的创作者
 - [[帕慕克]] · 土耳其作家，2006 诺奖；hüzün 是他写《伊斯坦布尔》时的底色
 - [[《不止减压的正念艺术》]] · 看理想节目（杨光&即非），世俗时代的精神修炼
 - [[《自我、爱与理想：给青年的哲学启蒙课》]] · 看理想节目（刘擎等），9 次走出现实桎梏的生命追问
@@ -39,8 +41,9 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## knowledge（可被引用的概念）
 
-- [[班尼斯特效应]] · 🆕 心理障碍被打破后群体跟随；"成功是成功之母"那半边的机制
-- [[心理安全感与硬核文化]] · 🆕 皮克斯/Google vs 马斯克的对照，可以并存
+- [[共同知识]] · 🆕 "我知道你知道，所有人都知道所有人都知道"；语言/货币/法律/产权的地基
+- [[班尼斯特效应]] · 心理障碍被打破后群体跟随；"成功是成功之母"那半边的机制
+- [[心理安全感与硬核文化]] · 皮克斯/Google vs 马斯克的对照，可以并存
 - [[通讯隔离]] · 主动设计"不能玩手机"的环境，让外部条件替自律工作
 - [[自我关怀]] · 不是"爱自己"，而是在真实关系里学会与脆弱共处的能力
 - [[渗透性自我]] · 自我不是有清晰边界的原子，而是虚线包裹的关系性存在
@@ -55,8 +58,8 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## thinking（思考框架）
 
-- [[中道]] · 🆕 不是折衷，是超越二元站到更高维度；金句不能当工具书查
-- [[不挑剔的生存策略]] · 🆕 鲎/蟑螂的生存策略，与"not wanting equals having"同根
+- [[中道]] · 不是折衷，是超越二元站到更高维度；金句不能当工具书查
+- [[不挑剔的生存策略]] · 鲎/蟑螂的生存策略，与"not wanting equals having"同根
 - [[自我洁净]] · 把"恶"放在外部，本质上是在保护自己免于审视（帕慕克）
 - [[死亡观]] · 柏拉图、伊壁鸠鲁、维特根斯坦的死亡哲学比较
 - [[成就感与目标]]
@@ -70,8 +73,8 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## Investing（投资）
 
-- [[股息贵族]] · 🆕 Dividend Aristocrat 概念页，以 NVDA 2026 转向为例
-- [[中国大类资产长期回报-SBBI2025|中国大类资产长期回报 (SBBI 2025)]] · 有知有行陈鹏 2025 年报核心结论
+- [[股息贵族]] · Dividend Aristocrat 概念页，以 NVDA 2026 转向为例
+- [[中国大类资产长期回报-SBBI2025|中国大类资产长期回报 (SBBI 2025)]] · 🔄 有知有行陈鹏 2025 年报核心结论；7-06 补入 E241 纸质版发布内容（三分解、AI 泡沫历史对比）
 - [[20250719 泸州老窖]]
 - [[202507272229 A股股票下跌]]
 - [[A股历史估值周期]]
@@ -99,4 +102,4 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ---
 
-*Last compiled: 2026-07-01 · 🆕 标记的是最近一次 ingest 新增的条目；旧条目的一行摘要将在后续 lint 中逐步补齐。*
+*Last compiled: 2026-07-06 · 🆕 标记的是最近一次 ingest 新增的条目，🔄 是被更新的旧条目；旧条目的一行摘要将在后续 lint 中逐步补齐。*
