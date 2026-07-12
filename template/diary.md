@@ -3,22 +3,4 @@ title:
 description:
 tags:
 is_diary: true
-is_essay: false
-is_wx_article: false
 ---
-# 日常
-
-珏珏子 | 心态处世 | 人际关系 | 投资
-
----
-
-# 工作
-
-
----
-
-# 吐槽
-
----
-
-# 每天问自己一个问题
