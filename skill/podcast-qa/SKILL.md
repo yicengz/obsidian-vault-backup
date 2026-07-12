@@ -37,6 +37,10 @@ description: 把关于播客逐字稿的 AI 问答保存到 Obsidian vault。当
    - 提取用户关于播客的问题和 AI 的回答。
    - 保留用户原话，不要缩写或释义 AI 的回答。
    - 多个问答轮次用 `---` 分隔。
+   - 每个问答块使用 `[!warning] <AI 名称>` callout：
+     - `[!warning]` 提供暖色（琥珀/橙色）底色。
+     - 标题写当前 AI 名称：`Kimi Code`、`Claude Code` 或 `其他`。
+     - 如果同一轮对话里换了 agent，每个 callout 标题都要对应更新。
 
 3. **调用脚本写入**
    推荐先把 Q&A 内容写到一个临时文件，再用 `--content-file` 传入：
@@ -46,6 +50,7 @@ description: 把关于播客逐字稿的 AI 问答保存到 Obsidian vault。当
      --show "无人知晓" \
      --episode "E43" \
      --title "没有更好的生活" \
+     --agent "Kimi Code" \
      --transcript "raw/podcasts/无人知晓/E43 张潇雨、孟岩对话许哲：没有更好的生活.md" \
      --content-file "/tmp/qa_content.md" \
      --link-diary
@@ -68,23 +73,26 @@ tags:
   - podcast/无人知晓
   - podcast-qa
 source: "[[E43 张潇雨、孟岩对话许哲：没有更好的生活|没有更好的生活]]"
+agent: Kimi Code
 is_diary: false
 is_essay: true
 is_wx_article: false
 ---
 ```
 
-正文（沿用 AGENTS.md 的 Claude callout 格式）：
+正文（暖色高亮块 + AI 来源标识）：
 ```markdown
-> [!Claude] 用户的问题原文
-
-AI 的回答正文……
+> [!warning] Kimi Code
+> 用户的问题原文
+>
+> AI 的回答正文……
 
 ---
 
-> [!Claude] 用户的追问原文
-
-AI 的回答正文……
+> [!warning] Kimi Code
+> 用户的追问原文
+>
+> AI 的回答正文……
 ```
 
 ## 播客逐字稿存放建议

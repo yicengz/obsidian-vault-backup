@@ -15,7 +15,7 @@ def slugify(text: str) -> str:
     return re.sub(r"[\\/:*?\"<>|]", "", text).strip()
 
 
-def build_frontmatter(show: str, episode: str, title: str, transcript: str) -> str:
+def build_frontmatter(show: str, episode: str, title: str, transcript: str, agent: str) -> str:
     """Generate Obsidian frontmatter for the Q&A note."""
     # Extract just the filename for wiki link if transcript is given as relative path
     transcript_name = Path(transcript).name if transcript else ""
@@ -24,6 +24,7 @@ def build_frontmatter(show: str, episode: str, title: str, transcript: str) -> s
     display_title = title or f"{show} {episode}"
 
     source_link = f'"[[{link_target}|{display_title}]]"' if link_target else ""
+    agent_line = f"agent: {agent}" if agent else ""
 
     return f"""---
 title: {show} {episode} 问答：{title}
@@ -32,6 +33,7 @@ tags:
   - podcast/{show}
   - podcast-qa
 source: {source_link}
+{agent_line}
 is_diary: false
 is_essay: true
 is_wx_article: false
@@ -40,7 +42,7 @@ is_wx_article: false
 """
 
 
-def write_qa_note(vault: Path, show: str, episode: str, title: str, transcript: str, content: str, timestamp: Optional[datetime] = None) -> Path:
+def write_qa_note(vault: Path, show: str, episode: str, title: str, transcript: str, agent: str, content: str, timestamp: Optional[datetime] = None) -> Path:
     """Write the Q&A note to raw/inbox/."""
     inbox = vault / "raw" / "inbox"
     inbox.mkdir(parents=True, exist_ok=True)
@@ -56,7 +58,7 @@ def write_qa_note(vault: Path, show: str, episode: str, title: str, transcript: 
         note_path = original_path.with_name(f"{original_path.stem}-{counter}.md")
         counter += 1
 
-    frontmatter = build_frontmatter(show, episode, title, transcript)
+    frontmatter = build_frontmatter(show, episode, title, transcript, agent)
     note_path.write_text(frontmatter + content, encoding="utf-8")
     return note_path
 
@@ -101,6 +103,7 @@ def main() -> int:
     parser.add_argument("--episode", required=True, help="Episode number or ID")
     parser.add_argument("--title", required=True, help="Episode title")
     parser.add_argument("--transcript", default="", help="Relative path to transcript note (e.g. raw/podcasts/...)")
+    parser.add_argument("--agent", default="Kimi Code", help="AI agent name (e.g. 'Kimi Code', 'Claude Code')")
     parser.add_argument("--content", default="", help="Q&A markdown content (inline)")
     parser.add_argument("--content-file", help="Path to file containing Q&A markdown content")
     parser.add_argument("--timestamp", help="Timestamp in YYYYMMDDHHMMSS format (default: now)")
@@ -140,6 +143,7 @@ def main() -> int:
         episode=args.episode,
         title=args.title,
         transcript=args.transcript,
+        agent=args.agent,
         content=content,
         timestamp=timestamp,
     )
