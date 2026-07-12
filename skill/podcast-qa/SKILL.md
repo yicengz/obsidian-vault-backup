@@ -15,6 +15,7 @@ description: 把关于播客逐字稿的 AI 问答保存到 Obsidian vault。当
 - 播客逐字稿建议位置：`raw/podcasts/<节目名>/<期数> <标题>.md`
 - Q&A 输出位置：`raw/inbox/YYYYMMDDHHMMSS.md`
 - 今日日记：`diary/YYYYMMDD.md`
+- 自定义高亮块样式：`.obsidian/snippets/ai-callout.css`（已启用）
 
 ## 何时使用
 
@@ -37,9 +38,10 @@ description: 把关于播客逐字稿的 AI 问答保存到 Obsidian vault。当
    - 提取用户关于播客的问题和 AI 的回答。
    - 保留用户原话，不要缩写或释义 AI 的回答。
    - 多个问答轮次用 `---` 分隔。
-   - 每个问答块使用 `[!warning] <AI 名称>` callout：
-     - `[!warning]` 提供暖色（琥珀/橙色）底色。
-     - 标题写当前 AI 名称：`Kimi Code`、`Claude Code` 或 `其他`。
+   - 每个问答块使用 `[!ai]` callout：
+     - `[!ai]` 是自定义高亮块，米色暖色底色（由 `.obsidian/snippets/ai-callout.css` 控制）。
+     - 如果知道当前 agent 名称，标题写 agent：`[!ai] Kimi Code`、`[!ai] Claude Code`、`[!ai] ChatGPT` 等。
+     - 如果不知道或不确定 agent，只用 `[!ai]`，不要硬填默认值。
      - 如果同一轮对话里换了 agent，每个 callout 标题都要对应更新。
 
 3. **调用脚本写入**
@@ -51,6 +53,18 @@ description: 把关于播客逐字稿的 AI 问答保存到 Obsidian vault。当
      --episode "E43" \
      --title "没有更好的生活" \
      --agent "Kimi Code" \
+     --transcript "raw/podcasts/无人知晓/E43 张潇雨、孟岩对话许哲：没有更好的生活.md" \
+     --content-file "/tmp/qa_content.md" \
+     --link-diary
+   ```
+
+   如果不知道当前 agent，省略 `--agent`：
+   ```bash
+   python3 "~/Library/Mobile Documents/iCloud~md~obsidian/Documents/yiceng/skill/podcast-qa/scripts/save_qa.py" \
+     --vault "~/Library/Mobile Documents/iCloud~md~obsidian/Documents/yiceng" \
+     --show "无人知晓" \
+     --episode "E43" \
+     --title "没有更好的生活" \
      --transcript "raw/podcasts/无人知晓/E43 张潇雨、孟岩对话许哲：没有更好的生活.md" \
      --content-file "/tmp/qa_content.md" \
      --link-diary
@@ -80,17 +94,27 @@ is_wx_article: false
 ---
 ```
 
-正文（暖色高亮块 + AI 来源标识）：
+- `agent` 字段只在明确知道当前 agent 时写入；不知道时整个字段省略，不要硬填默认值。
+
+正文（米色暖色高亮块 + AI 来源标识）：
 ```markdown
-> [!warning] Kimi Code
+> [!ai] Kimi Code
 > 用户的问题原文
 >
 > AI 的回答正文……
 
 ---
 
-> [!warning] Kimi Code
+> [!ai] Kimi Code
 > 用户的追问原文
+>
+> AI 的回答正文……
+```
+
+如果不知道 agent：
+```markdown
+> [!ai]
+> 用户的问题原文
 >
 > AI 的回答正文……
 ```
@@ -118,3 +142,4 @@ raw/podcasts/知行小酒馆/E221 对话张潇雨：生活太重要，以至于�
 - "找不到播客文件"：检查 `raw/podcasts/<节目名>/` 下是否有对应 md 文件。
 - "日记链接失败"：通常是因为 `diary/YYYYMMDD.md` 不存在；脚本会尝试创建。
 - 中文路径问题：脚本使用 UTF-8，路径含空格时记得加引号。
+- 高亮块没有米色：检查 `.obsidian/snippets/ai-callout.css` 是否存在且已在 Settings → Appearance → CSS snippets 中启用。

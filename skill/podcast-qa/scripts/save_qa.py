@@ -23,8 +23,8 @@ def build_frontmatter(show: str, episode: str, title: str, transcript: str, agen
     link_target = transcript_name.removesuffix(".md") if transcript_name else ""
     display_title = title or f"{show} {episode}"
 
-    source_link = f'"[[{link_target}|{display_title}]]"' if link_target else ""
-    agent_line = f"agent: {agent}" if agent else ""
+    source_line = f'source: "[[{link_target}|{display_title}]]"\n' if link_target else ""
+    agent_line = f"agent: {agent}\n" if agent else ""
 
     return f"""---
 title: {show} {episode} 问答：{title}
@@ -32,9 +32,7 @@ description: 基于《{display_title}》逐字稿的 AI 问答
 tags:
   - podcast/{show}
   - podcast-qa
-source: {source_link}
-{agent_line}
-is_diary: false
+{source_line}{agent_line}is_diary: false
 is_essay: true
 is_wx_article: false
 ---
@@ -103,7 +101,7 @@ def main() -> int:
     parser.add_argument("--episode", required=True, help="Episode number or ID")
     parser.add_argument("--title", required=True, help="Episode title")
     parser.add_argument("--transcript", default="", help="Relative path to transcript note (e.g. raw/podcasts/...)")
-    parser.add_argument("--agent", default="Kimi Code", help="AI agent name (e.g. 'Kimi Code', 'Claude Code')")
+    parser.add_argument("--agent", default="", help="AI agent name (e.g. 'Kimi Code', 'Claude Code'); leave empty if unknown")
     parser.add_argument("--content", default="", help="Q&A markdown content (inline)")
     parser.add_argument("--content-file", help="Path to file containing Q&A markdown content")
     parser.add_argument("--timestamp", help="Timestamp in YYYYMMDDHHMMSS format (default: now)")
