@@ -12,6 +12,46 @@ action 可能值：`ingest`、`batch-ingest`、`lint`、`refactor`、`query-arch
 
 ---
 
+## [2026-07-19] batch-ingest | FIFA 硅谷101 + 世界杯申办 + The Day the World Stops Shopping
+
+蒸馏来源：
+
+- 剪藏《国际足联腐败史：英国老头、足球的权力共生网络与"免死金牌"【硅谷101】》— 有完整 8000+ 字 transcript（英文），从 Sepp Blatter 2015 辞职讲到 1974 Havelange 上位、cash-for-votes、ISL 独家代理、Andrew Jennings 揭黑
+- 剪藏《为啥世界杯各国抢着申办 奥运会却没人想办了？》— 中文 transcript，讲主办方经济学 + 卡塔尔 $200B 基建 IPO 逻辑，与上一份对照阅读
+- epub《The Day the World Stops Shopping》(J. B. MacKinnon 2021) — 本地转 md（2026-07-18 用户单独让做的），思想实验：全球消费下降 25% 会怎样
+
+新建 wiki 条目（2 个）：
+
+- [[权力共生网络]] · knowledge — 从 FIFA 抽象出的通用框架，可套到 IOC / 行业协会 / 学术评议
+- [[The Day the World Stops Shopping]] · Reading — 英文书，plain title（不用《》）
+
+更新文件：
+
+- [[index|Wiki Index]] — 加两条新 🆕 条目，清掉上一轮 🆕 标记，更新 Last compiled 到 2026-07-19
+- 日记链接（不属 wiki 范围，但同一轮做）：
+  - 更新 20260713 / 20260715 / 20260717 日记，补入当日 clip
+  - 新建 20260714 / 20260718 日记
+  - 20260719 已存在，补入两条今日 clip
+
+本轮跳过的源（含理由）：
+
+- 剪藏《国际足联腐败史》(YouTube 版) — 与硅谷101 版为同一内容不同平台，去重
+- 剪藏《10. 哪有什么早恋（爱与痛）》/《22. 中国人的婚姻（爱与怕）》/《番外 AI 有资格成为创作者吗？》— 只有 description，无 transcript，暂无法蒸馏概念
+- 剪藏《魔头恶邻内战瘟疫【中非10丨刚果（金）】》— 有 transcript（27KB），但属于"中非系列"，单独一集不好抽象概念页，等系列凑齐或专门讨论刚果金地缘时再动
+- 剪藏《美股歷史新高，2026 下半年怎麼佈局？》— 有 transcript，属于 Investing/时效性观点，是否入 wiki 待议（作者 Terry 已多次出现在 inbox，可等 Terry 人物页统一处理）
+- 剪藏《科技業工作 10 年後，我正式離開職場》/《Covered call 问答》(inbox) — Terry 系列同上
+- 剪藏《奥本海默》第一集 — 只有描述无 transcript；第二集有 3700 字 transcript，可单独做 Reading/《奥本海默》页，本轮未做（token 预算）
+- inbox `冲浪板.md` — 空文件
+
+待办（lint）：
+
+- [[接入换沉默]] — 权力共生网络 里的核心子概念，值得单独一页（体育记者 press pass 机制 → 一般化到其它领域的媒体沉默）
+- Reading/《奥本海默》— 用第二集 transcript 蒸馏，也可去搜第一集完整版补上
+- 中非 10 · 刚果（金）— 等其它中非系列凑齐后一起做 knowledge/中非地缘政治
+- Terry 人物页 — inbox 20260715143000 + 剪藏两篇科技业离职内容凑齐后建 Reading/Terry
+
+---
+
 ## [2026-07-12] batch-ingest | 5 集《无人知晓》+《知行小酒馆》E221
 
 蒸馏来源（5 份高价值素材，都是最近整理成分说话人版本的 podcast）：
