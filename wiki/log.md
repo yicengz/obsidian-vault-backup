@@ -34,7 +34,7 @@ thinking（1 个）：
 - [[分类系统的反噬]] · 跨领域 pattern，从 [[《鱼不存在》]] × [[The Day the World Stops Shopping]] 对读抽出；四动作模型 + "谁有权定义分类"的伦理追问
 
 Tech（1 个）：
-- [[FDE]] · Forward Deployed Engineer；AI 落地"最后一公里"的岗位，a16z 称"科技行业最火的岗位"
+- [[FDE|FDE（Forward Deployed Engineer）]] · Forward Deployed Engineer；AI 落地"最后一公里"的岗位，a16z 称"科技行业最火的岗位"
 
 更新文件：
 

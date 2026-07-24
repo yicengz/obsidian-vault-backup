@@ -107,7 +107,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## Tech（技术）
 
-- [[FDE]] · 🆕 Forward Deployed Engineer——嵌入客户内部干活的工程师；AI 落地"最后一公里"，a16z 称"科技行业最火的岗位"
+- [[FDE|FDE（Forward Deployed Engineer）]] · 🆕 Forward Deployed Engineer——嵌入客户内部干活的工程师；AI 落地"最后一公里"，a16z 称"科技行业最火的岗位"
 - [[LLM知识库模式|LLM 知识库模式]]
 - [[Perplexity]]
 - [[个人AI工作流]]
