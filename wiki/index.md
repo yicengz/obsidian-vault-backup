@@ -7,7 +7,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 由 AI 从 `raw/` 持续编译产出的知识库。不要手动整理，往 raw 里扔材料就够了。
 
-> 最近一次 ingest：[[log#2026-07-19|2026-07-19]]
+> 最近一次 ingest：[[log#2026-07-25|2026-07-25]]
 > 完整时间线：[[log|Wiki Log]]
 
 ## 主题地图
@@ -24,8 +24,10 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## Reading（书籍与人物）
 
-- [[The Day the World Stops Shopping]] · 🆕 J. B. MacKinnon 2021；如果全球消费下降 25% 会怎样的思想实验，从 Ju|'hoansi 讲到外部性定价
-- [[孟岩]] · 有知有行创始人 + 无人知晓主播；wiki 里 podcast 蒸馏的中心枢纽
+- [[《鱼不存在》]] · 🆕 Lulu Miller 2020；Jordan 分类学 + 优生学 + 崩塌，孟岩说这是他读过对他影响最大的书
+- [[《奥本海默》]] · 🆕 Nolan 2023 传记片 + 普朗特 B 站深度解析；1938 铀核裂变到 1943 曼哈顿计划的这一段
+- [[The Day the World Stops Shopping]] · 🔄 J. B. MacKinnon 2021；如果全球消费下降 25% 会怎样的思想实验，从 Ju|'hoansi 讲到外部性定价；新加 [[《鱼不存在》]] 交叉引用
+- [[孟岩]] · 🔄 有知有行创始人 + 无人知晓主播；wiki 里 podcast 蒸馏的中心枢纽；补 E37「鱼不存在」
 - [[张潇雨]] · 得意忘形主播、有知有行发起人之一；"人生逻辑大于一切逻辑"
 - [[李继刚]] · 读书人 + 提示词工程实践者；三个底层公理（贝叶斯/奥卡姆/万有理论）
 - [[许哲]] · 衍生品交易员，塔勒布路线；从投资一路讲到能所双亡
@@ -47,7 +49,8 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## knowledge（可被引用的概念）
 
-- [[权力共生网络]] · 🆕 "我让你发财、你保我连任"——从 FIFA 权力结构抽象出的通用框架；一票权 + 资源垄断 + 接入换沉默三件套
+- [[蒲公英原则]] · 🆕 同一样事物在不同情境价值不同——反驳"神圣阶梯"式的一元排序；出自 [[《鱼不存在》]]
+- [[权力共生网络]] · "我让你发财、你保我连任"——从 FIFA 权力结构抽象出的通用框架；一票权 + 资源垄断 + 接入换沉默三件套
 - [[命运杀猪盘]] · 张潇雨发明；"为你量身定制的那一款陷阱"，命运用来打破固有模式
 - [[反脆弱]] · 塔勒布；脆弱的反义词不是坚固，而是"从波动中变得更好"
 - [[黑天鹅]] · 塔勒布；样本外的新元素，不一定是坏事
@@ -71,6 +74,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## thinking（思考框架）
 
+- [[分类系统的反噬]] · 🆕 人类为对抗混乱发明的分类反过来吃掉发明者；从 [[《鱼不存在》]] × [[The Day the World Stops Shopping]] 对读抽出
 - [[无我的行动]] · 张潇雨 + 李继刚；只有选择没有选择者，去掉"我"这个心理结构
 - [[Feel the feeling]] · 张潇雨；感受情绪 vs 分析情绪，"疗愈是最大的骗局"
 - [[取景框]] · 李继刚；世界观 = 我用哪个取景框看，都是本体的投影
@@ -103,6 +107,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## Tech（技术）
 
+- [[FDE]] · 🆕 Forward Deployed Engineer——嵌入客户内部干活的工程师；AI 落地"最后一公里"，a16z 称"科技行业最火的岗位"
 - [[LLM知识库模式|LLM 知识库模式]]
 - [[Perplexity]]
 - [[个人AI工作流]]
@@ -121,4 +126,4 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ---
 
-*Last compiled: 2026-07-19 · 🆕 标记的是最近一次 ingest 新增的条目，🔄 是被更新的旧条目；旧条目的一行摘要将在后续 lint 中逐步补齐。*
+*Last compiled: 2026-07-25 · 🆕 标记的是最近一次 ingest 新增的条目，🔄 是被更新的旧条目；旧条目的一行摘要将在后续 lint 中逐步补齐。*
