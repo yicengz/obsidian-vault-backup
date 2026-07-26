@@ -1,0 +1,53 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "BiliBili",
+	"behavior": "create",
+	"noteContentFormat": "{{content}}",
+	"properties": [
+		{
+			"name": "title",
+			"value": "{{title}}",
+			"type": "text"
+		},
+		{
+			"name": "author",
+			"value": "{{selector:.up-name}}",
+			"type": "multitext"
+		},
+		{
+			"name": "link",
+			"value": "{{url}}",
+			"type": "text"
+		},
+		{
+			"name": "publish_date",
+			"value": "{{selector:.pubdate-ip-text}}",
+			"type": "date"
+		},
+		{
+			"name": "clip_date",
+			"value": "{{date}}",
+			"type": "date"
+		},
+		{
+			"name": "description",
+			"value": "{{description}}",
+			"type": "text"
+		},
+		{
+			"name": "trigger",
+			"value": "bilibili.com/video",
+			"type": "multitext"
+		},
+		{
+			"name": "tags",
+			"value": "clippings",
+			"type": "multitext"
+		}
+	],
+	"triggers": [
+		"https://www.bilibili.com/"
+	],
+	"noteNameFormat": "{{title}}",
+	"path": "raw/clippings"
+}
