@@ -74,7 +74,8 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## thinking（思考框架）
 
-- [[分类系统的反噬]] · 🆕 人类为对抗混乱发明的分类反过来吃掉发明者；从 [[《鱼不存在》]] × [[The Day the World Stops Shopping]] 对读抽出
+- [[两个大脑]] · 🆕 达利欧×刘嘉×杨光的三重镜像；心智不是单一主体，"想自己正确"是共同头号敌人，元认知是共同出口
+- [[分类系统的反噬]] · 人类为对抗混乱发明的分类反过来吃掉发明者；从 [[《鱼不存在》]] × [[The Day the World Stops Shopping]] 对读抽出
 - [[无我的行动]] · 张潇雨 + 李继刚；只有选择没有选择者，去掉"我"这个心理结构
 - [[Feel the feeling]] · 张潇雨；感受情绪 vs 分析情绪，"疗愈是最大的骗局"
 - [[取景框]] · 李继刚；世界观 = 我用哪个取景框看，都是本体的投影
