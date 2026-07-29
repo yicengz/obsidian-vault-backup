@@ -155,3 +155,149 @@ A really strong technique is concession followed by rebuttal. You acknowledge th
 
 It actually makes you more persuasive, because it shows you've understood the other point of view. You're not just ignoring it. While it's true that…, we have to remember that… — that kind of structure is very powerful.
 
+## ~25:00 技巧④ 用提问掌控节奏 · 苏格拉底式发问
+
+[[#章节速览|↑ 返回章节速览]]
+
+> [!QUOTE] 章节概要
+> 第四个技巧:不一定总是自己陈述,多用提问(Socratic questioning)把球推回给对方,让对方自己暴露论证的漏洞。Ray 提醒要小心"诱导性提问"(loaded question):那种把未经证实的前提冒充成事实的问法。他举了经典的 Mrs Merton 式调侪例子。Luke 则玩笑说自己要开始像纪录片主持人那样连珠炮式追问。
+
+### Ray Addam @ ~25:00
+
+Questions are a great tool. Instead of just stating your view, you can ask: What evidence do you have for that? or How would that actually work in practice? Socratic questioning makes the other person do the work and often reveals the holes in their argument.
+
+### Ray Addam @ ~27:00
+
+But watch out for the loaded question — a question with an unproven assumption baked in. The classic example is Mrs Merton asking Debbie McGee: So what first attracted you to the millionaire <tl-view><tl-origin>Paul</tl-origin><tl-mask>[ph_real_name_7_ph]</tl-mask></tl-view> Daniels? The assumption is hidden inside the question.
+
+### Luke @ ~28:00
+
+Right, so I could go full documentary presenter here — I'll be <tl-view><tl-origin>Louis</tl-origin><tl-mask>[ph_real_name_8_ph]</tl-mask></tl-view> Theroux, just asking innocent-sounding questions and letting the other person talk themselves into a corner.
+
+## ~29:00 技巧⑤ 情态动词与缓和语 hedging
+
+[[#章节速览|↑ 返回章节速览]]
+
+> [!QUOTE] 章节概要
+> 第五个技巧:用情态动词和缓和语(hedging)让措辞既坚定又不咄咄逼人。"might / could / tends to / arguably / to some extent"这些词给结论留余地,反而显得你严谨。Ray 对比了"You're completely wrong"与"I'm not sure I'd agree with that"两种语气的天壤之别。
+
+### Ray Addam @ ~29:00
+
+Hedging is important. Instead of saying that's completely wrong, which sounds aggressive, you can soften it: I'm not sure I'd agree with that, or That might be true in some cases, but… Modal verbs like might, could, may give you room to manoeuvre.
+
+### Ray Addam @ ~31:00
+
+Words like arguably, tends to, to some extent make you sound more measured and more credible. Paradoxically, being a bit less absolute often makes your argument stronger, not weaker.
+
+## ~33:00 逻辑谬误与不正当招数 · straw man 与 ad hominem
+
+[[#章节速览|↑ 返回章节速览]]
+
+> [!QUOTE] 章节概要
+> Ray 带 Luke 认识几种常见的逻辑谬误与不正当招数:稻草人(straw man,曲解对方观点再打)、人身攻击(ad hominem,对人不对事)、诉诸情感(appeal to emotion)、滑坡谬误(slippery slope)。他强调认出这些招数,既能防守也能让自己辩得更干净。
+
+### Ray Addam @ ~33:00
+
+A straw man is when you misrepresent the other person's argument to make it easier to attack. They say we should reduce car use, and you reply so you want to ban all cars? — that's a straw man. You're knocking down an argument they never made.
+
+### Ray Addam @ ~36:00
+
+Ad hominem is attacking the person instead of the argument. And the slippery slope says if we allow A, then B and C will inevitably follow — usually without any evidence for that chain. Recognising these keeps the debate honest.
+
+## ~38:00 迷你辩论一 · 猫 vs 狗
+
+[[#章节速览|↑ 返回章节速览]]
+
+> [!QUOTE] 章节概要
+> 第一场轻松实战:猫 vs 狗。两人各选一方,现场套用前面的技巧——先下定义(什么叫"更好的宠物")、亮立场、用信号词分点、再让步反驳。这是一个轻松但完整展示"技巧如何落地"的例子。
+
+### Luke @ ~38:00
+
+Okay, let's actually do one. Cats versus dogs. I'll argue for dogs. Firstly, let's define our terms: by better pet I mean more rewarding for the average owner. Dogs are loyal, they're social, and they get you out of the house for walks.
+
+### Ray Addam @ ~40:00
+
+Admittedly, dogs need a lot of attention — I'll concede that. But cats are independent, low-maintenance, and clean. So while it's true that dogs are affectionate, I would argue that cats are the more practical pet for modern life.
+
+## ~43:00 迷你辩论二 · 该不该留家庭作业
+
+[[#章节速览|↑ 返回章节速览]]
+
+> [!QUOTE] 章节概要
+> 第二场:该不该给学生留家庭作业。这回两人刷了立场,让不同于自己真实看法的一方去辩。辩论中自然用上了 detrimental、transformative、credibility 等高级词,为结尾的词汇复盘埋下伏笔。
+
+### Ray Addam @ ~43:00
+
+I'll take the position that homework is detrimental. To sum up my case: it eats into family time, it increases stress, and there's limited evidence that it actually improves learning for younger children.
+
+### Luke @ ~45:00
+
+On the other hand, I'd argue homework can be transformative if it's done well. It teaches independence and self-discipline. Admittedly, bad homework is pointless — but that's an argument for better homework, not for no homework at all.
+
+## ~48:00 迷你辩论三 · 严肃议题与魔鬼代言人
+
+[[#章节速览|↑ 返回章节速览]]
+
+> [!QUOTE] 章节概要
+> 第三场转向一个更严肃的社会议题,两人刷扮演"魔鬼代言人"(devil's advocate)——故意为自己并不认同的立场辩护,以此训练思辨。Ray 强调这正是辩论的高阶玩法:能为你不信的东西找出最好的论据,才真正理解了一个话题。
+
+### Ray Addam @ ~48:00
+
+A useful exercise is to play devil's advocate — argue for a position you don't actually hold. It forces you to understand the other side properly, and to build the strongest possible case for it, not a weak version you can easily knock down.
+
+### Luke @ ~51:00
+
+That's genuinely hard, but rewarding. If you can argue the opposite of what you believe, and do it in good faith, you understand the whole issue much better. It stops you being combative and makes you think.
+
+## ~54:00 离题 · 地平说、脱欧与 in bad faith 的争论
+
+[[#章节速览|↑ 返回章节速览]]
+
+> [!QUOTE] 章节概要
+> 两人聊到有些话题"越辩越没结果"——比如地平说和脱欧。Ray 指出关键在于对方是否"in good faith"(善意讲理):若对方无视一切证据、只为赢而辩(in bad faith),那辩论就失去了意义。这也呼应了全集反复强调的"真诚"原则。
+
+### Ray Addam @ ~54:00
+
+Some debates are exhausting because the other person isn't arguing in good faith. Think flat earth, or some Brexit arguments — no amount of evidence will change their mind, because they're not actually engaging with the facts. That's arguing in bad faith.
+
+### Luke @ ~57:00
+
+And that's the difference. A good-faith debate can be genuinely rewarding, even if you disagree. A bad-faith one is just egregious — someone dismantling your points with no intention of ever listening. At that stage it's fine to walk away.
+
+## ~59:00 Luke 的词汇回顾 · Oh that's a good word
+
+[[#章节速览|↑ 返回章节速览]]
+
+> [!QUOTE] 章节概要
+> 照例的结尾环节:Luke 把整集里冒出来的高级词逐个"Oh, that's a good word"地点名并解释。这些词包括:egregious(恶劣到惊人的)、contentious(易引争议的)、combative(好斗的)、dismantle(逐条拆解论点)、transformative(带来巨大改变的)、demeanour(举止神态)、detrimental(有害的)、credibility(可信度)、in good/bad faith(善意/恶意地)、rewarding(有收获的)、interject(插话)、innocuous(无害的)。详见下方词汇表。
+
+### Luke @ ~59:00
+
+Oh, that's a good word — egregious. It means shockingly bad, really outrageously bad. And contentious, meaning likely to cause disagreement. These are the kinds of words that come up naturally when you debate, and that's exactly why debating is such good vocabulary practice.
+
+### Luke @ ~61:00
+
+Thank you so much to Ray for this. You can find him on Instagram at learn English with Ray, and check out his school, Elevate English. Now let's quickly go through some of the best words and phrases that came up in this conversation.
+
+# 本集精选词汇
+
+| 词 / 词组 | 释义 | 语境例句 |
+|---|---|---|
+| argument (vs quarrel) | 论证 / 说理(区别于吵架) | We mean presenting a case for a position, not having a quarrel. |
+| define your terms | 给(关键)术语下定义 | The first thing you should do is define your terms. |
+| take a position / sit on the fence | 亮明立场 / 骑墙观望 | Take a clear position. Don't sit on the fence. |
+| signposting | (用信号词)为论证标明结构 | Use signposting language: firstly, on the other hand, to sum up. |
+| concession & rebuttal | 先让步、后反驳 | A strong technique is concession followed by rebuttal. |
+| Socratic questioning | 苏格拉底式提问 | Socratic questioning makes the other person do the work. |
+| loaded question | 诱导性提问(预设前提) | Watch out for the loaded question — an assumption baked in. |
+| straw man | 稻草人谬误(曲解后再打) | That's a straw man — an argument they never made. |
+| ad hominem | 对人不对事的人身攻击 | Ad hominem is attacking the person instead of the argument. |
+| slippery slope | 滑坡谬误 | The slippery slope says if we allow A, then B and C follow. |
+| hedging (modal verbs) | 缓和语气 / 情态动词修饰 | Hedging: might, could, arguably, to some extent. |
+| devil's advocate | 魔鬼代言人(故意唱反调) | Play devil's advocate — argue a position you don't hold. |
+| in good faith / in bad faith | 善意地 / 恶意地(辩论) | If you argue in good faith, you understand the issue better. |
+| egregious | 恶劣到惊人的 | A bad-faith debate is just egregious. |
+| contentious | 易引争议的 | Contentious — likely to cause disagreement. |
+| dismantle (an argument) | 逐条拆解(论点) | Someone dismantling your points with no intention of listening. |
+| detrimental | 有害的 | I'll take the position that homework is detrimental. |
+| innocuous | 无害的 / 不起眼的 | Just asking innocent, innocuous-sounding questions. |
