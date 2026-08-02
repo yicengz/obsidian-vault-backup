@@ -1888,9 +1888,7 @@ Already, designers of video games and other virtual realms have noticed that use
 
 On the day the world stops shopping, we really might move consumer culture into digital space, where it can grow and accelerate until we are finally ready to let it go. A warning, though: we still might be waiting a while. The idea that the consumer appetite will one day meet its natural limit, after all, is not a new one. William Stanley Jevons said the same about the material economy, more than 150 years ago.
 
-## 20.
-
-## It's Like a World With Fewer People But Without Losing the People
+## 20. It's Like a World With Fewer People But Without Losing the People
 
 Rumiko Obata likes to say that she was born in a brewery. For four generations, her family had produced sake in a long, barn-like storehouse called a *kura* on the shore of the Sea of Japan. Inside was a warren of rooms, a subterranean kingdom where musty odours hung like sea fog and Shinto shrines to the spirit of sake glittered from dark corners. As a girl, Obata would play within this labyrinth, but later dreamed of escape from so much tradition and antiquity. She wanted to march into the modern world. She wanted off Sado Island.
 
@@ -2000,9 +1998,7 @@ It is easy to wave this off as the apocalyptic vision of a man who has watched h
 
 The Japanese word for consumption is *shohi*. It was created in the nineteenth century from two other words, *hi,* to spend, and *sho*, to extinguish, like a fire that burns itself to ashes. The roots of the English word are similar: to consume originally meant to utterly exhaust what existed before, to leave nothing behind, as though devoured by flame. If we are to consume more and more, it will have to be more of everything: more opportunities and more exhaustion, more experiences and more distraction, more depth but also more shallowness, more fullness but also more emptiness. We will consume time, space, life, death. We'll consume others and we'll consume ourselves. It all goes into the fire.
 
-## 21.
-
-## One Hundred and Fifty Thousand Years Later ...
+## 21. One Hundred and Fifty Thousand Years Later ...
 
 The Ju\|'hoan village of Duin Pos, which is how you spell Dune Post in Afrikaans, is no longer in sight, lost somewhere in the flat scrub of the Kalahari Desert. Five women spread like a hand across the landscape, seeming to feel their way forward, lightly and quickly. It's high season for bush potatoes, wild tubers that are delicious when roasted, or sweet and refreshing---like mild sugar cane---when raw. No more than a few moments ever pass before one of the party bends to dig, vigorously, despite an air temperature that still hovers above 40 degrees Celsius in these cooler hours of late afternoon.
 
