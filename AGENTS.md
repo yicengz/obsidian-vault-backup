@@ -281,3 +281,10 @@ obsidian help
 
 - 《知行小酒馆》RSS 订阅链接：https://feed.xyzfm.space/j8yp8gxkmgqr
 - 《无人知晓》RSS 订阅链接：https://feed.xyzfm.space/ypn9dydpbxpc
+
+
+## 券商 / 账户资源
+
+- **IBKR 资金进出明细导出**：https://www.interactivebrokers.com.hk/AccountManagement/AmAuthentication?action=RpTransactionHistory#!#1a71299f-7456-4d2f-b5af-5a9996f02c35
+  - 用途：导出所有资金进出记录，可追溯完整投资历史
+  - 需先登录 IBKR 账户
