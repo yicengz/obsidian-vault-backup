@@ -47,7 +47,7 @@ description: 把关于播客逐字稿的 AI 问答保存到 Obsidian vault。当
 3. **调用脚本写入**
    推荐先把 Q&A 内容写到一个临时文件，再用 `--content-file` 传入：
    ```bash
-   python3 "~/Library/Mobile Documents/iCloud~md~obsidian/Documents/yiceng/skill/podcast-qa/scripts/save_qa.py" \
+   /opt/homebrew/bin/python3.14 "~/Library/Mobile Documents/iCloud~md~obsidian/Documents/yiceng/skill/podcast-qa/scripts/save_qa.py" \
      --vault "~/Library/Mobile Documents/iCloud~md~obsidian/Documents/yiceng" \
      --show "无人知晓" \
      --episode "E43" \
@@ -60,7 +60,7 @@ description: 把关于播客逐字稿的 AI 问答保存到 Obsidian vault。当
 
    如果不知道当前 agent，省略 `--agent`：
    ```bash
-   python3 "~/Library/Mobile Documents/iCloud~md~obsidian/Documents/yiceng/skill/podcast-qa/scripts/save_qa.py" \
+   /opt/homebrew/bin/python3.14 "~/Library/Mobile Documents/iCloud~md~obsidian/Documents/yiceng/skill/podcast-qa/scripts/save_qa.py" \
      --vault "~/Library/Mobile Documents/iCloud~md~obsidian/Documents/yiceng" \
      --show "无人知晓" \
      --episode "E43" \
