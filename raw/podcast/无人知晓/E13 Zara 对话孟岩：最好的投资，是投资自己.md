@@ -2,6 +2,7 @@
 title: E13 Zara 对话孟岩：最好的投资，是投资自己
 podcast: 无人知晓
 transcribed_at: 2026-07-12
+publish_date: 2022-05-25
 ---
 
 > 主播:孟岩

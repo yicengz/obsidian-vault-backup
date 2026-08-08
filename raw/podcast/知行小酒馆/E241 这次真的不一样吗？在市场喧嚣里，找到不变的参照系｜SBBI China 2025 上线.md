@@ -2,6 +2,7 @@
 title: E241 这次真的不一样吗？在市场喧嚣里，找到不变的参照系｜SBBI China 2025 上线
 podcast: 知行小酒馆
 transcribed_at: 2026-07-06
+publish_date: 2026-07-03
 ---
 
 > 主播:雨白

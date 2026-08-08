@@ -2,6 +2,7 @@
 title: E28 Steve 对话孟岩：允许一切，如其所是
 podcast: 无人知晓
 transcribed_at: 2026-07-12
+publish_date: 2023-06-06
 ---
 
 > 主播:孟岩
