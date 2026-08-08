@@ -2,6 +2,7 @@
 title: E185 对话微软中国CTO韦青：不是人类没有未来，是活成机器的人类没有未来
 podcast: 知行小酒馆
 transcribed_at: 2026-08-08
+publish_date: 2025-04-18
 ---
 
 > 主播:雨白

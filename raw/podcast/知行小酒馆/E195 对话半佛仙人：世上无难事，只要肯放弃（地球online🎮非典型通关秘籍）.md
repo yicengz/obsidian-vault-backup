@@ -2,6 +2,7 @@
 title: E195 对话半佛仙人：世上无难事，只要肯放弃（地球online🎮非典型通关秘籍）
 podcast: 知行小酒馆
 transcribed_at: 2026-08-08
+publish_date: 2025-07-11
 ---
 
 > 主播:雨白
