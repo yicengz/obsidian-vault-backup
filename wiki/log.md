@@ -40,7 +40,7 @@ Tech（1 个）：
 
 - [[The Day the World Stops Shopping]] · Reading — 相关部分加 [[《鱼不存在》]] 和 [[分类系统的反噬]] 交叉引用
 - [[孟岩]] · Reading — 来源补 E37「鱼不存在」
-- [[index|Wiki Index]] — 加入 5 个 🆕 + 2 个 🔄，清掉上一轮 🆕，Last compiled → 2026-07-25
+- [[wiki/index|Wiki Index]] — 加入 5 个 🆕 + 2 个 🔄，清掉上一轮 🆕，Last compiled → 2026-07-25
 - [[log|Wiki Log]] — 本文件追加
 
 本轮跳过的源（含理由）：
@@ -85,7 +85,7 @@ Tech（1 个）：
 
 更新文件：
 
-- [[index|Wiki Index]] — 加两条新 🆕 条目，清掉上一轮 🆕 标记，更新 Last compiled 到 2026-07-19
+- [[wiki/index|Wiki Index]] — 加两条新 🆕 条目，清掉上一轮 🆕 标记，更新 Last compiled 到 2026-07-19
 - 日记链接（不属 wiki 范围，但同一轮做）：
   - 更新 20260713 / 20260715 / 20260717 日记，补入当日 clip
   - 新建 20260714 / 20260718 日记
@@ -149,7 +149,7 @@ Investing（1 个）：
 
 更新文件：
 
-- [[index|Wiki Index]] — 加入 17 个新条目 + 更新 Last compiled
+- [[wiki/index|Wiki Index]] — 加入 17 个新条目 + 更新 Last compiled
 - [[log|Wiki Log]] — 本文件追加
 
 本轮跳过的源（含理由）：
@@ -188,7 +188,7 @@ Investing（1 个）：
 更新文件：
 
 - [[中国大类资产长期回报-SBBI2025|中国大类资产长期回报 (SBBI 2025)]] · Investing — 追加 "E241 补充"章节：A 股长期收益三分解（分红 20% / 利润增长 8% / 估值 -0.5%）、指数 vs 个股体验的巨大 gap、AI 泡沫的历史类比、每周记账 & 一年一次再平衡的实操建议
-- [[index|Wiki Index]] — 加入 3 个新条目 + 1 个 🔄 更新标记，移除上一轮 🆕，更新 Last compiled
+- [[wiki/index|Wiki Index]] — 加入 3 个新条目 + 1 个 🔄 更新标记，移除上一轮 🆕，更新 Last compiled
 - [[log|Wiki Log]] — 本文件追加
 
 本轮跳过的源（含理由）：
@@ -225,7 +225,7 @@ Investing（1 个）：
 
 更新文件：
 
-- [[index|Wiki Index]] — 加入 7 个新条目，移除上一轮 🆕，更新 Last compiled
+- [[wiki/index|Wiki Index]] — 加入 7 个新条目，移除上一轮 🆕，更新 Last compiled
 - [[log|Wiki Log]] — 本文件追加
 
 本轮跳过的源（含理由）：
@@ -260,7 +260,7 @@ Investing（1 个）：
 
 更新文件：
 
-- [[index|Wiki Index]] — 加入 3 个新条目，移除上一轮 🆕 标记，更新 Last compiled
+- [[wiki/index|Wiki Index]] — 加入 3 个新条目，移除上一轮 🆕 标记，更新 Last compiled
 - [[log|Wiki Log]] — 本文件追加
 
 本轮跳过的源（含理由）：
@@ -303,7 +303,7 @@ Investing（1 个）：
 
 更新文件：
 
-- [[index|Wiki Index]] — 重写为带每页一行摘要的目录，并加 🆕 标记
+- [[wiki/index|Wiki Index]] — 重写为带每页一行摘要的目录，并加 🆕 标记
 - [[log|Wiki Log]] — 本文件新建
 
 本轮跳过的源（含理由）：
