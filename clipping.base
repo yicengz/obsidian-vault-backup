@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.tags.contains("clippings")
+    groupBy:
+      property: clip_date
+      direction: DESC
+    order:
+      - file.name
+      - clip_date
+      - is_processed
+      - author
+      - file.backlinks
+      - description
+    sort:
+      - property: is_processed
+        direction: ASC
+      - property: author
+        direction: DESC
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 445
+      file.backlinks: 190
