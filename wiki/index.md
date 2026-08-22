@@ -7,7 +7,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 由 AI 从 `raw/` 持续编译产出的知识库。不要手动整理，往 raw 里扔材料就够了。
 
-> 最近一次 ingest：[[log#2026-07-25|2026-07-25]]
+> 最近一次 ingest：[[log#2026-08-20|2026-08-20]]
 > 完整时间线：[[log|Wiki Log]]
 
 ## 主题地图
@@ -49,6 +49,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## knowledge（可被引用的概念）
 
+- [[风险与成本的区别]] · 🆕 显性成本≠全部代价，期望成本=显性成本÷成功率；高回报是对承担风险的补偿
 - [[蒲公英原则]] · 🆕 同一样事物在不同情境价值不同——反驳"神圣阶梯"式的一元排序；出自 [[《鱼不存在》]]
 - [[权力共生网络]] · "我让你发财、你保我连任"——从 FIFA 权力结构抽象出的通用框架；一票权 + 资源垄断 + 接入换沉默三件套
 - [[命运杀猪盘]] · 张潇雨发明；"为你量身定制的那一款陷阱"，命运用来打破固有模式
@@ -96,6 +97,8 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 
 ## Investing（投资）
 
+- [[坎蒂隆效应]] · 🆕 新钱进入流通，谁先拿到谁占便宜——通胀是从后手向先手的隐性财富转移
+- [[自由铸币与货币发行权]] · 🆕 金本位的去中心化本质：谁挖到金子谁就行使了一次货币发行权，与比特币挖矿同构
 - [[take rate]] · 金融平台的用户抽成率；决定商业模式站在用户的哪一边
 - [[股息贵族]] · Dividend Aristocrat 概念页，以 NVDA 2026 转向为例
 - [[中国大类资产长期回报-SBBI2025|中国大类资产长期回报 (SBBI 2025)]] · 有知有行陈鹏 2025 年报核心结论；7-06 补入 E241 纸质版发布内容（三分解、AI 泡沫历史对比）
