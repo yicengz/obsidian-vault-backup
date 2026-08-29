@@ -25,7 +25,7 @@ description: AI-compiled knowledge base — auto-maintained, do not edit manuall
 ## Reading（书籍与人物）
 
 - [[《鱼不存在》]] · 🆕 Lulu Miller 2020；Jordan 分类学 + 优生学 + 崩塌，孟岩说这是他读过对他影响最大的书
-- [[《奥本海默》]] · 🆕 Nolan 2023 传记片 + 普朗特 B 站深度解析；1938 铀核裂变到 1943 曼哈顿计划的这一段
+- [[wiki/Reading/《奥本海默》|《奥本海默》]] · 🆕 Nolan 2023 传记片 + 普朗特 B 站深度解析；1938 铀核裂变到 1943 曼哈顿计划的这一段
 - [[The Day the World Stops Shopping]] · 🔄 J. B. MacKinnon 2021；如果全球消费下降 25% 会怎样的思想实验，从 Ju|'hoansi 讲到外部性定价；新加 [[《鱼不存在》]] 交叉引用
 - [[孟岩]] · 🔄 有知有行创始人 + 无人知晓主播；wiki 里 podcast 蒸馏的中心枢纽；补 E37「鱼不存在」
 - [[张潇雨]] · 得意忘形主播、有知有行发起人之一；"人生逻辑大于一切逻辑"
