@@ -1,0 +1,904 @@
+---
+title: "Ray Dalio: I Predicted The 2008 CRASH, I Know What Comes Next!"
+author:
+  - The Diary Of A CEO
+link: https://www.youtube.com/watch?v=Bu0xNDLNORU
+publish_date: 2026-07-30
+clip_date: 2026-09-04
+description: The man who predicted the 2008 crash says the warning signs are flashing again! Ray Dalio, founder of the world's largest hedge fund, reveals why we are in an AI bubble, why the US has already entered
+trigger:
+  - youtube.com/watch
+tags:
+  - clippings
+is_processed:
+---
+![](https://www.youtube.com/watch?v=Bu0xNDLNORU)
+
+The man who predicted the 2008 crash says the warning signs are flashing again! Ray Dalio, founder of the world's largest hedge fund, reveals why we are in an AI bubble, why the US has already entered its decline, and what he thinks is coming next.  
+  
+Ray Dalio is the founder of Bridgewater Associates, which he grew from his two-bedroom apartment to roughly 150 billion dollars under management. He is the author of ‘Principles’, ‘Principles for Dealing with the Changing World Order’, and ‘How Countries Go Broke'.  
+  
+He explains:  
+◼ Why he agrees we are in an AI bubble, and what actually makes bubbles burst  
+◼ Why he believes cash is the worst place to store your money over time  
+◼ The five forces behind his "big cycle”, and where he thinks we are now  
+◼ Why he says the US and UK are already in the decline, and what comes next  
+◼ What AI will do to jobs, and who ends up on each side of the wealth gap  
+  
+The views expressed are those of the guest, and this conversation is intended for general informational purposes only. It should not be taken as financial or investment advice.  
+  
+00:00 Intro  
+02:55 The AI Bubble: Are We Heading Toward an Economic Collapse?  
+12:37 Why Economic Bubbles Burst—and How to Prepare Before They Do  
+17:05 How to Diversify Your Income Before the Next Downturn  
+23:34 How to Secure Your Financial Future With Little or No Savings  
+28:12 Bitcoin vs. Gold: Which Asset Better Protects Your Wealth?  
+30:26 Who Will Be the Biggest Winners of the AI Revolution?  
+35:08 Will AI Replace Human Workers Faster Than We Expect?  
+43:38 Will AI Create Enough New Jobs to Offset Job Losses?  
+48:35 What Would You Tell Your Kids to Do Right Now?  
+59:04 Can Higher Taxes on the Wealthy Really Reduce Inequality?  
+1:04:07 Is the UK in Decline—and What Would Turn It Around?  
+1:09:01 Where Should Young Entrepreneurs Build Their Business Today?  
+1:11:26 Does a 2% Wealth Tax Actually Work?  
+1:13:31 The 80-Year Cycle: Are We Entering the Collapse Phase?  
+1:15:12 Can the Next World Order Have More Than One Superpower?  
+1:20:28 What the Iran Conflict Could Mean for the New World Order  
+  
+Follow Ray:  
+◼ YouTube - https://link.thediaryofaceo.com/2DcHBpW  
+◼ Instagram - https://link.thediaryofaceo.com/9F19ATa  
+◼ Website - https://link.thediaryofaceo.com/KIidwS  
+◼ LinkedIn - https://link.thediaryofaceo.com/2kZZnHp  
+◼ Substack - https://link.thediaryofaceo.com/A3pSLe3  
+  
+You can find out more about Ray Dalio’s personality test, here: https://link.thediaryofaceo.com/4GnqnN5  
+  
+The Diary Of A CEO:  
+  
+◼ Join DOAC circle here - https://doaccircle.com/  
+◼ Buy The Diary Of A CEO book here - https://smarturl.it/DOACbook  
+◼ The 1% Diary is back - limited time only: https://bit.ly/3YFbJbt  
+◼ The Diary Of A CEO Conversation Cards: https://linkly.link/2hm7r  
+◼ Get email updates - https://bit.ly/diary-of-a-ceo-yt  
+◼ Follow Steven - https://g2ul0.app.link/gnGqL4IsKKb  
+  
+Sponsors:  
+Wispr - Get 14 days of Wispr Flow for free at https://wisprflow.ai/steven  
+Ketone - https://ketone.com/STEVEN for 30% off your subscription order
+
+## Transcript
+
+### Intro
+
+**0:00** · Are you seeing signs that we're in an AI bubble, and therefore a economic collapse?
+
+**0:04** · The classic signs. And that has implications for the economy, and it's bad for the society, and everybody loses money. But we also have some other things that are going on that happen around the same time. And I can go through these if you want.
+
+**0:19** · Please.
+
+**0:20** · So what I'm saying is clear, because I'm a global macro investor.
+
+**0:25** · And you were one of the few managers to foresee the great financial crisis.
+
+**0:29** · Yes.
+
+**0:29** · And so right now we're very excited about AI, and we should be very excited, cuz it's going to be revolutionary changes. But \[music\] it's creeping into almost everything. The way I look at it is I look at the human body, and I see like it's replacing the body and so on. And then it replaces some aspects of the mind, levels of thinking and reasoning.
+
+**0:51** · But at the same time, we have another problem that's existing, geopolitics. I mean, that China is a larger trading partner with most countries than the United States is.
+
+**1:01** · And that's a changing of the world order.
+
+**1:03** · That is one of the ingredients, right?
+
+**1:05** · And then also, you've got large wealth gaps. The government don't have enough money. And so \[music\] when you have the downturn, then you have people at each other's throats.
+
+**1:14** · So a lot of people that thinking about how to sort of secure their future, how do they all prepare?
+
+**1:19** · Let me say that history has shown that it's not the most intelligent people that are the most successful. But the key to things to keep in mind is This is super interesting to me. My team give me this report to show me how many of you that watch this show subscribe, and some of you have told us, according to this, that you are unsubscribed from the channel randomly. So favor to ask all of you, please could you check right now if you've hit the subscribe button, if you are a regular viewer of this show, and you like what we do here.
+
+**1:46** · We're approaching quite a significant landmark on this show in terms of a subscriber number. So if there was one simple, free thing that you could do to help us, my team, everyone here, to keep this show free, to keep it improving year over year and week over week, it is just to hit that subscribe button and to double check if you've hit it. Only thing I'll ever ask of you.
+
+**2:04** · Do we have a deal?
+
+**2:05** · If you do it, I'll tell you what I'll do. I'll make sure every single week, every single month, we fight harder and harder and harder and harder to bring you the guests and conversations that you want to hear. I stayed true to that promise since the very beginning of the Diary of a CEO, and I will not let you down. Please help us. Really appreciate it. Let's get on with the show.
+
+**2:22** · \[music\] Right. For people that might not know who you are, you founded Bridgewater Associates in a two-bedroom apartment in 1975, and you grew it to the world's largest hedge fund. What was the the total amount of cumulative net gains that you delivered for those investors over that period?
+
+**2:42** · I think it was something like 53 billion. We produced about a 12% return with no never any significant losses, and it was uncorrelated with other investments.
+
+### The AI Bubble: Are We Heading Toward an Economic Collapse?
+
+**2:55** · And you were the one of the few managers to foresee the great financial crisis, which allowed Bridgewater to post positive returns of 9.5% in 2008, while the S&amp;P 500 plunged by almost 40%.
+
+**3:09** · Yeah.
+
+**3:11** · Let me start with the thing that I'm most curious about, because I sat here with an investor called Jeremy Grantham, who you might know.
+
+**3:15** · Mhm.
+
+**3:16** · He told me that we're staring in the face of an AI bubble, and therefore a economic collapse potentially.
+
+**3:23** · If you look at the data, it would be compatible with history for the peak to be very soon. Everything is in line. This is I think the biggest investment bubble in American history.
+
+**3:36** · What's your perspective on that?
+
+**3:38** · He's right. I don't want to jump to conclusions as much as I want to explain reasonings that lead up to conclusions.
+
+**3:44** · I'm at a stage in my life that I want to help people understand cause-effect relationships. What they call a bubble is when the price goes up a lot and companies do very well and then it collapses. And that has implications for the economy, it has implications for the markets. Like 1929 bubble. Okay? Or the 2000 bubble. Okay? Which was the dot-com bubble.
+
+**4:11** · Does it impact real people as well? Cuz you said the economy and It did. 1929 bubble bursting impact real \[clears throat\] people? Yes, the Great Depression followed. Because what happens is there's a new technology that comes along that's revolutionary. The dot-com bubble, which was 2000, all the stuff that we have that's wonderful new technology. People get into that technology. They say that's miraculous.
+
+**4:34** · I can bet on that. I'm sure it's going to be successful. And then they bet on it. And sometimes they borrow money to bet on it. And they lose sight that the price of it matters. So, it goes up and up and it it's everybody's thing, you know? Like right now, we're very excited about AI and we should be very excited cuz it's going to be revolutionary changes. And it then at the same time, so I want to buy some of that. And everybody wants to invest in some of that.
+
+**5:02** · And what they do is they don't pay attention to the price and there's a certain mechanics. People will borrow money. Wealth is not the same as money. So, you see a lot of people getting wealthy, but you can't spend the wealth. You have to sell the wealth to get money.
+
+**5:19** · Cuz you can only spend money, right? So, what happens is when they need money for one reason or another, taxes change or interest rates go up and so they have to pay their debt service and so on. There is a pricking of the bubble, so that what happens is it falls. Okay? And when that happens, people lose money. And as they start to lose money, the process works in reverse because when they made a lot of money, they have a lot of collateral, right?
+
+**5:47** · They can go borrow money because they're worth a lot. And that compounds on its way up. And then when it comes down the other way, it works the other way. Okay, now you got to pay your debt. And so when then you have to start to sell assets.
+
+**6:02** · And then there's less demand for things, right? So there's less demand because if you're losing money cuz you put some money in the stock market and that company and so on, you're going to spend less. And as you spend less, then somebody else's income goes down, right?
+
+**6:19** · So you don't go to the restaurants. The economic downturns that typically follow a bubble like the Great Depression. The late '20s was fantastic. If you talk about changes and and experiencing This was the first time there was electricity in houses. So that was the first time you would have refrigeration and you would have lighting in houses.
+
+**6:42** · This was the first time that you had um cars popular. That you could First time airplanes. First time you had radio. And so everybody knew that they were going to be great in the future and they were great in the future. But at the same time, what happens is as they buy them and they stocks go up and they borrow money to buy them and so on. Um and the profits don't live up to the price, then that causes this other dynamic and it produced the Great Depression.
+
+**7:12** · So let's say that I buy this and this is a unit of artificial intelligence. So let's say I buy one share in one of the big AI companies right now because investors are so excited about AI, they value this at $100.
+
+**7:30** · This unit that I have here. They say it's worth $100. So my net worth is now $100. I go to the bank because I have this net worth, this paper worth $100 and I ask the bank for a 50% loan on this right thing that I have. They give me $50. Now I have $50.
+
+**7:45** · And then something happens in the economy which means that the investors who have invested in this and investors generally now need money to pay off their other debts that they have. So this could be a war, it could be some kind of event that takes place and suddenly everybody rushes to sell their assets like this one.
+
+**8:07** · And so when I go to sell this, the price of it has now plummeted to say maybe $25, but I took a loan at the bank for $50, so I owe the bank $50, but now this thing that I have that was worth $100 a couple of months ago is now worth $25 and I'm $25 in the hole. So I have to quickly sell.
+
+**8:25** · And then with everybody selling, all the price of assets drop, people stop spending money at the restaurants like you say, there's less money around and then the bubble has burst and we're in this sort of declining You got it.
+
+**8:33** · Okay, good. All right, fine.
+
+**8:35** · And it happens because it must happen. I mean meaning in these uh tremendous uh changes, uh there's very little that's known. So anybody who's in the business of making AI uh can't be precise. They don't know exactly how much money is going to come in, right? So there's either one of two things. You either don't invest enough and then the competition runs away or you invest a huge amount and you can't be precise, okay? And so when that dynamic happens, it's a problem.
+
+**9:05** · So yes, you said it very well. So I'm going to repeat one other thing to emphasize. What's quite common now is um you can issue stock for uh let's say you raise $50 million. And you value the company at a billion dollars. Only \[clears throat\] $50 million was actually spent on that company. But now if you raise that, you're a billionaire.
+
+**9:32** · Mhm.
+
+**9:34** · Okay? Because the accounting value of that What do you own? You own stock that is valued at a billion dollars. Nobody paid a billion dollars or whatever it is, right? And now you own that stock. But that stock, um, you can't spend. Cuz you can't spend wealth.
+
+**9:50** · Mhm.
+
+**9:51** · In order to spend it, you have to sell some of that stock to get money.
+
+**9:55** · Yeah.
+
+**9:55** · Right? And quite often there's an interest rate rise because the you know, let's say as there's a fever and there's an inflation and the central bank wants to try to put the brakes on that a bit. Okay, what does that mean? It means people who have debt, in a sense, have to come up with more money.
+
+**10:14** · Mhm.
+
+**10:14** · Cuz when you own the debt all the debt, you have to come up with money to pay the debt.
+
+**10:18** · So the downturn works.
+
+**10:20** · Between us, we've said it uh clearly, I think we can understand the dynamic. So they they have to exist. Now we have another problem that's existing, okay?
+
+**10:29** · So we're talking about the bubble, okay?
+
+**10:31** · But we also have some other things that are going on that happen around the same time. A big gap between the rich and the poor and which also means the left and the right, the politics of it, right?
+
+**10:43** · Just as we have now. When you have the downturn, um, then you have people at each other's throats. So if we take politics, what you see is this that they don't have enough money. The the governments don't have enough money. We have big budget deficits, okay? Where do you get the money from in order to pay those bills?
+
+**11:02** · The UK has had, I think, six out of last seven years there's been a new prime minister. And because there's not enough money for the government, and so what you start to see is people come in with their claims, but there's this how do we get the money? And then people run who have money, they say, "I don't want to be in this tax zone that's going to be."
+
+**11:21** · And then they leave. And so there's a domestic political problem that is not people compromising the same way they used to compromise, right? So now you have the politics which compounds this.
+
+**11:34** · And And then you have a world, this is what I call the big cycle. You have a world in which also the geopolitics changes. By geopolitics, I mean country to country. Okay, there's a system under normal circumstances. When there's a more dominant power, they impose their order and that becomes more peaceful.
+
+**11:55** · But when you have on uh arguments of how things should go, those arguments start to turn into conflicts, right? And so, those things tend to happen together. That's why I refer to that as the big cycle, that dynamic. Now, that is the confluence of the money, the internal conflict politically, and the external conflict, which is what we're going through. And And the problem is, I think, that people don't know the cycle.
+
+**12:25** · So, every day we go to our sources of information and you see this latest news, but they don't connect the dots in in understanding that cycle.
+
+### Why Economic Bubbles Burst—and How to Prepare Before They Do
+
+**12:37** · Just going off on this point of the bubbles, what is it that makes bubbles pop? So, if we are in an AI bubble at the moment and it is going to pop at some point, what is the like, they call it a black swan event?
+
+**12:47** · a few of them. There are bubbles and then the things that prick the bubbles, okay? The things that prick the bubbles, typically in the beginning, are something that means that I have to sell some wealth to get money. And that's usually a rise in interest rates. It could be something like wealth taxes, something that means I'm very wealthy, but typically the tightness of money because during that spot, there's inflation pressures and central banks decide that they want to tighten monetary policy and so on.
+
+**13:15** · It becomes that the amount of money that I can get by owning that debt at the higher interest rates is greater than the amount of money I could get on my equity investments. That's part of it. Also, what you see is a lot more production of stock. And what I mean by that, issuance of stock.
+
+**13:38** · Think of that, the supply and the demand. There's There's demand, right?
+
+**13:42** · And we've been talking about the demand that makes stocks go up. You know, how we create this wealth. But there's also um supply. So, you can issue stock. It's very easy to There's There's almost nothing that's easier to produce than stock.
+
+**13:57** · I own a company, I can just uh print more equity.
+
+**14:01** · Yes.
+
+**14:01** · Today, you could probably go out and say, "I'm going to make a company and I'm going to take it uh public." And you go to your audience and your crowd and you can say, "I'm going to make stock." Okay? So, it becomes when there's a when there's a market that wants stock, there's a production of stock.
+
+**14:19** · And is there Okay? And that supply of stock, together with the other that I'm mentioning, the the need for getting money and so on, um causes the um the the bubble to pop.
+
+**14:31** · Are you seeing signs that we're in a bubble?
+
+**14:33** · Yeah.
+
+**14:33** · Yeah. Yeah. The classic signs that we're in a And the bubble, I should emphasize, it's not a um you're in a bubble or you're not in a bubble. It's a degree thing. Okay? There is also that it's in weak hands. I can look at now who is in these companies, right? And is it in strong hands or weak hands? Classic strong hands is that when weak investors, not knowledgeable investors, then put a lot of money into it, particularly if that's in a leveraged way.
+
+**15:05** · And that way with debt.
+
+**15:06** · With debt. Or they can buy an op- a a leveraged version of like the like there are ETFs now that are leveraged versions of the stock market and they and so on. And so, they get into that. It's more like they're crap shooting. Okay? and then that's a sign of a bubble. So I mean I've listed a few of those signs.
+
+**15:27** · Those are the major signs of those bubbles. And so that when it goes down, then you get the fear, then you get the need out to raise cash, and that dynamic works its way out in the form of then the reverse happening. In other words, everything becomes cheap and everybody has the spending and the things you mentioned.
+
+**15:48** · If we are in an AI bubble and it is going to burst. You know, I had a friend of mine contact me and he said, "Stephen, I think we're in this an AI bubble." And he's running an AI company.
+
+**15:56** · So he he said to me, "I'm going to raise lots of money now so that when the the markets come down and investors are fearful, they don't want to invest in companies, people stop spending as much, they start thinking about their subscriptions, they start canceling subscriptions, we're going to be good and we're going to be able to buy up some of our competitors who are going to be struggling. So he's just raised um hundreds and \[snorts\] hundreds of millions of dollars for his AI company.
+
+**16:17** · Right. Yeah, it's probably like that.
+
+**16:19** · Easy.
+
+**16:20** · Yeah, it was easy now.
+
+**16:21** · Right.
+
+**16:21** · The question here is like what should at different levels? So like the the average Joe on the street up to entrepreneurs that are running companies, how does how do they all prepare for an economic bubble that might burst?
+
+**16:32** · He's such a good example. And what that does just following it through on what we said a minute ago is that increases the supply of AI stock.
+
+**16:41** · Okay, yeah, cuz he sold stock and raised money.
+
+**16:43** · more.
+
+**16:44** · Yeah.
+
+**16:44** · Right?
+
+**16:45** · And so as he and others do that more, the greater supply of stock comes in and and so he wants to get ahead of it in that dynamic. And then, you know, that contributes to the bubble.
+
+**16:59** · But how do they prepare?
+
+**17:01** · How do they prepare for this?
+
+**17:02** · I would also say something.
+
+**17:04** · The future is very unknown. And people should not be timing. Sophisticated investors have a real challenge even in timing a bubble.
+
+### How to Diversify Your Income Before the Next Downturn
+
+**17:15** · So on the important thing always is to diversify. Now, we're going to go back to money, the basics of money management. And I by the way, I personally have gone through the cycle cuz I didn't have any money, and then I did then I had a lot of money. And I remember the cycle very well. What happens is as you start off um I used to count how many months I would be okay I have a certain amount of money, how much money I would be okay no more money came in.
+
+**17:45** · If I lost my job or whatever I did, I mostly never I worked 2 years for somebody, but in other words, if money didn't come in and it would be months and then years and so on to build that security cuz I take care of my family and so on. And so what as we're looking at these things, these are the choices that you have in order to be able to say, do I buy my house or apartment? Do I put my money into cash?
+
+**18:18** · And what happens with money is you have to put it into something. Because they'll pay you interest on it, okay?
+
+**18:26** · So, that's your cash deposit and so on. And people think that that's the safest. It's not, it's the worst investment over a long period of time because inflation will eat it away.
+
+**18:36** · You mean putting it in a bank, just leaving it in a bank?
+
+**18:38** · In whatever form, a money market fund, a whatever it is that is that short-term of deposited and it'll give me an interest rate.
+
+**18:47** · Okay.
+
+**18:48** · Okay? And that's what they think about as cash. You don't nobody leaves it literally in cash because if it's literally in cash, it doesn't earn interest. So, why shouldn't I put it there and get some interest on it? And so, that's cash. And people think that that's the safest and has the lowest return guaranteed almost to have the worst return over the longer period of time.
+
+**19:09** · People keep cash because it feels safer.
+
+**19:11** · That's right. And I'm saying it's not safer. Because of inflation.
+
+**19:16** · Explain that to me in simple terms.
+
+**19:17** · Okay. Well, if I got no interest rate, um then what I would do is I'd lose the to the inflation rate.
+
+**19:25** · And what's the inflation rate?
+
+**19:26** · And well, 3 and 1/2 or 4% happens to be about where it is now.
+
+**19:31** · A year?
+
+**19:32** · Yeah, a year.
+
+**19:32** · So, that at least $3.5 a year.
+
+**19:35** · That's right.
+
+**19:35** · If I just leave it in cash.
+
+**19:36** · That's right.
+
+**19:37** · Okay.
+
+**19:37** · Okay. Now, I'll get an interest rate on it if I put it someplace and it'll give me maybe an interest rate that's somewhere in that vicinity, similar to that.
+
+**19:48** · 3, 4, 5, 4%.
+
+**19:50** · And then I have to pay taxes on it.
+
+**19:52** · Oh, you have to pay taxes on the gain?
+
+**19:54** · You're Yeah.
+
+**19:54** · Okay, fine.
+
+**19:55** · Right? Even though you really didn't gain relative to inflation, you still have to pay the taxes on whatever you've earned or something. Anyway, over the long term, it's a lousy return. Because also think about returns also come from productivity. And over a period of time, people learn how to do things better and so on. So, then you can invest in let's call this stocks, okay? That we'll call that the stock market. This is cash and then you think on the stocks.
+
+**20:20** · And then the stocks can go up or down and then they have this dynamic that we're talking about that creates these big cycles and the busts. And those cycles, when they go down, um go down um 60, 70 percent. Okay, that's that's what a bear market looks like. Woo, what a what a dive. Okay, this is gold that's gold and these are bonds and this is your house and that's Bitcoin.
+
+**20:51** · Okay, so these are the choices. They each um change for certain reasons. I'll digress into that in a minute. But what happens is they go like this. When gold goes up, tends to be that the bonds will go down in value or your house.
+
+**21:10** · And these change in a certain way, and so the best thing to do is to have a diversified portfolio that when you have that rather than anyone, you won't reduce your return, but you will reduce your risk.
+
+**21:29** · And diversified means having a little bit of each.
+
+**21:31** · Right, a certain amount. And you have to know how to balance them because of their volatility. This one, stocks, is more volatile than this one. And my own recommendations are you start first of all with what you need. Should I buy a place or should I use that money and I could travel more and so on. One of the advantages of the house, the apartment, and whatever is it's your environment.
+
+**22:01** · Your environment is important. It produces forced savings. Sometimes that forced savings is good. It is It typically is taxed better. It's a It's a better vehicle for tax over a period of time. But I'm not arguing for this alone, but I'm saying when I'm looking at this, then I think this one, gold, is very interesting because when all of these tend to do badly, this tends to do well. Okay, so it's a very effective diversifying because this was money.
+
+**22:31** · Not until 1971.
+
+**22:38** · And it's still the second largest reserve currency. Central banks hold reserve currencies. So it has qualities that are different from this. And this has qualities like when the value of money goes down because of inflation, this Bonds.
+
+**22:55** · Okay.
+
+**22:55** · And bonds are basically lending the government money.
+
+**22:57** · That's right. If you lend the money at a certain interest rate, and then inflation and interest rates rise, you're kind of locked into that interest rate. And so it has its own problems. The more important thing I would say is, you know, you save up and you say, "How many years can I live if money doesn't come in?"
+
+**23:20** · Okay? And then you take that and you say, "How could I be secure?
+
+**23:26** · So I don't want to put it into one thing that can go down 70%. So how do I diversify that? That's my main headline.
+
+### How to Secure Your Financial Future With Little or No Savings
+
+**23:34** · A lot of people in the comments of our last episode, they were asking this, like how does this apply for someone who doesn't have much money, maybe doesn't have any assets, say they're 30 years old, they have I don't know $100 disposable income, and they're thinking about how to sort of secure their future. What is the advice for someone in that situation?
+
+**23:56** · Your only asset is yourself.
+
+**23:59** · And I guess what you're going to get from the government. How do you sell yourself at at getting a better income?
+
+**24:05** · Or how much how are you getting money from the government?
+
+**24:08** · Mhm.
+
+**24:08** · You selling yourself is the main thing.
+
+**24:11** · This is one of the big problems now with the artificial intelligence and other machines replacing people and and different types of jobs, it becomes more difficult. It produces that big wealth gap while you're having more productivity. Everybody wants more productivity because it means how do you produce things more efficiently, but that's contributes to the income gap because your productivity equals your income for a large extent. And then you have the and you know, the political dynamic.
+
+**24:44** · It's tough to get yourself out of this position that you mentioned. You know, I'm imagining that person. Okay? It's not easy. There is this giant polarity. If you're in the top 10% of talent, let's say, the world's your oyster.
+
+**25:00** · But, nowadays, in order to be there, okay, that's that's difficult. Find something that gives you the ability to sell your time for good money. Is that going to be that you're driving an Uber? Is that going to be that you have the talent and you're going to be able to understand AI and contribute that understanding to a company that values that? Or what is your skill? You found this, okay? And and you found the way, okay? But, you need money.
+
+**25:32** · Okay? And the the thing that you want to do, what you're doing, and I'm lucky enough to do, is to make your work and your passion the same thing, and don't forget about the money part.
+
+**25:45** · Yeah, I am I one of the things that I I think I didn't realize earlier in my career is that whatever skills you have will be valued differently in different contexts or industries, should I say. So, for example, say that my skill here, and I'm not trying to flatter myself, but say my skill here is is working.
+
+**26:02** · having conversations, right? Let's say that's what it is. There's lots of places I could have conversations. And those places would value my ability to have conversations wildly differently per hour.
+
+**26:13** · Right.
+
+**26:14** · So, I will often think this and speak to my friends about this when they they tell me their skills, I say, let's look at the different industries and how they would value the skills you currently have differently. A good example, again, you know, you could be an Uber driver or you could chauffeur Ray Dalio. Now, I imagine those two things pay wildly differently, but it's the same skill of driving a car, broadly speaking.
+
+**26:37** · I agree with all that.
+
+**26:38** · And so, I think that's one way to just you know, the other way is you go ask your current boss for a promotion. But, again, they're going to value you in the context of their other employees, the market in that industry, etc. So, it's you You get 10%, but you're not going to see a step change necessarily. So, that's something that I always say to people is Absolutely right.
+
+**26:56** · And another law of something, I don't think it's almost a law of everything. It's a law of you um buy almost anything is those at the top whatever that thing you're buying, if you're buying a painting, a piece of furniture, a piece of clothing, a a person's time or whatever command premiums that are many multiples of the average. It's almost like if you can invest 10% more of your time, your effort, your skill to go up.
+
+**27:33** · Mhm.
+
+**27:33** · Okay? You will get twice as much Mhm.
+
+**27:38** · for 10% better something like that, okay? So, that's part of the formula of life and the formula of employment. And it's so I think if you keep what you brought up and what I'm bringing up in mind, that helps you position yourself and know what to do.
+
+**27:54** · Mhm.
+
+**27:55** · There should be a button just down below here. And if it says subscribe, you're already subscribed. If it says subscribe bar, that means you're not yet. And if you're not subscribed, please could you do us a favor and hit that button. It helps the show more than you know. And according to the algorithm, you're someone that watches our show but you haven't yet hit that button. Thank you so much.
+
+### Bitcoin vs. Gold: Which Asset Better Protects Your Wealth?
+
+**28:12** · We didn't mention this thing here actually. So, I probably should talk about it cuz people are talking about it a lot right now, which is uh Bitcoin.
+
+**28:19** · Or Bitcoin.
+
+**28:20** · Mhm.
+
+**28:21** · What's your perspective on Bitcoin? I know the market in Bitcoin is down at the moment.
+
+**28:24** · I have about 1% of my portfolio in Bitcoin because there's different kinds of money that and the money that you can't print, that's one kind. This is the other kind of money that you can't print.
+
+**28:37** · Gold.
+
+**28:38** · Yeah.
+
+**28:38** · You cannot crack it with technology. You can hold it, you own it. It's There's a saying that it's the only um financial asset that is not somebody else's liability. Somebody has to give you something for it. It has that. So, in my category of wanting, let's say, make sure that I have some hard money, which for most people should be between 5 and 15% of their portfolio. I prefer that. I'm pointing to the gold bars here.
+
+**29:13** · Rather than the Bitcoin.
+
+**29:15** · Is it still in your view gold like asset?
+
+**29:19** · Yes, it's it's a type of money that can't be printed. But there are technologies that can hurt it. In other words, if there's quantum computing and it can be monitored by governments and so on. It could be taxed. And digital currencies are somewhat similar.
+
+**29:41** · But you don't like Bitcoin as much as gold because of privacy reasons as well.
+
+**29:45** · And when the governments say, "I don't want it." They have the power, therefore, to do whatever they want with it. And central banks will not own any significant amount of that because of the reason I said. They They want their transactions to be private and in their control. Think about how different it would be for Russia. Okay, they confiscated these kind of other assets. They didn't get these.
+
+**30:13** · Gold.
+
+**30:13** · Okay, gold. And so, what you're seeing even particularly in this time of conflict is that there's a sense that if I'm holding this others won't get it.
+
+### Who Will Be the Biggest Winners of the AI Revolution?
+
+**30:26** · You mentioned a second ago the impact you think AI is going to have on the economy broadly, but also again to real people's lives. There's lots of debate. I mean, there's been a debate over the last 10 10 10 years or so within the world of AI. You had the big AI I originally saying that AI would cause job disruption.
+
+**30:44** · And that, you know, you've even had some of the CEOs more recently saying work will become optional in a world of superintelligence. At the same time, we have robotics coming over the horizon. So, you've got this sort of convergence of intelligence and then I don't you could could think of it like muscles, like physical muscles or ability. At the same time, um we're seeing AI accelerate in its capabilities.
+
+**31:06** · What does this mean for the average person and their job? And who's going to benefit from this AI revolution in your point of view?
+
+**31:12** · It means that you will either be cutting edge and capable and among that top fraction of a percent down to 10% of the population who is um cutting edge and using it and accelerating, or uh you will, if you're in a thinking job, uh be at risk of being uh replaced. We're coming into a world where we can automate everything.
+
+**31:40** · The evolution of man was we had the agricultural era. And there was no real inventiveness. And then man invented the machine. And what the machine did is it replaced man's physical necessity. So, men used to be like oxen in the agricultural field and so on. And they were replaced by tractors. And then there was we entered the industrial age. First, you had the printing press that allowed people to learn.
+
+**32:19** · And then you had these inventions, the industrial revolution, the first industrial revolution. And what you had is the replacing the physical that that man would do in factories then and so on.
+
+**32:33** · And so, the way I look at it is I look at the human body. and I see like it's replacing the body and so on. And it's coming up uh higher and higher, and then it replaces some aspects of the mind that you can computerize. And it's coming up and up, and it's replacing higher and higher levels of thinking and reasoning. Okay. So, that path is part of the evolutionary path that is happening. Okay. So, then you start to say, "What do I have to offer?"
+
+**33:05** · And so, in answer to who benefits from it, those who benefit from it are those who are um the capitalists with the ideas that replace uh the workers. And so, if you look at there's revenue for businesses when you buy something in a store, there's revenue. Okay. And if you look at the share that is going to workers, you see that share going down.
+
+**33:34** · And if you look at the share that's going to those who own that business, that share is going up. That's you know, how do they share that revenue in terms of the cost, and you see that that's rising.
+
+**33:49** · And so, um this is an evolutionary process. And it's true that what happens is you get more uh free time. Okay. So, now the so- society has to think, "How do I deal with this?" So, for example, the work week, which used to be, you know, a 60- or 70-hour work week, goes down to less than a 40-hour work week.
+
+**34:12** · And there's more time. But there needs to be uh you know, how do you create a bottom? And so, we're going through this phase in which there is this upper end that is making incredible amounts of wealth as we described, and then this lower end that is um then having these challenges. We've have a relatively good economy and the difficulty of college graduates to get employment has increased significantly.
+
+**34:43** · And I can tell you that in in many businesses, it becomes more of a pain in the neck to have a college graduate let's say do what they have to train them, you have to and many of those tasks, many of that thing can be done very quickly with the AI and with computerization. And as you get into robotics, you're going to have that happen, right?
+
+### Will AI Replace Human Workers Faster Than We Expect?
+
+**35:08** · The speed of the disruption that we're seeing because of the amount of capital that's flowing into these AI frontier models like the Anthropic's and OpenAI, etc., etc. is is quite different from anything else. It's sort of the historical precedents as we've seen through the industrial revolution where it took time to build the tractors.
+
+**35:25** · There's an element of speed. What happens usually is the bubble bursts.
+
+**35:30** · Mhm.
+
+**35:31** · And now you have the cyclical dynamic of that while the technology, you know, evolves, but the the supply demand and the debt problem that we just talked about then come in. And so unemployment is due to typically some sort of a combination of a financial crisis that like we talked about the debt and stocks going down and people not having collateral and then therefore not buying assets and that dynamic. That causes the unemployment rate, that factor.
+
+**36:04** · That's the sort of economic reasons, but in terms of the AI agents, robotics being able to replace you. I sat with Dara from Uber and Dara said that he imagines in the future the 9 million riders that they have around the world doing deliveries will be replaced by autonomous vehicles, autonomous robots.
+
+**36:22** · Those 9 million drivers careers that you have will be out of work conceivably in the you know talking about being honest about the situation.
+
+**36:30** · Yeah, I think again it goes to physical AI as well, right? So I think 20 years from now you can imagine that those 9 million will be 20 million AAVs maybe. But we have time between now and then partially because we don't operate in the virtual world, right? We operate in the physical world.
+
+**36:49** · You have to get the regulations up, you have to build the cars, you have to build the sensor stacks, the the models have to get there. So there is time between now and then, but you can imagine the majority of our trips being fulfilled by robots of some kind.
+
+**37:06** · The unemployment rate gets very influenced by the bubble bursting and the economy going down. You see that spike.
+
+**37:15** · Mhm.
+
+**37:16** · You certainly have the evolutionary change that you're referring to.
+
+**37:21** · Okay, so it's both.
+
+**37:21** · Okay, in other words there's this evolutionary thing in which they like he says, you know, the tractor replaces the labor or the assembly line worker as technology is replaced and that is an evolutionary thing that goes continuously for you know, many years and in the way that you're describing. Because you asked about the unemployment rate, I just wanted to emphasize that the unemployment rate is very heavily affected by that bubble bursting.
+
+**37:52** · So okay, you've got two forces at once then you've got When the bubble bursts everybody as we said needs cash so they start cutting their costs. So that's when they start laying people off.
+
+**38:02** · Yeah.
+
+**38:02** · They start looking around the company and go forget growth, we just need to survive. So we're going to lay off that team and that team and that team and then you see unemployment going up. And then you've got this sort of underlying shift happening at the same time which is workers are replacing their team members with AI agents or are or in the factories then are using robots to do factory work, etc. And that's the sort of current slow march forward.
+
+**38:27** · Right.
+
+**38:27** · So, I have this chart. Okay? What this represents, this line, is the um evolution of technologies. In other words, we have greater and greater learning and doing things better, and that's the evolution that we're talking about that also machines replace people or replace their tags over that period of time.
+
+**38:51** · Then you have this big cycle, which is typically lasts for about a lifetime, on average, about 80 years. Uh we went through that uh last time, 1945. There are orders. There's a monetary order, there's a domestic political order, there's a geopolitical order. Okay? You have the bubble bursting, okay? You have this. This is what we're talking about, um that dive. And then you when you go through that, you break down these orders.
+
+**39:24** · And when they break down, then um you would get rid of the debt burden. So, you get rid of the monetary system as you're used to it. You um may get rid of the domestic order. Many countries' orders, their systems, end. I mean, they all end at some point. And so, they can break down quite often in a time of great internal conflict. Does the system last? And that happens at that time. And so, that's that big breakdown.
+
+**39:52** · But still, what you're talking about is and and I and I agree with you, this keeps going up. Okay? Because learning, you don't unlearn what you've learned. So, as this goes up and and you're uh you you still keep this thing going up, okay? But you have the big cycle, the debt, the conflict type of movement.
+
+**40:12** · And these little cycles are the cycles that we see in this roughly on average, let's call it an 80-year period, but you see the you see the recession and recession has higher unemployment and so on.
+
+**40:33** · Then they stimulate monetary policy, they make money looser then the economy goes up and you have prosperity, then you go into a bubble, okay, that then you run lower on capacity cuz you're using up the capacity, inflation rises, they tighten monetary policy, and then you have the the recession that follows.
+
+**40:57** · So these movements from one recession to the next recession, that cycle that I've just described, on average has lasted about 6 years and give or take about three. So that's the way it looks.
+
+**41:13** · So I'll play this back to you to make sure I understand it. There is a sort of bigger macro bubble which is over 80 years which is the changing of the world order.
+
+**41:23** · Yep, you get deeper and deeper and deeper in debt over a lifetime till till I'd say your debt capacity. You have a certain amount. So the government's debt capacity, for example, it can borrow when you wipe it out here, then you can build it up and build it up until it starts to squeeze. Debt service starts to squeeze out.
+
+**41:42** · the changing of the world order.
+
+**41:44** · That is one of the ingredients, right?
+
+**41:46** · So okay, we have too much debt. At the same time, what you're building up is you're building up great wealth gaps because capitalism, and I love capitalism, but it's it's here's the reality, it creates big differences in income and wealth. And when it does that that also creates differences in people's opportunities because the rich people can educate their children well and they can give them all the benefits. I mean education is a big benefit.
+
+**42:18** · That's why there should be broad-based excellent education. But all of that happens and so you see wealth gaps build up. So like the Industrial Revolution leads into the Gilded Age. Okay, the Gilded Age looks a lot like now, you know, people buying expensive things and looking very gilded. And then it leads to the robber barons.
+
+**42:40** · And the robber barons are people who are considered, you know, the that they're taking advantage, the billionaire class, and it becomes that cycle. So that's the way it works.
+
+**42:55** · So you've got this 80-year sort of, you know, boom and then there's a collapse which is sort of ends in conflict and the changing of the new world order. And then within that you have these little bubbles which really economic bubbles that go up and down recession. People get very excited. They they contract, they get excited, they contract. And then you have the the straight line here which is the sort of technical technological improvement across the spectrum of ideas and technologies and all these things.
+
+**43:23** · It keeps going.
+
+**43:24** · And it keeps going regardless of this boom and bust because as you say people never forget. I guess so a couple questions on this then.
+
+**43:30** · I don't even know which one to dive into first, but let's go for I guess just closing off on the last point that I was I was getting at is there's this narrative that there'll be new jobs created because of AI and robotics and everyone will be fine. A lot of this narrative comes from Silicon Valley.
+
+### Will AI Create Enough New Jobs to Offset Job Losses?
+
+**43:46** · Who is producing the technology that doesn't want to be attacked because they're making a lot of money.
+
+**43:52** · They may have an act And they're in the Gilded Age.
+
+**43:54** · desire to have a certain perspective. I think objective people in Silicon Valley and there are number of them would say it's going to have a big employment."
+
+**44:08** · But you you you can see it um in the wealth. Who owns stocks and who doesn't own stocks?
+
+**44:14** · Okay. Now, if you own stocks, um um you're very happy now.
+
+**44:20** · Okay? And if you don't own stocks, you're not getting the benefit of owning stocks. So, that in and of itself creates a greater greater wealth even aside from employment. Okay, so there are these forces to create the greater uh wealth gaps, right?
+
+**44:37** · Roughly so 61% of US adults own stock in some form, and most of them hold it indirectly through their retirement plan. Only 20% of Americans directly own individual stocks or shares through a brokerage account. While over half of Americans own stocks, ownership is heavily concentrated. The top 10% of households hold almost 90% of the stock.
+
+**45:03** · How do you feel about this narrative coming from predominantly Silicon Valley that there'll be new jobs created that we can't yet forecast and everyone will be fine. They point to the Industrial Revolution. They say, "Look, when the tractors came, we thought everyone was finished. When factories came, we thought everyone was finished, but look, we figured some other stuff out."
+
+**45:18** · Because if you look at that, this is this what um thing I'm saying that as your body is more and more replaced with your mind, then you can do that. But when your mind is replaced and your body is replaced, uh what is it that you have to sell?
+
+**45:38** · What is it that we have to sell as humans once our body and our minds are replaced?
+
+**45:43** · What man has um is emotions and has um intuitions. There are certain things that artificial intelligence doesn't have.
+
+**45:57** · And so, if you have to get down to what those things are, it um you know, does the robot give a good massage?
+
+**46:08** · Does you know, what is it that is left? And so we will wrestle with what it is that is left, okay? But I think that for the foreseeable future those who can work very well where they have an exceptional human intelligence and work in partnership with the artificial intelligence that they are going to be at the cutting edge of all of this.
+
+**46:39** · I've got 60 seconds and I'm going to show you how much I can get done because of our sponsor called Whisper Flow. And for those of you that don't know what it is, it's a business I invested in that turns your speech into text in any app or device. I'm going to post into our Slack channel which rewards whichever team member conducted the most experiments this week. Hi everyone, here is this week's experimenter of the week.
+
+**47:00** · Congratulations to the Dire Wolf CEO trailer team, which is Ant, Liv, Dom, and Cam. You guys have won. Okay, now I'm going to open Gmail. So here is one of our founders on an email chain that I want to connect my team with. All I have to say is add my team's emails and Whisper will do exactly that.
+
+**47:18** · Now a quick message to Juan who does my schedule every single week. Hey Juan, can I record on Wednesday at 2:00 p.m.?
+
+**47:24** · Actually no, do you know what, let's record at 3:00 p.m. on Wednesday. Whisper Flow is four times faster than typing and it is incredibly easy to use. If you want to give it a go, all you have to do is head to whisperflow.ai/steven to download it today. Just like Jon Jones where marginal improvements in your cognitive performance can have a massive impact, sometimes I podcast for 10 hours a day.
+
+**47:46** · Over the last couple of weeks I've been in filming for a TV show and then I have like one or two days off to get all of my work done, which means there's lots of cognitive load. And so I turn to ketons because I find myself more articulate, able to think more clearly, able to work out better when I'm fueled by ketones.
+
+**48:01** · And so, the reason I became a co-owner of this company and the reason why they now are a sponsor of this podcast is because I remember one of my team members called Christiana, she tried it once and came up to my desk and she goes, "This is the best product ever made." \[clears throat\] And I think in part that's because she really cares about those cognitive benefits, as I do, as John Jones does, and as I think most of my listeners probably will. So, if you haven't tried these yet, all you have to do is go to keton.com /steven and you'll also get 30% off your first subscription order.
+
+**48:27** · You'll get exclusive ketone IQ merch, and of course, cognitive benefits that might just change your life.
+
+### What Would You Tell Your Kids to Do Right Now?
+
+**48:35** · So, if you had kids that were 16 years old now, Ray, and they said, "Dad, what what do you think based on everything you know about the future, what should I be doing?"
+
+**48:44** · First of all, there's the question of what what what matters most in your lifestyle.
+
+**48:49** · So, I'm going to get philosophical, not assuming that the highest income is the best. Okay?
+
+**48:56** · Because happiness You want happiness and health.
+
+**49:01** · And so, in answering your question, there's very little correlation between the amount of money you have and the level of happiness that you have past the basic level. And so, I could be answer your question first, which the obvious way is to say to earn the most amount of money, and I want to start off in saying that you know, my experiences is so on is like I love being in nature.
+
+**49:29** · And it doesn't cost me hardly anything. I mean, it depends where your pull is.
+
+**49:34** · And so, don't lose sight of your pull and what it's about. What you want to do is you want to get above the level that you don't have to panic. We just earlier discussed how many months can I live and to be able to secure that and to be excited and have that passion or that whatever it is the life that I want to have. So, I just want to emphasize keep in mind of that. But then also, you know, my principle is make your work and your passion the same thing and don't forget about the money part.
+
+**50:09** · Right? So, know your nature. Uh um this is what I tell my grandkids.
+
+**50:15** · Okay?
+
+**50:16** · Yeah, you have a feel and you also have a nature. It's not just your preferences. People think differently.
+
+**50:22** · Some are uh more adventurous. Some are less adventurous. Some are more conceptual or artistic and can think with imagination and they love doing that. Some people don't like that. Some people want to they may life should be more concrete and more certain and so on. That's your nature. You're partially you're a lot born with that nature and you also learn it in your earlier years. We know this of how how neuroplasticity works and so on.
+
+**50:53** · So, we're all on a journey to um find the match between our nature and our path. And you find though that path, but you can't forget about this money part while you're pursuing that path.
+
+**51:09** · Don't forget about the money. So, if your, you know, grandkids came to you and they said, "I want to become a lawyer." Would you say, "Listen, let's forget about the money because I think AI might take that job." Or would you say, "Yes." Would you If they said, "I want to be I think you uh uh I want to do a thinking job."
+
+**51:25** · Let me say that history has shown that it's not the most intelligent people or the most intelligent species that are the most successful. And it's not no necessarily those that work the hardest, although these things are very important. It is the those who species and and people who are also most adaptable. And and so there's going to be great change in your lifetime. Okay? And so yes, today it's artificial intelligence.
+
+**52:02** · But if you went back not long ago, we didn't even know artificial intelligence would exist the way it artificial intelligence today exists. And the future will be like that. So when you're nailing it down, you know it used to be make sure that you know how to code. And then Claude code comes along and all of those who are coding are worried about their jobs. Okay? So what is it that matters? Okay?
+
+**52:28** · It is It is the approach to life in a sense that produces that you know the the general understanding and also the adaptability. I think a lot has to do with knowing yourself. That's why in building Bridgewater, the personalities of the person were very important in what suited their jobs. And then I built this a personality profile test.
+
+**52:59** · Then I made it online for anybody to go take. It's about 30 minutes. It's free online. It's called Principles You.
+
+**53:07** · That'll tell you a lot about your nature. Okay? But your goal is to find that nature and what it what are the paths. And there are several paths and they're constantly changing to find that nature. Okay? You'd experiment. You learn. Okay? But you know, you probably were pulled into this job by your nature, right? And so and you and you made it work and here it is it works in all of those dimensions and it's like that for everybody.
+
+**53:36** · Yeah, it's it's it's interesting cuz you look forward to the future and I I think if I was a young person at this stage, and I was trying to set out where to aim my career, I would be more confused now than ever before, especially cuz they're also contending with this uh unemployability crisis amongst entry levels.
+
+**53:52** · if you're talking about you'd be confused because you can't anticipate the future, that's right. That's just the way it is, right?
+
+**54:04** · And and if you say, "What is it that I need, given that reality?" Okay. I need to I need to learn, I need to know how to maximize the use of tools like AI to be able to in- increase what I know, and how do I use that to the best of my ability to be as useful as possible doing things that fulfill me.
+
+**54:30** · Mhm.
+
+**54:31** · Okay? So, that's what you need to do. You're asking what you need to do. Uh just get over the fact that you don't know what the future's going to be like.
+
+**54:39** · So, if you're looking for an answer, and it's going to be a computer programmer, is it going to be this or that? No, just be maximize uh your ability to know, which is so easy to do nowadays, right?
+
+**54:52** · So, maximize that, and then maximum use that to maximize your usefulness in in jobs that make you happy, and that's the thing that that's the best I can give you in terms of more mice 16-year-old, that's the best I I can give them. Because I I don't want to mislead them that it's the thing, that it's the particular job. Okay? That'll mislead them.
+
+**55:19** · You talked about this 80-year cycle, which results in this new world order, and it sounded like you were saying that near the end of the cycle, you see wealth inequality. And you see the Gilded Age, where some people have lots of nice things, and other people at the other end are struggling, and this is a function of capitalism.
+
+**55:36** · First of all, um it's a reality that it's not only just a um a a wealth gap difference. And if the majority system is not working for the majority, well, you're going to have a problem.
+
+**55:56** · And yes, it is um it's contributed to these things where one wants to create more opportunity through education and through other basics, that there's certain level that a floor that nobody should go underneath because it's bad for them and it's bad for the society. And just to embellish on that point, my wife and I live in Connecticut. It's the on a per capita income basis, I think it's the second richest state.
+
+**56:26** · But 22% of the high school students have either dropped out of high school or are failing with absentee rates of greater than 25%. And as a result, a lot of it is gangs, shootings, drugs, and so on that leads to a lot of incarcerations.
+
+**56:47** · And the bill for incarcerations has become uh larger than the education budget. When you have that kind of cycle and so on, the system has to work for most of the people and and so on. So, you you um you you have that dynamic. But it all comes down to productivity.
+
+**57:09** · And so, um the way I look at it is the government run by almost anybody can't make these things run well. I mean, governments do not things run well. So, what is it like to give them the money and expect that they're going to make things work well? And so, you look at this set of circumstances and you say, "Who is going to make it work well?" I and I don't know the answer.
+
+**57:33** · And there's a budget considerations and so on. You have to prioritize to the things that make it work well. And and you know what that is? That is educating people to be productive and civil. We don't talk enough about civility, you know, how we work together to be able to achieve a productive result.
+
+**57:52** · And the way these cycles go, it's more likely that they're going to have a big fight and we're going to have, you know, a debt problem and those kinds of things than we how we are going to come together and work out how to achieve this environment which takes care of wonderful education and productivity of people and all of that to make the society work better for most people. And that's the way it looks and that's what's happened.
+
+**58:21** · Capitalism leads to inequality, it seems.
+
+**58:24** · Yeah.
+
+**58:25** · So But it doesn't have to.
+
+**58:27** · There are some societies um like in Singapore, some of the Scandinavian countries, some some societies, there is a a floor that everybody uh can have um good education, adequate housing, and adequate health care.
+
+**58:47** · The foundations.
+
+**58:49** · Okay?
+
+**58:50** · Because if you go below those levels, uh the society will pay terribly for it because those people will be liabilities, not assets of the society.
+
+**59:03** · They'll be disruptive.
+
+### Can Higher Taxes on the Wealthy Really Reduce Inequality?
+
+**59:04** · So what about wealth taxes? Cuz this is the big debate now. The the big debate in the UK at the moment is tax the rich.
+
+**59:10** · It's been all over our news over the last couple of weeks. The big debate in New York and LA is wealth taxes and tax the rich. Good idea, bad idea?
+
+**59:18** · It's a very difficult idea in the following ways. I'm just talking about the mechanics. They have to sell the wealth.
+
+**59:27** · And and that contributes to get the money to pay the taxes. That's one of those things that can cause the bubble to burst as we're talking about. And then, \[clears throat\] um, operationally, it's very difficult, unlike if they did it as, um, stepped-up tax bases. In other words, right now, when you die, your capital gains gets put aside. And you don't have to pay capital gains taxes, you pay inheritance taxes. And there are ways that you can raise taxes and not hurt the economy.
+
+**1:00:01** · But we do have to realize that it will lessen investment. Because what wealth is mostly used for is to put it into investment. So you have to do this with a at the same time the improvements in those that are going to improve productivity, like education and so on.
+
+**1:00:23** · If you're just making transfer payments, wealth payments, and you undermine the productivity of the society by doing that. In other words, you're just giving it for consumption and so on. And the money's going from what was capital expenditures and those kinds of investments that make, uh, a better, more productive society to go to, in a sense, consumption and so on. That doesn't produce that prod- productivity.
+
+**1:00:52** · That's going to be a problem. So you have to think, how do you make people productive and how do you make your society productive for most people? Or you're going to have to find a way where you say that other group of people who is not productive, um, the overall society can have a higher level of productivity, but we're going to still establish this bottom that I'm talking about. The bottom in education, the bottom in conditions. And then you have to say who was capable of doing it.
+
+**1:01:24** · Building a uh a society that will be productive.
+
+**1:01:29** · And who is that?
+
+**1:01:30** · Well, as I say, you have this dynamic problem that um uh typically a privately owned capitalist owned business will do better than their government counterpart.
+
+**1:01:47** · Okay, so business is more productive typically than a government entity.
+
+**1:01:51** · That's the system.
+
+**1:01:52** · So entrepreneurship, you need entrepreneurship.
+
+**1:01:54** · Yeah, and capital. In other words, people who are capable of making the thing they're responsible for productive. Okay? Run efficiently. Run efficiently. So you need those indisputably. And if you're doing that in government, you need that in government in order to be able to do it.
+
+**1:02:13** · And government has its own uh it first of all, it doesn't attract many of those people. And then it also has, by its nature, knowing many people have gone into it, it it is almost dysfunctional as it causes all of this arguing and problems. So those who want to be most productive tend not to go there. And also, um it doesn't uh distribute well. These people do not they're not on the ground. They don't have the direct contact. They don't know what it's like.
+
+**1:02:44** · And as I'm describing, I see it this way.
+
+**1:02:47** · Politicians.
+
+**1:02:48** · Yeah, the politician who says I'm uh I'm going to you know, so you still have to come back to the question, who's going to make it run efficiently?
+
+**1:02:58** · This is something that I've made for you. I realize that the Diverce City audience are strivers, whether it's in business or health. We all have big goals that we want to accomplish. And one of the things I've learned is that when you aim at the big, big, big goal, it can feel incredibly psychologically uncomfortable because it's kind of like being stood at the foot of Mount Everest and looking upwards. The way to accomplish your goals is by breaking them down into tiny small steps, and we call this in our team the 1%.
+
+**1:03:25** · And actually, this philosophy is highly responsible for much of our success here. So, what we've done so that you at home can accomplish any big goal that you have is we've made these 1% diaries, and we released these last year and they all sold out. So, I asked my team over and over again to bring the diaries back, but also to introduce some new colors and to make some minor tweaks to the diary. So, now we have a better range for you.
+
+**1:03:50** · So, if you have a big goal in mind and you need a framework and a process and some motivation, then I highly recommend you get one of these diaries before they all sell out once again. And you can get yours at the diary.com. And if you want the link, the link is in the description below.
+
+### Is the UK in Decline—and What Would Turn It Around?
+
+**1:04:07** · What is the UK currently a cautionary tale of?
+
+**1:04:10** · It's the classic cycle. They have gotten over indebted, under productive, and they've run out of choices. In other words, there's not enough money.
+
+**1:04:25** · Okay?
+
+**1:04:27** · And because there's not enough money um to to do all the things, then they've gotten this internal political conflict going. And you've had uh six out of the last seven years, you've had it a new pri- prime minister. Because somebody else comes in and they got their promise.
+
+**1:04:49** · And and the promise doesn't pan out, and it doesn't take long to be that that I don't believe your promise anymore, so you bring new people in and then you throw them out.
+
+**1:05:00** · We We just had a new prime minister yesterday.
+
+**1:05:02** · Yeah, I know. I'm I'm It's all part of this cycle. And so, what happens is they don't have the financial and the people move. It's just logical, right? It's just When you're heavily indebted and you're not as productive and you've got large wealth gaps, what are you going to do? It's politics. Um you're going to say, "I can't raise taxes because if I raise taxes, besides having great in conflict, people are going to leave."
+
+**1:05:31** · Uh okay. So, I can't I can't cut benefits because those who are receiving whatever those benefits are are the ones that are suffering them. And what am I going to do? Cut those benefits?
+
+**1:05:43** · So, now okay.
+
+**1:05:45** · But, wait a second. I'm running a big deficit or I don't have enough money. So, where does the money come from? How do I get out of not getting more in debt? And then what does that mean for the person who's lending to you? They don't want to lend to you, right? So, you're not going to get the money to finance the deficits.
+
+**1:06:04** · It's mechanics.
+
+**1:06:06** · So, what is it they have to do to get out of that situation?
+
+**1:06:09** · They're going to have to have a, you know, a major restructuring. You're going to have to um Go bankrupt.
+
+**1:06:17** · Wipe out.
+
+**1:06:18** · Yeah, well well, the the way these central banks work now is they do a mixture of printing money, which produces inflation, and then restructuring the debt in some way, like maybe changing the maturity.
+
+**1:06:33** · Well, and and in these cycles, quite often they put in capital controls because they think people are leaving, so they don't want them to leave and take their money with them. So, they put in capital controls that says, "You can't leave with your money." Okay, and they'll have exit taxes. And that's the type of thing that happens until, you know, there's period of great turbulence. Then you um through a combination of restructuring the debt.
+
+**1:07:01** · Restructuring the debt means like quite often you lengthen the maturity of the debt.
+
+**1:07:07** · Okay.
+
+**1:07:07** · I think what's needed is a strong middle.
+
+**1:07:11** · What does that mean?
+
+**1:07:12** · Right now, there's a left and right, and they're extreme. And as long as they're at war with each other, that's going to make things worse.
+
+**1:07:20** · Yeah.
+
+**1:07:21** · If you can find that middle course, so that those at most extreme um are more alienated than those who say, you know, we're going to have to figure this out together.
+
+**1:07:37** · And then what I would do, that leadership, that core, I would have um something like a bipartisan commission, in which smart people, meaning who understand how economics and these things work, of both parties work together to uh come up with a small uh and difficult plan. In other words, you're going to have to make difficult changes in order to make that um work well.
+
+**1:08:05** · But, if you can achieve that, you know, like sometimes in history, great leaders of opposing sides have been able to come up with a plan. I mean, that's how the Constitution was made. You come up with a plan for operating that way, and then you impose those difficult changes. And then when I say this, I I say that that's very difficult and very long shot.
+
+**1:08:33** · But, um unless you have bipartisan support, unless you do it in a way where the pain is shared, um and there's a sense that there is a um we're doing the right thing, as well as not a sense, just a reality of doing the right thing, to make most people productive, that is the best path forward.
+
+### Where Should Young Entrepreneurs Build Their Business Today?
+
+**1:09:01** · If you were a young entrepreneur, you know, 21 years old, would you build a company in the UK now if you had a choice? And if not, why not? And if so, why?
+
+**1:09:14** · I would uh exist without and try to exist without borders.
+
+**1:09:18** · What does that mean practically?
+
+**1:09:19** · In other words, put aside all of these things that we're talking about to a large extent and say where are the places in the world that are that have the vibrancy, that have the capital, that have uh the elements that are needed. There are bright spots in the world and I'd want to be around the most intelligent, doing the most cutting-edge, terrific things and be global. In other words, don't be just stuck in a provincial place.
+
+**1:09:48** · Go to these places that are what I might call almost Renaissance states that are good things are happening and these qualities exist that not only good education, the civility, the vibrancy. Be in those places, but be able not just in one.
+
+**1:10:08** · There's a Chinese not a Chinese, Hong Kong expression. I think that a smart rabbit has three holes. And what it means is like if the one place that you go to, uh it may not be the place that uh remains the best place. They're riskier places. The riskier places are those that don't have the elements I mentioned. The education, the civility, the productivity, all of those things.
+
+**1:10:34** · So, would you Would one of those places be be the United Kingdom? Cuz me and my friends talk about this sometimes, you know, I've got I've invested in lots of companies there and the founders come to me and ask me these kinds of questions, which is is based on everything that's going on with this turmoil and the big cycle, um what's going to happen if I continue to build my company here in the United I think that um I think the United Kingdom, as it goes through these difficulties is as a whole a more difficult place.
+
+**1:11:02** · And then there are pockets of it that when they're operating are in their pockets very stimulative having those elements just like in the United States there are places and pockets that have those. However, they're within a system in a place that is um not um not healthy.
+
+### Does a 2% Wealth Tax Actually Work?
+
+**1:11:26** · The real dominant narrative we're seeing as I said this week is that because there's this problem you said there's not enough money the the most popular narrative which I think is supported by about 70% of people is that people over 10 million net worth this this is something proposed by one of my former guests Gary Stevenson who did a documentary last week should have a 2% wealth tax.
+
+**1:11:49** · My preferred way is to stop people from hoarding enormous amounts of wealth for enormous amounts of time. That's my that's basically my preferred method. There's also the wealth tax method. There's also capital gains as a method.
+
+**1:12:00** · There's a lot of different ways to There's a lot of different ways to but you have to deal with the problem of if you do not do not tax very wealthy individuals and very wealthy families their share of the pie will obviously go over time and they will and they are as we are watching squeezing out ordinary families.
+
+**1:12:15** · And this is kind of it would raise I think it's I think they said 20 billion dollars or something like that but it would raise some money. Um so the the big debate in the country at the moment is yeah do we one way to raise money would be this wealth tax. Proponents of that or I should say um people that are against that say people will leave.
+
+**1:12:32** · If you took all of the money of people in the in the top not in other words taxed at 100% you're not going to come up with enough money because it's a such a small percentage of the population and and but and that but it in addition yes the people will leave. Then you change the laws so that you make them retroactive.
+
+**1:12:58** · In other In other words, you say the law means you're going to be taxed as of a past date, so that if you leave, um we're going to get your money.
+
+**1:13:12** · Or then you put in capital controls. All of this has happened before. Wealth taxes would be new. Wealth taxes are administratively difficult. Cuz how do you value all this wealth that is not easily valued and such things. But yes, what you've just said is um well recognized.
+
+### The 80-Year Cycle: Are We Entering the Collapse Phase?
+
+**1:13:31** · You mentioned earlier that this big cycle takes place, this one here on the front of your book, The Changing World Order, happens roughly every 80 years.
+
+**1:13:39** · Yes, it's like health.
+
+**1:13:42** · What I mean is it varies. On average, let's say, what is the life expectancy of a person, but life expectancies or how long people live vary. I wouldn't uh uh emphasize too much um the amount of time exactly as much as I would uh look at your condition.
+
+**1:14:05** · Where are we in this um at the moment with in terms of the symptoms or markers of the next big Well, Chrysler over in this vicinity over here, um you know, uh we're on the um when we say that um the US, the UK, number of other countries are um later in that cycle when there's the loss of the things that we've been talking about. Uh over-indebtedness, moreover-indebtedness, the loss of power.
+
+**1:14:36** · So, in the collapse period of decline I'll call that the the decline.
+
+**1:14:40** · And you've studied this for how long in terms of years. The cycles for 500 years and in a number of countries that's in that book. These are objective measures. This is not subjectivity. You can measure these things. You can measure the level of indebtedness. You can measure the education levels and the competitiveness. You can measure all these things in clearly measurable numbers that show the health just like a physical exam.
+
+**1:15:11** · When there's a new world order because of this decline through history over the last 500 years, has there ever been two superpowers that emerge as the dominant superpowers?
+
+### Can the Next World Order Have More Than One Superpower?
+
+**1:15:21** · Or is it just tends to be one?
+
+**1:15:23** · In the past, prior to World War I, there was no World War I happened and then World War II happened because the world came together and there was one world essentially.
+
+**1:15:39** · Before that, there were regions and they would have the different powers and you could have a powerful China or India could be very powerful at the same time as the UK or the Dutch and whatever would be powerful and they weren't in that one world. And the basic issue is when you have one world and you have disagreements, you're always going to have disagreements. How do you resolve those disagreements?
+
+**1:16:08** · Cool.
+
+**1:16:09** · War, okay. It maybe it's not physical war, maybe it's whatever it is, but there's a disagreement. Where does the border lie? Where does this Okay, the rules-based order is a theoretical conception of the United States coming out of World War II because there's the idea of how do you govern and you have representatives and you have them in the United Nations and so on.
+
+**1:16:35** · And you know, that's a nice theory, but the reality is when that comes in is inconsistent with power, which wins? Power or that rule-based system? So, by nature, with to answer your question, it means tends to be a dominant power. We will see. China and I think the United States I think the most likely beneficial outcome is that it becomes more regional.
+
+**1:17:06** · Okay? China has no desire to occupy, control other countries for for various cultural reasons and things that I can go into. And and they their basic objective is to not be cut off, not be harmed, and then also be as good as they can be and and be competitive following their approach to a system, which is very much a top-down controlled system that's an extension of Confucianism, which is like the family, and that's what they want to do.
+
+**1:17:39** · You can possibly have this region thing, but you're not going to have the dominant world power if that's the case. You have some chance that there's a great conflict, but I think that there's enough wisdom in a sense to not want to go there.
+
+**1:17:57** · So, there's always there's pretty much always been a superpower through different cycles. There's been one dominant power through these historical cycles. You're saying that you believe in the next decline there won't be one dominant power, which has been the US for the last 80 odd years, there will be two. Because you you can't foresee there being a conflict at the scale that would result in one dominant power.
+
+**1:18:20** · The strength of each country will be how they take care of themselves.
+
+**1:18:26** · Uh are they going to be strong or are they going to be weak based on how they educate their population, how they spend their money, how they manage to Those will determine the relative powers of those countries, right? And so, that'll be true certainly for the United States and China. And so, as we go forward, how will those systems deal with those issues in the best possible way?
+
+**1:18:51** · And that I would say, as long as the United States remains a power, but it's in it has a risk of of having a very bad set of circumstances through debt and conflict and these things that erode it, it'll be from within that those things, particularly, could change that relative balance of power. And similarly, if China managed itself badly, it I could change that.
+
+**1:19:20** · Given that the if they both remain powerful entities, then what you're going to see is, I believe, more the recognition that there are regions, okay? Just like the there's the Americas, okay? And that becomes heavily much more the region and where that spills over. And then there's the region around China, the APAC countries, and though that region.
+
+**1:19:51** · And that there would be the development within those regions, and I do believe the avoidance of the big war that would be very detrimental. There are issues like the Taiwan issue, but the Taiwan issue will
+
+**1:20:09** · be handled by, in my opinion, most likely not militarily in the sense that there will be a great war between the United States and China over it, but in the pressures that are going to be created so that there is a reunification of China.
+
+### What the Iran Conflict Could Mean for the New World Order
+
+**1:20:28** · You mentioned conflict there. The United States are at war with Iran, and it seems to be a war that they can't seem to get out of. This is going to have an impact, presumably, on lots of things you've described here, but also the feelings of people at home.
+
+**1:20:42** · As, you know, we we face the prospect of the United States sending troops on the ground into Iran, because this the Strait of Hormuz is going to become this choke point to global energy, and they're going to, you know, and what does Trump do about that? He can't It's like Vietnam, he can't leave. Or else he is going to look bad. Um he If he stays, he looks bad.
+
+**1:21:02** · Midterms coming up.
+
+**1:21:04** · What's your thoughts on this war in Iran? Do you think it was a bad idea? Do you think it was a good idea? Do you think it was Do you think it's Does it play a role in all of this stuff here? The US Please elaborate.
+
+**1:21:13** · this war in Iran, I think it Here's what's happening.
+
+**1:21:19** · Internationally, I I I get I get to speak to world leaders and and so on, and and particularly uh in Asia, there's a a recognition that um the United States uh doesn't want to uh fight a war. So, the the litmus test is uh do you Who controls the Strait of Hormuz?
+
+**1:21:40** · And that the United States, um because the population in the United States is worried about uh gas prices and losing people, and and they want it to be be all over fast, that uh you can't fight a war that way. And so, what you have is the United States will not show up in Asia.
+
+**1:22:06** · What does that mean, show up in Asia?
+
+**1:22:08** · In Asia, there are all these countries who believe that the United States was going to play an important role as a counterbalancing influence for power in the region, because China's the dominant power, and the others are much less power. And so, the United States being in there was going to balance those power, and because they have a military presence, the idea of having bases in their countries was believed to be that will help that happen.
+
+**1:22:40** · Okay, now there's a recognition that not only they would show up, but maybe these bases can become liabilities, and that the Chinese have a lot of influence and power under that set of circumstances. For example, chips come out of Taiwan. We could imagine what would happen if they blockaded chips leaving Taiwan. Okay, you'd see the world stock markets crash. You would see terrible terrible things. That represents a non-military power, just even the ability to threaten that.
+
+**1:23:18** · Say the Chinese say for 5 days we're not going to have it. What will the United States literally do? Or if you go to countries like the Philippines, which has a treaty with the United States that's like a NATO treaty. How would the American public react that we're going to send military, you know, aircraft carriers and so on into the Philippines to stop the Filipinos from being picked on by the Chinese?
+
+**1:23:46** · I mean, so what you're seeing is a change that is very similar to the British Empire in terms of being weaker. I remember a time not long ago that the United States would just have to almost hint to a country that we would like this thing to be this way, or you would like it to do that that, and they would do it because of the American power, not just military power, but economic power and so on.
+
+**1:24:18** · Well, as you're seeing that power being eroded, For example, China is a larger trading partner with most countries than the United States is. Or capital turning up. So, these things matter. So, you're you're seeing that kind of a shift in power. I'm a global macro investor. And my goal is to be as accurate as I possibly can. I can't let biases stand in my way of doing that.
+
+**1:24:48** · So, I look at statistics and measures and indicators and so on. So, what I'm saying is clear. It is you know, it's apparent. It's mechanics.
+
+**1:24:59** · So, what does that mean for the Iran situation then?
+
+**1:25:02** · Does it mean that Well, it means that it's a very, very difficult situation. What what is all through history and the Chinese know this very well because their way of having a war is conveyed in the art of war and also the tribute system as they call it. You cannot easily go in and control a country for a long period of time occupying. There are, you know, 90 million Iranians and they will be there no matter what happens.
+
+**1:25:33** · Now, the question is do you have what it takes to take control of the Strait of Hormuz by way of example and allow and in other words, do you allow that to be in the hands of the Iranians or do you not? And are you willing to pay the price to be able to put yourself in the position, which means take a lot of pain and then
+
+**1:26:01** · enforce that for the I don't know, forever and ever future because it's not just take control today, it means okay, how is that going to go on and what does that mean in these other locations? Does the United States we're going to do the same thing with the Chinese in Asia? They're going to do the same thing all around?
+
+**1:26:23** · Probably. Okay. So, what does that mean?
+
+**1:26:26** · Okay, a change in the world order.
+
+**1:26:29** · It sounds like a big mistake.
+
+**1:26:30** · Oh, yeah. It It was a big mistake. And also, what it did is it shown a light on the vulnerability. Before, it didn't It wasn't apparent.
+
+**1:26:43** · Vulnerability of?
+
+**1:26:45** · The United States in being able to enforce. You know, when there's always the threat, we'll come in there. Uh the strait is open. We're not dealing with this. And there's always the threat that the United States will uh remain control. And that would be true in Asia and other places. Now, a light bulb goes off. In other words, the like the British in uh the Suez Canal, we didn't realize. Now, we realize.
+
+**1:27:16** · That threat no longer work.
+
+**1:27:17** · That that power no longer exists.
+
+**1:27:21** · I guess we shall see.
+
+**1:27:22** · Ray, thank you so much for uh committing this season of your life to being more of a public educator.
+
+**1:27:27** · Because your books here that have been read by millions millions and millions of people and the videos that you produced that have been watched by tens and tens hundreds of millions of people um have been so formative for so many of us understanding the world in simplified ways. And what I love about the work that you do is you explain the world through principles versus tactics and strategies which are a little bit more ephemeral than understanding the underlying principles. And I think it does two things. It helps us understand the world in ways that are allow us to see past the current short-term moment that we're in.
+
+**1:27:54** · But it also helps us think generally um from a more macro perspective about how all these things connect together. And I think that's broadly applicable. The idea of like principled thinking is broadly applicable to all areas of life, whether it's relationships or your business or your health whatever it might be. Um you've really written the definitive books on this subject matter. I've got all of them here.
+
+**1:28:13** · Um I mean, Principles is the first one that I ever read, but then I watched all of your your videos on your YouTube channel, which uh explain it in animated ways. Those are absolutely stunning videos. They're unbelievably stunning videos, and I It's funny cuz, you know, I've watched a lot of videos, YouTube videos in my life, but there's some that I have just never forgotten.
+
+**1:28:31** · And your book and your video are about the book on your YouTube channel, which I'll link to below, are a video on YouTube that I've just never forgotten, cuz it suddenly helped me understand the bigger picture in a way that I don't think I would have ever understood otherwise. There's no I didn't go I didn't go to my history classes in school. Um I'm never going to read history books necessarily. So, um that video you made, but also the book itself really helped me understand there's always a bigger picture. And funnily enough, I go looking for the bigger picture and the cycles, should I say, in all other facets of life and psychology.
+
+**1:29:03** · Because when you're dealing with humans, you are dealing with cycles. That's what what I've I've come to realize, and you can find them and spot them everywhere and then prepare for them accordingly. Thank you for the wonderful work that you do in this regard. I'll link all of these books below. Highly recommend reading them, and they're not for boffins or super smart people. They're for everybody, and uh they're written in such a way. So, I appreciate that.
+
+**1:29:22** · you for saying that. I find the videos are very digestible. One, how the economic machine works it I think it's 30 minutes, and it's been watched by 140 million people.
+
+**1:29:33** · Pretty sure.
+
+**1:29:34** · And and people get it. So, I think it's my responsibility to try to communicate also in a clear, simple, digestible way. So, I like to take a concept that's in a book and make it into a 30, which is to try to pass along what might be helpful to people. So, thank you.
+
+**1:29:54** · Thank you for committing your your this season of your life to that. I really appreciate it, and so do many millions of my listeners. So, thank you. YouTube have this new crazy algorithm where they know exactly what video you would like to watch next based on AI and all of your viewing behavior. and the algorithm says that this video is the perfect video for you. It's different for everybody looking right now. Check this video out, I bet you you might love it.
