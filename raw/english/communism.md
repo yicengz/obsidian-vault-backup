@@ -3,7 +3,7 @@ description: 共产主义（communist 共产主义者/共产主义的；the spre
 language:
   - 英语
 created: 2026-10-05
-is_user_requested: true
+is_yiceng_request: true
 ---
 
 ## 语境

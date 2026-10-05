@@ -3,7 +3,7 @@ description: 民族主义（nationalist 民族主义者/民族主义的；the ri
 language:
   - 英语
 created: 2026-10-06
-is_user_requested: true
+is_yiceng_request: true
 ---
 
 ## 语境

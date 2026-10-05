@@ -3,7 +3,7 @@ description: 福尔摩沙（台湾的西方旧称，源自葡萄牙语 Ilha Form
 language:
   - 英语
 created: 2026-10-06
-is_user_requested: true
+is_yiceng_request: true
 ---
 
 ## 语境

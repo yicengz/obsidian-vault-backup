@@ -3,7 +3,7 @@ description: 模糊的；模棱两可的（名词 ambiguity；strategic ambiguit
 language:
   - 英语
 created: 2026-10-06
-is_user_requested: true
+is_yiceng_request: true
 ---
 
 ## 语境
@@ -17,3 +17,4 @@ They recognize that Beijing thinks this, but they continue to operate with the *
 ## 相关
 
 - [[ambiguity]] —— 同族词（ambiguous 的名词形式）
+- [[undetermined]] —— 美国战略模糊政策的核心措辞（Taiwan's status is undetermined）

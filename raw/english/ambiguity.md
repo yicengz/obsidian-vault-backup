@@ -3,7 +3,7 @@ description: 模糊；模棱两可（ambiguous 的名词形式；strategic ambig
 language:
   - 英语
 created: 2026-10-06
-is_user_requested: true
+is_yiceng_request: true
 ---
 
 ## 语境
@@ -17,3 +17,5 @@ The US uses that intentional **ambiguity** to keep this tense situation somewhat
 ## 相关
 
 - [[ambiguous]] —— 同族词（ambiguity 是 ambiguous 的名词形式）
+- [[intentional]] —— 高频搭配 intentional ambiguity（有意的模糊）
+- [[undetermined]] —— 美国战略模糊政策的核心措辞（Taiwan's status is undetermined）
