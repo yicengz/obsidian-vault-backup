@@ -496,3 +496,8 @@ Investing（1 个）：
 ### 附：thinking 新增 [[与无聊相处]]
 
 蒸馏来源：`raw/inbox/20261002113043.md`（no rush）+ `raw/inbox/20260923200546.md`（空中wifi）+ `raw/inbox/20260923201239.md`（飞行阅读《倦怠社会》摘抄）+ `output/vx/writing and thinking/20260925220748.md`（公众号草稿）。核心：功绩社会的自我剥削机制、超注意力 vs 深度无聊、三组对照实验（断网飞行 / SQL 等待 / 第比利斯 no rush）。[[wiki/index|Wiki Index]] 已同步。
+
+
+### 附：quotes 金句库整理
+
+flomo 导入完成后，通读全部 `#金句整理` 相关 memo（82 篇），重写 [[wiki/quotes/index|金句]]：按主题分为投资与周期 / 工作商业与组织 / 心态与修行 / 佛学与东方智慧 / 认知学习 / 社会观察 / 设计创作 七区，收录约 60 条，每条链回 flomo 原始 memo；⭐ 标记 `#金句整理/自己喜欢`。
