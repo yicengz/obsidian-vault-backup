@@ -12,3 +12,7 @@ It's looking like the US is gonna be in Asia for a while, all in the name of con
 > 看起来美国要在亚洲长期待下去了，名义上全是为了遏制共产主义的蔓延。
 
 来源：[[20261005234230|Why This Island Could Trigger World War 3]]
+
+## 相关
+
+- [[capitalism]] —— 与 communism 成对记忆（冷战叙事的一对核心概念）

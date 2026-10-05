@@ -12,3 +12,7 @@ created: 2026-10-06
 > "中国特色的资本主义"开始腾飞，两国贸易往来，重塑着全球经济格局。
 
 来源：[[20261005234230|Why This Island Could Trigger World War 3]]
+
+## 相关
+
+- [[communism]] —— 与 capitalism 成对记忆（冷战叙事的一对核心概念）

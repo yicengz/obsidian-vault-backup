@@ -329,3 +329,28 @@ obsidian help
 - **IBKR 资金进出明细导出**：https://www.interactivebrokers.com.hk/AccountManagement/AmAuthentication?action=RpTransactionHistory#!#1a71299f-7456-4d2f-b5af-5a9996f02c35
   - 用途：导出所有资金进出记录，可追溯完整投资历史
   - 需先登录 IBKR 账户
+
+
+---
+
+## raw/english/ 语言词条
+
+英语单词/短语词条，被根目录 `language.base` 按 `language` 属性收录。
+
+- 命名：单词或短语原形作文件名（如 `volatility.md`、`green light.md`）
+- Front-matter：`description`（中文释义+常见搭配）、`language: [英语]`、`created`
+- 正文结构：`## 语境`（来源原文句，词条加粗 → 中文翻译引用块 → `来源：[[xxx|标题]]`）
+
+### 词条互链规则（## 相关）
+
+语义上成对或强相关的词条（反义词、同族词、成对概念如 communism/capitalism），在词条末尾加 `## 相关` 小节互相链接：
+
+```markdown
+## 相关
+
+- [[capitalism]] —— 与 communism 成对记忆
+```
+
+- 双向都要加（A 链 B，B 也链 A）
+- 链接后附一句短注，说明关联方式（反义/同族/成对）
+- 沿用 wiki/ 条目的 `## 相关` 惯例
