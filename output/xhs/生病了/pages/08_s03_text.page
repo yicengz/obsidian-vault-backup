@@ -1,0 +1,43 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: header-num
+    elementType: text
+    bounds: [96, 96, 120, 44]
+    content:
+      style: "$secnum"
+      wrap: false
+      text: "03"
+  - elementId: header-title
+    elementType: text
+    bounds: [96, 144, 768, 58]
+    content:
+      style: "$sectitle"
+      wrap: false
+      text: 泡面与北京
+  - elementId: rule
+    elementType: shape
+    bounds: [96, 232, 72, 4]
+    shapeName: rect
+    fill: {type: solid, color: "$accent"}
+  - elementId: body
+    elementType: text
+    bounds: [96, 292, 768, 850]
+    content:
+      style: "$body"
+      align: [left, top]
+      text: |
+        <p>大概只有生病的时候才会特别渴望有个人能够陪伴自己。</p>
+        <p style="margin-top:20px">之前我有一个很不错的工作机会，但是需要去北京，而我和爱人的家在上海。虽然最后对方也没有挑选我（或许城市也是原因之一），但我当时始终觉得只要发offer了我一定会去。</p>
+        <p style="margin-top:20px">而当我这次生病卧床的第一天，是爱人开车把我从健身房接走，并在晚上送我去医院；也是她在我突然肚子很饿的时候，煮了一碗泡面+午餐肉。这种不需要拖着糟糕身体去完成一些必须做的事情，还是很幸福的。</p>
+        <p style="margin-top:20px">虽然当时的工作机会也争取到了2个月3周居家办公，但极端情况（比如突发生病）的陪伴，确实不是一张机票能快速弥补的。</p>
+  - elementId: pagenum
+    elementType: text
+    bounds: [760, 1200, 104, 30]
+    content:
+      style: "$caption"
+      align: [right, middle]
+      wrap: false
+      text: 09 / 14

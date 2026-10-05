@@ -178,6 +178,30 @@ aliases:
 
 ---
 
+## footprint/ 足迹
+
+记录值得纪念的事件足迹：读完一本书、去哪里溜达了一圈、一场有意义的饭局/沟通、线下读书会等。
+
+- 命名：描述性名称（如 `《局外人》.md`、`读书分享会.md`）或时间戳，两种并存
+- Front-matter：
+  ```yaml
+  ---
+  title: YYYYMMDD｜事件描述
+  footprint_date: YYYY-MM-DD
+  footprint_type: book | movie | active | ...
+  ---
+  ```
+- 正文通常用 embed 链回素材页，如 `![[output/book/《局外人》|《局外人》]]`
+
+### output/book/ 书籍档案
+
+- 每本书一个文件：`《书名》.md`
+- Front-matter 只放静态档案信息：`author`、`publisher`、`comment`、`cover`、`douban`（豆瓣链接，必填，格式 `https://book.douban.com/subject/<id>/`）
+- **不记阅读时间**——书可以读多次，"读完"是带时间戳的事件，记在 footprint/；每重读一次就加一条新 footprint
+- 历史字段 `miletone_date` 已废弃，勿再使用
+
+---
+
 ## Front-matter flag 速查
 
 | Flag | 含义 |
@@ -186,14 +210,29 @@ aliases:
 | `is_essay: true` | 思考/研究类长文（多见于 raw/inbox 和部分 wiki） |
 | `is_wx_article: true` | 准备/已发布到公众号 |
 | `is_yiceng_public: true` | 已发布到 yiceng 个人公众号 |
+| `is_processed: true` | 该剪藏已消化读完（仅 raw/clippings，见下节） |
 
 实际使用时基本互斥——选最合适的那个。
+
+## raw/clippings/ 剪藏的 is_processed 约定
+
+Web clipper 创建的剪藏带 `is_processed` 字段，语义：
+
+- `true` —— 已消化读完，可以进 wiki 蒸馏流程
+- `false` —— 明确标记为未读/不想处理
+- 留空 —— 未标记（默认状态，大多数剪藏是这种）
+
+工作流含义：
+
+1. **蒸馏到 wiki 时**：优先处理 `is_processed: true` 的剪藏；`false` 或留空的跳过（除非用户点名某篇）
+2. **盘点阅读积压时**：`false` + 留空 = 未消化清单，可主动问用户要不要清
+3. **日记关联不受此字段影响**——剪藏当天仍照常链进 diary
 
 ---
 
 ## 常见请求处理
 
-- **"整理到 wiki"**：从 `raw/` 提炼核心概念到 `wiki/<subfolder>/<concept>.md`，加 `## 相关` 内链。不要复制 diary 原话，要提炼可复用的概念
+- **"整理到 wiki"**：从 `raw/` 提炼核心概念到 `wiki/<subfolder>/<concept>.md`，加 `## 相关` 内链。不要复制 diary 原话，要提炼可复用的概念。剪藏来源优先 `is_processed: true` 的
 - **"新建一个时间戳日记 / 把这段对话存起来"**：建在 `raw/inbox/YYYYMMDDHHMMSS.md`，HHMMSS 优先用对话第一条消息的时间，否则用当前时间
 - **"写一篇公众号"**：建在 `output/`，命名 `VX公众号 [channel] [主题].md`；与 AI 协作的草稿放 `output/chat with ai/`
 - **用户引用日期或时间戳**（如 "20260505"）：先搜 `diary/` 和 `raw/inbox/`
@@ -204,6 +243,8 @@ aliases:
 ## 个性化回复风格
 
 在每次回复结束时，加上一句「喵～」作为签名。
+
+回复和写作中避免使用 [[不想听到的表达]]（根目录 `不想听到的表达.md`）里列出的词和短语。每次会话视为已读该文件；新增条目即时生效。
 
 ## 工作原则
 

@@ -1,0 +1,47 @@
+version: v2
+title: 生病了 · 小红书图文
+size: [960, 1280]
+customFonts:
+  - family: 思源宋体
+    src: "https://statics.kimi.ai/neo-design-static/p-font/思源宋体.ttf"
+theme:
+  colors:
+    paper: "#F7F2E9"
+    ink: "#2E2A26"
+    muted: "#8A8378"
+    accent: "#B0562F"
+    photoDark: "#161310"
+  textStyles:
+    secnum:
+      fontSize: 30
+      color: "$accent"
+      fontFamily: 思源宋体
+      bold: true
+    sectitle:
+      fontSize: 40
+      color: "$ink"
+      fontFamily: 思源宋体
+      bold: true
+    body:
+      fontSize: 26
+      color: "$ink"
+      fontFamily: 思源宋体
+      lineHeight: 1.9
+    caption:
+      fontSize: 18
+      color: "$muted"
+pages:
+  - pages/01_cover.page
+  - pages/02_preface.page
+  - pages/03_s01_photo.page
+  - pages/04_s01_text.page
+  - pages/05_s01_text_b.page
+  - pages/05_s02_photo.page
+  - pages/06_s02_text.page
+  - pages/07_s03_photo.page
+  - pages/08_s03_text.page
+  - pages/09_s04_photo.page
+  - pages/10_s04_text.page
+  - pages/11_s05_photo.page
+  - pages/12_s05_text.page
+  - pages/13_end.page

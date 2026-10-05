@@ -1,0 +1,44 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: header-num
+    elementType: text
+    bounds: [96, 96, 120, 44]
+    content:
+      style: "$secnum"
+      wrap: false
+      text: "01"
+  - elementId: header-title
+    elementType: text
+    bounds: [96, 144, 768, 58]
+    content:
+      style: "$sectitle"
+      wrap: false
+      text: 久违的双休
+  - elementId: rule
+    elementType: shape
+    bounds: [96, 232, 72, 4]
+    shapeName: rect
+    fill: {type: solid, color: "$accent"}
+  - elementId: body
+    elementType: text
+    bounds: [96, 292, 768, 850]
+    content:
+      style: "$body"
+      align: [left, top]
+      text: |
+        <p>上周是我最近七周里的第二次双休，因为工作上有两个非常重要的事情要赶进度：</p>
+        <p style="margin-top:12px; margin-left:24px">1. 一个非常大的业务专项</p>
+        <p style="margin-left:24px">2. 数仓的AI取数落地</p>
+        <p style="margin-top:20px">原本的计划是周六一节普拉提训练、周日一节力量训练，阅读一下索尔金写的《1929》 —— 一场关于美国20世纪30年代大萧条的故事 —— 投机者的狂热制造了泡沫，而泡沫破裂后则是接近10年的大萧条。至少在金融与经济上，我觉得人类从历史中吸取的教训就是不会吸取教训。</p>
+        <p style="margin-top:20px">在当下AI火热的浪潮里，市场追逐热点与"还没完全明晰的商业收益"，Ray·Dalio 多次警告市场狂热带来的泡沫风险。而我此时也在大厂内部被"AI代码贡献率"等相关指标抽着往前走，我并不反感AI，但此时我其实更想当一个《局外人》。</p>
+  - elementId: pagenum
+    elementType: text
+    bounds: [760, 1200, 104, 30]
+    content:
+      style: "$caption"
+      align: [right, middle]
+      wrap: false
+      text: 04 / 14

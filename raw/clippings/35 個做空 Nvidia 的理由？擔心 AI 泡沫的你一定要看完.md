@@ -10,6 +10,7 @@ trigger:
   - "youtube.com/watch"
 tags:
   - "clippings"
+is_processed: true
 ---
 ![](https://www.youtube.com/watch?v=T_6ItJrj-q4)
 

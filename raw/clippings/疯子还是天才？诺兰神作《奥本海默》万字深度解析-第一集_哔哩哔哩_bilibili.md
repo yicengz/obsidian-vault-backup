@@ -11,4 +11,4 @@ trigger:
 tags:
   - "clippings"
 ---
-<iframe width="560" height="315" src="https://player.bilibili.com/player.html?bvid=BV1zPNK6aE6o&amp;page=1&amp;high_quality=1&amp;danmaku=0" title="Bilibili video player" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://player.bilibili.com/player.html?bvid=BV1zPNK6aE6o&amp;page=1&amp;high_quality=1&amp;danmaku=0&amp;autoplay=0" title="Bilibili video player" frameborder="0" allowfullscreen=""></iframe>

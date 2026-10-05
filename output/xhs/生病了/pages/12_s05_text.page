@@ -1,0 +1,44 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: header-num
+    elementType: text
+    bounds: [96, 96, 120, 44]
+    content:
+      style: "$secnum"
+      wrap: false
+      text: "05"
+  - elementId: header-title
+    elementType: text
+    bounds: [96, 144, 768, 58]
+    content:
+      style: "$sectitle"
+      wrap: false
+      text: 被世界抛弃
+  - elementId: rule
+    elementType: shape
+    bounds: [96, 232, 72, 4]
+    shapeName: rect
+    fill: {type: solid, color: "$accent"}
+  - elementId: body
+    elementType: text
+    bounds: [96, 292, 768, 850]
+    content:
+      style: "$body"
+      align: [left, top]
+      text: |
+        <p>在白天卧床的某个瞬间，我突然有一种被世界抛弃的感觉，以及能理解为什么诗人会歌颂自由的小鸟。</p>
+        <p style="margin-top:20px">当我在房间里卧病在床，没法像正常人一样出门散散步、呼吸呼吸新鲜空气，光两天我就觉得特别难受。</p>
+        <p style="margin-top:20px">我想躲着手机和电脑显示器，就是上文中说的"贱"没事看两眼，久了也觉得眼睛不舒服。我当时特别想「亲近一下大自然」，最终在周二下午下楼去小区里溜达了一圈。说来还挺好笑的，其实当时头有点重，脚步也比较小，有点步履蹒跚的状态，我会觉得自己有点像个年迈的老人。</p>
+        <p style="margin-top:20px">然后我突然就有点忧伤：那些身体不便、只能卧床在家的老人，或许过的就是这样的日子吧，而且可不是像我这样一天两天卧床。不知道他们的内心里，是否会有一种被世界抛弃的感觉。</p>
+        <p style="margin-top:20px">那天散步的时候，是我们数仓团队内的周会。其实我的活儿还挺重的，但组里有两位不错的小伙伴，晚上的内部周会就靠他俩了。我觉得我的内心可能也会有自己被工作抛弃的焦虑与恐惧。</p>
+  - elementId: pagenum
+    elementType: text
+    bounds: [760, 1200, 104, 30]
+    content:
+      style: "$caption"
+      align: [right, middle]
+      wrap: false
+      text: 13 / 14

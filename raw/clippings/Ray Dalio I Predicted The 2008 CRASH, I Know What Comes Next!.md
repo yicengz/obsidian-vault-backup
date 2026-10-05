@@ -10,7 +10,7 @@ trigger:
   - youtube.com/watch
 tags:
   - clippings
-is_processed:
+is_processed: true
 ---
 ![](https://www.youtube.com/watch?v=Bu0xNDLNORU)
 
@@ -902,3 +902,10 @@ Ketone - https://ketone.com/STEVEN for 30% off your subscription order
 **1:29:34** · And and people get it. So, I think it's my responsibility to try to communicate also in a clear, simple, digestible way. So, I like to take a concept that's in a book and make it into a 30, which is to try to pass along what might be helpful to people. So, thank you.
 
 **1:29:54** · Thank you for committing your your this season of your life to that. I really appreciate it, and so do many millions of my listeners. So, thank you. YouTube have this new crazy algorithm where they know exactly what video you would like to watch next based on AI and all of your viewing behavior. and the algorithm says that this video is the perfect video for you. It's different for everybody looking right now. Check this video out, I bet you you might love it.
+---
+
+## 处理记录
+
+- 剪藏于 [[20260904|2026-09-04]]（当日日记有记录）
+- 2026-09-05 蒸馏进 wiki：[[AI泡沫论战]] · [[财富不等于货币]] · [[达利欧的大周期]]
+- 2026-09-05 与 Claude 的观点/预警/历史总结：[[output/chat with ai/Claude 对谈·Dalio DOAC 访谈总结|Claude 对谈·Dalio DOAC 访谈总结]]

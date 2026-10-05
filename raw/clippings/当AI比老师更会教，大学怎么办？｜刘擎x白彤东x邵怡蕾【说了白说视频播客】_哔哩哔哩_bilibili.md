@@ -9,5 +9,6 @@ trigger:
   - "bilibili.com/video"
 tags:
   - "clippings"
+is_processed: false
 ---
 当AI比老师更会教，大学怎么办？｜刘擎x白彤东x邵怡蕾

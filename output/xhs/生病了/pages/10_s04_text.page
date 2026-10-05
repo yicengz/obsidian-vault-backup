@@ -1,0 +1,44 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: header-num
+    elementType: text
+    bounds: [96, 96, 120, 44]
+    content:
+      style: "$secnum"
+      wrap: false
+      text: "04"
+  - elementId: header-title
+    elementType: text
+    bounds: [96, 144, 768, 58]
+    content:
+      style: "$sectitle"
+      wrap: false
+      text: 与无聊相处
+  - elementId: rule
+    elementType: shape
+    bounds: [96, 232, 72, 4]
+    shapeName: rect
+    fill: {type: solid, color: "$accent"}
+  - elementId: body
+    elementType: text
+    bounds: [96, 292, 768, 850]
+    content:
+      style: "$body"
+      align: [left, top]
+      text: |
+        <p>请着病假的工作日，我好像不太会和无聊相处。</p>
+        <p style="margin-top:20px">病假期间我还是会打开手机，看看有没有什么需要自己处理和消化的信息。我和同事私下也常会说：请假就别看飞书了，贱不贱呐。我发现自己还是忍不住会去看。</p>
+        <p style="margin-top:20px">可能是当我习惯了所谓的"充实"节奏后，一直在躺在床上会觉得特别无聊。</p>
+        <p style="margin-top:20px">等身体稍微好点可以坐起来后，我看了一集《食贫道》的美国德州纪录片。德州的牛仔不一定是全职的，很多人就是业余爱好。周末去比赛，在牛背上待满 8 秒，能拿一笔还不错的奖金。片子里也提到，现在一些互联网大厂在往德州引进数据中心、AI 算力中心，对当地的文化和政治氛围可能会有冲击。</p>
+        <p style="margin-top:20px">但让我有所感触的，还是那儿的人活在当下，和自然相处，和动物相处。牛仔能在牛背上坚持 8 秒钟，就是他们生活里很大的一件事。</p>
+  - elementId: pagenum
+    elementType: text
+    bounds: [760, 1200, 104, 30]
+    content:
+      style: "$caption"
+      align: [right, middle]
+      wrap: false
+      text: 11 / 14

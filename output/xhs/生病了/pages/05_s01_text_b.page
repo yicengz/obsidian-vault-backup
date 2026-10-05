@@ -1,0 +1,35 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: cont
+    elementType: text
+    bounds: [96, 96, 400, 34]
+    content:
+      fontSize: 20
+      color: "$muted"
+      fontFamily: 思源宋体
+      wrap: false
+      text: 01 · 久违的双休（续）
+  - elementId: rule
+    elementType: shape
+    bounds: [96, 150, 72, 4]
+    shapeName: rect
+    fill: {type: solid, color: "$accent"}
+  - elementId: body
+    elementType: text
+    bounds: [96, 210, 768, 850]
+    content:
+      style: "$body"
+      align: [left, top]
+      text: |
+        <p>我想把我的手机扔到一边，在没有任何工作念头的情况下，在周末双休好好放放松，试着停下来找找自己的感受，而非继续高频刷着手机"期待"一个数仓任务告警消息。至少在周日身体彻底不适前，这个周末的"放下工作"完成度还是挺不错的。</p>
+  - elementId: pagenum
+    elementType: text
+    bounds: [760, 1200, 104, 30]
+    content:
+      style: "$caption"
+      align: [right, middle]
+      wrap: false
+      text: 05 / 14

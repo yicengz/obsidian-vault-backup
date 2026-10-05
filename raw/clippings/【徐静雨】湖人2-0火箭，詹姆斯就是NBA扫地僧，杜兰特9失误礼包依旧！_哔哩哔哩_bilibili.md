@@ -10,6 +10,7 @@ trigger:
   - "bilibili.com/video"
 tags:
   - "clippings"
+is_processed: false
 ---
 ## 【徐静雨】湖人2-0火箭，詹姆斯就是NBA扫地僧，杜兰特9失误礼包依旧！
 

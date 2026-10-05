@@ -1,0 +1,42 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: header-num
+    elementType: text
+    bounds: [96, 96, 120, 44]
+    content:
+      style: "$secnum"
+      wrap: false
+      text: "02"
+  - elementId: header-title
+    elementType: text
+    bounds: [96, 144, 768, 58]
+    content:
+      style: "$sectitle"
+      wrap: false
+      text: 身体的告警
+  - elementId: rule
+    elementType: shape
+    bounds: [96, 232, 72, 4]
+    shapeName: rect
+    fill: {type: solid, color: "$accent"}
+  - elementId: body
+    elementType: text
+    bounds: [96, 292, 768, 850]
+    content:
+      style: "$body"
+      align: [left, top]
+      text: |
+        <p>凌晨起夜处理高优任务的告警，是一个有责任心数仓的不可避免的事情。大概半个多月前，我和我支持的业务团队在千岛湖团建。我们一行9人凌晨在房间里打牌，这个时候我突然当着所有人的面接了个数仓电话告警，然后加入飞书会议开始处理问题。直接给我的业务团队来了个强烈震撼：原来数仓这么辛苦啊？</p>
+        <p style="margin-top:20px">而在6~9月期间，除了多次告警这类外部事件影响了我的睡眠之外，我自己内心对未来的焦虑也造成了我躺在床上几小时无法入睡的情况，以及我自己明明可以放下工作但依然选择在凌晨的电脑屏幕前看这看那。</p>
+        <p style="margin-top:20px">有几次熬夜与起夜，我确实会觉得身体没有那么舒服，有点像背上驮着一个沙袋、头上顶着一个水袋、鞋底粘着一块口香糖。一切身体活动和脑力思考都可以自然推进，但就是没那么舒服。</p>
+  - elementId: pagenum
+    elementType: text
+    bounds: [760, 1200, 104, 30]
+    content:
+      style: "$caption"
+      align: [right, middle]
+      wrap: false
+      text: 07 / 14

@@ -1,0 +1,49 @@
+pageType: chapter
+elements:
+  - elementId: bg
+    elementType: image
+    bounds: [0, 0, 960, 1280]
+    src: media/s03.jpg
+    fit: {mode: cover}
+  - elementId: shade
+    elementType: shape
+    bounds: [0, 600, 960, 680]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      angle: 90
+      stops:
+        - {position: 0, color: "#16131000"}
+        - {position: 1, color: "#161310F2"}
+  - elementId: num
+    elementType: text
+    bounds: [96, 1010, 200, 60]
+    content:
+      fontSize: 44
+      color: "#E08A5F"
+      fontFamily: 思源宋体
+      bold: true
+      wrap: false
+      text: "03"
+  - elementId: title
+    elementType: text
+    bounds: [96, 1080, 768, 72]
+    content:
+      fontSize: 52
+      color: "#FFFFFF"
+      fontFamily: 思源宋体
+      bold: true
+      letterSpacing: 4
+      wrap: false
+      text: 泡面与北京
+  - elementId: credit
+    elementType: text
+    bounds: [96, 1228, 768, 22]
+    content:
+      fontSize: 16
+      color: "#FFFFFF73"
+      fontFamily: 思源宋体
+      letterSpacing: 1
+      wrap: false
+      text: 摄影 sq lim · 来自 Unsplash · photos/klAwNfxM9-g

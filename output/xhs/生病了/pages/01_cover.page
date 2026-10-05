@@ -1,0 +1,65 @@
+pageType: cover
+elements:
+  - elementId: bg
+    elementType: image
+    bounds: [0, 0, 960, 1280]
+    src: media/cover.jpg
+    fit: {mode: cover}
+  - elementId: shade
+    elementType: shape
+    bounds: [0, 560, 960, 720]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      angle: 90
+      stops:
+        - {position: 0, color: "#16131000"}
+        - {position: 1, color: "#161310E0"}
+  - elementId: mark
+    elementType: text
+    bounds: [96, 88, 400, 34]
+    content:
+      fontSize: 22
+      color: "#2E2A26A6"
+      fontFamily: 思源宋体
+      letterSpacing: 4
+      wrap: false
+      text: 一层檐下
+  - elementId: title
+    elementType: text
+    bounds: [96, 920, 768, 150]
+    content:
+      fontSize: 108
+      color: "#FFFFFF"
+      fontFamily: 思源宋体
+      bold: true
+      letterSpacing: 12
+      wrap: false
+      align: [left, middle]
+      text: 生病了
+  - elementId: rule
+    elementType: shape
+    bounds: [100, 1108, 72, 4]
+    shapeName: rect
+    fill: {type: solid, color: "#B0562F"}
+  - elementId: subtitle
+    elementType: text
+    bounds: [96, 1140, 768, 44]
+    content:
+      fontSize: 30
+      color: "#FFFFFFD9"
+      fontFamily: 思源宋体
+      letterSpacing: 6
+      wrap: false
+      text: 痛苦是文学的温床
+  - elementId: credit
+    elementType: text
+    bounds: [96, 1230, 768, 22]
+    content:
+      fontSize: 16
+      color: "#FFFFFF73"
+      fontFamily: 思源宋体
+      letterSpacing: 1
+      wrap: false
+      text: 摄影 DANNY G · 来自 Unsplash · photos/_Utk8ZYT4tI

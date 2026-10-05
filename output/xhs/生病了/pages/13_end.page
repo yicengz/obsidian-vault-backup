@@ -1,0 +1,51 @@
+pageType: final
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: photo
+    elementType: image
+    bounds: [0, 0, 960, 420]
+    src: media/end.jpg
+    fit: {mode: cover}
+  - elementId: header-title
+    elementType: text
+    bounds: [96, 484, 768, 58]
+    content:
+      style: "$sectitle"
+      wrap: false
+      text: 尾声
+  - elementId: rule
+    elementType: shape
+    bounds: [96, 570, 72, 4]
+    shapeName: rect
+    fill: {type: solid, color: "$accent"}
+  - elementId: body
+    elementType: text
+    bounds: [96, 622, 768, 470]
+    content:
+      style: "$body"
+      align: [left, top]
+      text: |
+        <p>前两天我还写了一篇《我们如何停下》。我这次不用琢磨"停下"了，身体直接替我停了。</p>
+        <p style="margin-top:20px">生病的那两天其实我睡得特别好。周二醒来的时候，我陆陆续续睡了 10 个小时。而就在身体状况变好的周三、周四晚上，我倒是睡不着了 —— 我觉得是因为第二天要上班，因为我脑子里有无数个关于工作事项的念头闪过。</p>
+        <p style="margin-top:20px">虽然自己嘴上说着"随便干干"、"我其实比较无所谓"，但自己的内心似乎并不如此平静。</p>
+  - elementId: photo-credit
+    elementType: text
+    bounds: [480, 386, 464, 20]
+    content:
+      fontSize: 15
+      color: "#FFFFFF99"
+      fontFamily: 思源宋体
+      letterSpacing: 1
+      align: [right, middle]
+      wrap: false
+      text: 摄影 Shane · 来自 Unsplash · photos/hfvFunLkFgg
+  - elementId: pagenum
+    elementType: text
+    bounds: [760, 1200, 104, 30]
+    content:
+      style: "$caption"
+      align: [right, middle]
+      wrap: false
+      text: 14 / 14

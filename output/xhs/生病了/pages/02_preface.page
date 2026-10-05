@@ -1,0 +1,41 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: quote
+    elementType: text
+    bounds: [96, 120, 768, 150]
+    content:
+      fontSize: 30
+      color: "$ink"
+      fontFamily: 思源宋体
+      lineHeight: 1.7
+      align: [left, top]
+      text: |
+        <p>「人对"停下"的恐惧，</p>
+        <p>远远大于"停下"本身的痛苦」</p>
+        <p style="text-align:right; margin-top:14px"><span style="font-size:20px; color:$muted">—— 《当世界停止消费》</span></p>
+  - elementId: rule
+    elementType: shape
+    bounds: [96, 330, 72, 4]
+    shapeName: rect
+    fill: {type: solid, color: "$accent"}
+  - elementId: body
+    elementType: text
+    bounds: [96, 392, 768, 740]
+    content:
+      style: "$body"
+      align: [left, top]
+      text: |
+        <p>上一次身体极度不舒服，大概是 2024 年五一长假，我连吃了 3 顿爆辣餐，直接让自己得了肠胃炎后在床上躺了3天。</p>
+        <p style="margin-top:20px">上周日 13:30 左右我在健身房锻炼，伴随着越来越无力的肌肉、无法降频的心跳、停不下来的干咳，我意识到自己的身体状态不太对劲，教练也赶紧让我坐下休息别练了。</p>
+        <p style="margin-top:20px">下午回家后我先睡了一觉感觉好了不少，晚上还是去了医院。最后周一~周三请了3天病假。在这个糟糕的身体状况下，我直接摘了用来接数仓告警的手表，简单安排了下工作后就开始了"与世隔绝"的卧床。</p>
+  - elementId: pagenum
+    elementType: text
+    bounds: [760, 1200, 104, 30]
+    content:
+      style: "$caption"
+      align: [right, middle]
+      wrap: false
+      text: 02 / 14
