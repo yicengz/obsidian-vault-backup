@@ -491,3 +491,8 @@ Investing（1 个）：
 - `raw/inbox/20261005222300.md` AA 结算明细 — 是账务记录不是知识/攻略，只链入日记，不蒸馏
 - `raw/inbox/20260924083839.md` 支出流水 — 同上
 - `raw/inbox/20261002113043.md` — 随笔感想（multitasking / no rush），与"倦怠社会/无聊"主题呼应，留作 thinking 素材，暂不单独成页
+
+
+### 附：thinking 新增 [[与无聊相处]]
+
+蒸馏来源：`raw/inbox/20261002113043.md`（no rush）+ `raw/inbox/20260923200546.md`（空中wifi）+ `raw/inbox/20260923201239.md`（飞行阅读《倦怠社会》摘抄）+ `output/vx/writing and thinking/20260925220748.md`（公众号草稿）。核心：功绩社会的自我剥削机制、超注意力 vs 深度无聊、三组对照实验（断网飞行 / SQL 等待 / 第比利斯 no rush）。[[wiki/index|Wiki Index]] 已同步。
