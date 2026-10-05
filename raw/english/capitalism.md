@@ -3,6 +3,7 @@ description: 资本主义（capitalist 资本家/资本主义的；capitalism wi
 language:
   - 英语
 created: 2026-10-06
+is_user_requested: true
 ---
 
 ## 语境
@@ -16,3 +17,4 @@ created: 2026-10-06
 ## 相关
 
 - [[communism]] —— 与 capitalism 成对记忆（冷战叙事的一对核心概念）
+- [[nationalism]] —— 同为塑造二十世纪地缘政治的意识形态

@@ -3,6 +3,7 @@ description: 认出；承认（recognize a government/country 承认某政权/�
 language:
   - 英语
 created: 2026-10-06
+is_user_requested: true
 ---
 
 ## 语境

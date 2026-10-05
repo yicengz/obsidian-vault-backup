@@ -3,6 +3,7 @@ description: 挑衅（行为/言论）（an open provocation 公然的挑衅；p
 language:
   - 英语
 created: 2026-10-06
+is_user_requested: true
 ---
 
 ## 语境

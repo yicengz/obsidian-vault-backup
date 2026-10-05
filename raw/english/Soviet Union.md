@@ -3,6 +3,7 @@ description: 苏联（1922–1991，全称 Union of Soviet Socialist Republics, 
 language:
   - 英语
 created: 2026-10-06
+is_user_requested: true
 ---
 
 ## 语境

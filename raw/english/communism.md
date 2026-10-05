@@ -3,6 +3,7 @@ description: 共产主义（communist 共产主义者/共产主义的；the spre
 language:
   - 英语
 created: 2026-10-05
+is_user_requested: true
 ---
 
 ## 语境
@@ -16,3 +17,4 @@ It's looking like the US is gonna be in Asia for a while, all in the name of con
 ## 相关
 
 - [[capitalism]] —— 与 communism 成对记忆（冷战叙事的一对核心概念）
+- [[nationalism]] —— 同为塑造二十世纪地缘政治的意识形态
