@@ -1,0 +1,136 @@
+pageType: cover
+background:
+  type: solid
+  color: "#FFE459"
+elements:
+  - elementId: circle-blue
+    elementType: shape
+    bounds: [700, 80, 200, 200]
+    shapeName: ellipse
+    fill: {type: solid, color: "#2D4CC8"}
+  - elementId: tri-red
+    elementType: shape
+    bounds: [80, 950, 170, 150]
+    shapeName: triangle
+    fill: {type: solid, color: "#E43D30"}
+    rotation: 12
+  - elementId: squiggle
+    elementType: line
+    bounds: [640, 1080, 260, 60]
+    viewBox: [260, 60]
+    points: "0,30 32,0 65,30 97,0 130,30 162,0 195,30 227,0 260,30"
+    curve: smooth
+    border: {style: solid, width: 8, color: "#1A1A1A"}
+  - elementId: dot1
+    elementType: shape
+    bounds: [120, 120, 22, 22]
+    shapeName: ellipse
+    fill: {type: solid, color: "#1A1A1A"}
+  - elementId: dot2
+    elementType: shape
+    bounds: [880, 700, 18, 18]
+    shapeName: ellipse
+    fill: {type: solid, color: "#E43D30"}
+  - elementId: dot3
+    elementType: shape
+    bounds: [80, 620, 16, 16]
+    shapeName: ellipse
+    fill: {type: solid, color: "#2D4CC8"}
+  - elementId: brand
+    elementType: text
+    bounds: [60, 52, 400, 34]
+    content:
+      fontSize: 24
+      fontFamily: ZCOOL KuaiLe
+      color: "#1A1A1A"
+      letterSpacing: 6
+      wrap: false
+      align: [left, middle]
+      text: 一层檐下
+  - elementId: shadow-block
+    elementType: shape
+    bounds: [76, 452, 640, 150]
+    shapeName: rect
+    fill: {type: solid, color: "#1A1A1A"}
+  - elementId: title-block
+    elementType: shape
+    bounds: [60, 436, 640, 150]
+    shapeName: rect
+    fill: {type: solid, color: "#FFFFFF"}
+    border: {style: solid, width: 3, color: "#1A1A1A"}
+  - elementId: title
+    elementType: text
+    bounds: [60, 436, 640, 150]
+    content:
+      fontSize: 88
+      fontFamily: ZCOOL KuaiLe
+      color: "#1A1A1A"
+      wrap: false
+      align: [center, middle]
+      text: 数仓「政治学」
+  - elementId: subtitle
+    elementType: text
+    bounds: [60, 660, 760, 44]
+    content:
+      fontSize: 30
+      fontFamily: ZCOOL KuaiLe
+      color: "#1A1A1A"
+      wrap: false
+      align: [left, middle]
+      text: 指标口径之争，本质是权力之争
+  - elementId: tag1-block
+    elementType: shape
+    bounds: [60, 760, 150, 52]
+    shapeName: rect
+    fill: {type: solid, color: "#E43D30"}
+  - elementId: tag1
+    elementType: text
+    bounds: [60, 760, 150, 52]
+    content:
+      fontSize: 24
+      fontFamily: ZCOOL KuaiLe
+      color: "#FFFFFF"
+      wrap: false
+      align: [center, middle]
+      text: 职场
+  - elementId: tag2-block
+    elementType: shape
+    bounds: [230, 760, 150, 52]
+    shapeName: rect
+    fill: {type: solid, color: "#2D4CC8"}
+  - elementId: tag2
+    elementType: text
+    bounds: [230, 760, 150, 52]
+    content:
+      fontSize: 24
+      fontFamily: ZCOOL KuaiLe
+      color: "#FFFFFF"
+      wrap: false
+      align: [center, middle]
+      text: 数仓
+  - elementId: tag3-block
+    elementType: shape
+    bounds: [400, 760, 150, 52]
+    shapeName: rect
+    fill: {type: solid, color: "#1A1A1A"}
+  - elementId: tag3
+    elementType: text
+    bounds: [400, 760, 150, 52]
+    content:
+      fontSize: 24
+      fontFamily: ZCOOL KuaiLe
+      color: "#FFFFFF"
+      wrap: false
+      align: [center, middle]
+      text: 打工人
+  - elementId: meta
+    elementType: text
+    bounds: [60, 1180, 600, 30]
+    content:
+      fontSize: 20
+      fontFamily: ZCOOL KuaiLe
+      color: "#1A1A1A"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: 数仓手记 · 第 5 期

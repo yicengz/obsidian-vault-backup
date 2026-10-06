@@ -1,0 +1,95 @@
+pageType: cover
+background:
+  type: solid
+  color: "#F0E9D8"
+elements:
+  - elementId: top-bar
+    elementType: shape
+    bounds: [0, 0, 960, 14]
+    shapeName: rect
+    fill: {type: solid, color: "#C8281F"}
+  - elementId: brand-seal
+    elementType: shape
+    bounds: [60, 60, 152, 52]
+    shapeName: rect
+    fill: {type: solid, color: "#C8281F"}
+  - elementId: brand
+    elementType: text
+    bounds: [60, 60, 152, 52]
+    content:
+      fontSize: 24
+      fontFamily: 得意黑
+      color: "#F0E9D8"
+      letterSpacing: 4
+      wrap: false
+      align: [center, middle]
+      text: 一层檐下
+  - elementId: slogan-small
+    elementType: text
+    bounds: [60, 300, 860, 50]
+    content:
+      fontSize: 36
+      fontFamily: 得意黑
+      color: "#16130E"
+      letterSpacing: 6
+      wrap: false
+      align: [left, middle]
+      text: 媒介在按摩大脑，
+  - elementId: title-line1
+    elementType: text
+    bounds: [48, 380, 880, 170]
+    content:
+      fontSize: 132
+      fontFamily: 得意黑
+      color: "#16130E"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: |
+        <p>指标在<span style="color:#C8281F">按摩</span>组织</p>
+  - elementId: stamp
+    elementType: shape
+    bounds: [790, 560, 110, 110]
+    shapeName: rect
+    fill: {type: solid, color: "#C8281F"}
+    rotation: 6
+  - elementId: stamp-text
+    elementType: text
+    bounds: [790, 560, 110, 110]
+    rotation: 6
+    content:
+      fontSize: 34
+      fontFamily: 思源宋体
+      color: "#F0E9D8"
+      lineHeight: 1.1
+      align: [center, middle]
+      text: |
+        <p style="text-align:center">数仓</p>
+        <p style="text-align:center">手记</p>
+  - elementId: divider
+    elementType: shape
+    bounds: [60, 1020, 840, 2]
+    shapeName: rect
+    fill: {type: solid, color: "#16130E"}
+  - elementId: meta
+    elementType: text
+    bounds: [60, 1050, 840, 32]
+    content:
+      fontSize: 20
+      fontFamily: 得意黑
+      color: "#16130E"
+      letterSpacing: 3
+      wrap: false
+      align: [left, middle]
+      text: 数仓工作分享 · 周报第 14 期
+  - elementId: meta-right
+    elementType: text
+    bounds: [560, 1050, 340, 32]
+    content:
+      fontSize: 20
+      fontFamily: 得意黑
+      color: "#C8281F"
+      letterSpacing: 2
+      wrap: false
+      align: [right, middle]
+      text: "2026.10"

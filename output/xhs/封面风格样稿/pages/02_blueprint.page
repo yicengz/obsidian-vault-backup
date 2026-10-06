@@ -1,0 +1,165 @@
+pageType: cover
+background:
+  type: image
+  src: media/blueprint_grid.png
+  fit: {mode: cover}
+elements:
+  - elementId: brand
+    elementType: text
+    bounds: [60, 52, 500, 28]
+    content:
+      fontSize: 18
+      fontFamily: JetBrains Mono
+      color: "#7AB5D7"
+      letterSpacing: 3
+      wrap: false
+      align: [left, middle]
+      text: 一层檐下 / DW-NOTES
+  - elementId: brand-rule
+    elementType: line
+    bounds: [60, 96, 840, 1]
+    viewBox: [840, 1]
+    points: "0,0 840,0"
+    curve: sharp
+    border: {style: solid, width: 1, color: "#7AB5D780"}
+  - elementId: title
+    elementType: text
+    bounds: [56, 130, 860, 110]
+    content:
+      fontSize: 84
+      fontFamily: MiSans
+      bold: true
+      color: "#FFFFFF"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: 数仓分层笔记
+  - elementId: title-en
+    elementType: text
+    bounds: [60, 252, 700, 30]
+    content:
+      fontSize: 20
+      fontFamily: JetBrains Mono
+      color: "#7AB5D7"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: LAYERS · FROM ODS TO ADS
+  - elementId: box-ods
+    elementType: shape
+    bounds: [120, 380, 720, 110]
+    shapeName: rect
+    fill: {type: solid, color: "#0A1F4400"}
+    border: {style: solid, width: 2, color: "#7AB5D7"}
+  - elementId: box-ods-label
+    elementType: text
+    bounds: [150, 398, 660, 34]
+    content:
+      fontSize: 26
+      fontFamily: JetBrains Mono
+      bold: true
+      color: "#FFFFFF"
+      wrap: false
+      align: [left, middle]
+      text: ODS 贴源层
+  - elementId: box-ods-note
+    elementType: text
+    bounds: [150, 436, 660, 28]
+    content:
+      fontSize: 17
+      fontFamily: JetBrains Mono
+      color: "#7AB5D7"
+      wrap: false
+      align: [left, middle]
+      text: log2hive · hourly · 原样落库
+  - elementId: arrow-1
+    elementType: line
+    bounds: [478, 490, 4, 40]
+    viewBox: [4, 40]
+    points: "2,0 2,40"
+    curve: sharp
+    arrow: [null, arrow]
+    border: {style: solid, width: 2, color: "#7AB5D7"}
+  - elementId: box-dwd
+    elementType: shape
+    bounds: [120, 530, 720, 110]
+    shapeName: rect
+    fill: {type: solid, color: "#0A1F4400"}
+    border: {style: solid, width: 2, color: "#7AB5D7"}
+  - elementId: box-dwd-label
+    elementType: text
+    bounds: [150, 548, 660, 34]
+    content:
+      fontSize: 26
+      fontFamily: JetBrains Mono
+      bold: true
+      color: "#FFFFFF"
+      wrap: false
+      align: [left, middle]
+      text: DWD 明细层
+  - elementId: box-dwd-note
+    elementType: text
+    bounds: [150, 586, 660, 28]
+    content:
+      fontSize: 17
+      fontFamily: JetBrains Mono
+      color: "#7AB5D7"
+      wrap: false
+      align: [left, middle]
+      text: 去重到毫秒 · 补维度 · 配 DQC
+  - elementId: arrow-2
+    elementType: line
+    bounds: [478, 640, 4, 40]
+    viewBox: [4, 40]
+    points: "2,0 2,40"
+    curve: sharp
+    arrow: [null, arrow]
+    border: {style: solid, width: 2, color: "#7AB5D7"}
+  - elementId: box-dws
+    elementType: shape
+    bounds: [120, 680, 720, 110]
+    shapeName: rect
+    fill: {type: solid, color: "#0A1F4400"}
+    border: {style: solid, width: 2, color: "#7AB5D7"}
+  - elementId: box-dws-label
+    elementType: text
+    bounds: [150, 698, 660, 34]
+    content:
+      fontSize: 26
+      fontFamily: JetBrains Mono
+      bold: true
+      color: "#FFFFFF"
+      wrap: false
+      align: [left, middle]
+      text: DWS / ADS 汇总应用层
+  - elementId: box-dws-note
+    elementType: text
+    bounds: [150, 736, 660, 28]
+    content:
+      fontSize: 17
+      fontFamily: JetBrains Mono
+      color: "#7AB5D7"
+      wrap: false
+      align: [left, middle]
+      text: 面向业务的聚合结果
+  - elementId: side-note
+    elementType: text
+    bounds: [60, 850, 840, 60]
+    content:
+      fontSize: 20
+      fontFamily: 思源宋体
+      color: "#FFFFFFCC"
+      lineHeight: 1.6
+      align: [left, top]
+      text: 10 亿条传感器数据，怎么压到 2 亿条还不丢信息？
+  - elementId: meta
+    elementType: text
+    bounds: [60, 1170, 840, 28]
+    content:
+      fontSize: 16
+      fontFamily: JetBrains Mono
+      color: "#7AB5D799"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: DW-NOTES · VOL.02 · 2026-10-06

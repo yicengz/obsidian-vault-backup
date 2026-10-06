@@ -1,0 +1,138 @@
+pageType: cover
+background:
+  type: solid
+  color: "#FFFFFF"
+elements:
+  - elementId: big-num
+    elementType: text
+    bounds: [420, 60, 520, 300]
+    content:
+      fontSize: 260
+      fontFamily: Liter
+      bold: true
+      color: "#F0EFEC"
+      wrap: false
+      align: [right, top]
+      text: "07"
+  - elementId: brand
+    elementType: text
+    bounds: [64, 64, 300, 28]
+    content:
+      fontSize: 20
+      fontFamily: MiSans
+      bold: true
+      color: "#111111"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: 一层檐下
+  - elementId: brand-en
+    elementType: text
+    bounds: [64, 96, 400, 24]
+    content:
+      fontSize: 14
+      fontFamily: Liter
+      color: "#999999"
+      letterSpacing: 3
+      wrap: false
+      align: [left, middle]
+      text: DW ENGINEER'S NOTES
+  - elementId: orange-bar
+    elementType: shape
+    bounds: [64, 420, 120, 12]
+    shapeName: rect
+    fill: {type: solid, color: "#FF4D00"}
+  - elementId: title
+    elementType: text
+    bounds: [60, 470, 840, 220]
+    content:
+      fontSize: 88
+      fontFamily: MiSans
+      bold: true
+      color: "#111111"
+      lineHeight: 1.25
+      align: [left, top]
+      text: |
+        <p>一场未雨绸缪的</p>
+        <p>链路重构</p>
+  - elementId: subtitle
+    elementType: text
+    bounds: [64, 720, 700, 32]
+    content:
+      fontSize: 22
+      fontFamily: MiSans
+      color: "#666666"
+      wrap: false
+      align: [left, middle]
+      text: 上线前 72 小时，我们决定推翻重来
+  - elementId: grid-line1
+    elementType: shape
+    bounds: [64, 1080, 832, 1]
+    shapeName: rect
+    fill: {type: solid, color: "#111111"}
+  - elementId: col1-label
+    elementType: text
+    bounds: [64, 1104, 260, 22]
+    content:
+      fontSize: 13
+      fontFamily: Liter
+      color: "#999999"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: COLUMN
+  - elementId: col1-val
+    elementType: text
+    bounds: [64, 1130, 260, 30]
+    content:
+      fontSize: 20
+      fontFamily: MiSans
+      bold: true
+      color: "#111111"
+      wrap: false
+      align: [left, middle]
+      text: 数仓手记
+  - elementId: col2-label
+    elementType: text
+    bounds: [344, 1104, 260, 22]
+    content:
+      fontSize: 13
+      fontFamily: Liter
+      color: "#999999"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: DATE
+  - elementId: col2-val
+    elementType: text
+    bounds: [344, 1130, 260, 30]
+    content:
+      fontSize: 20
+      fontFamily: MiSans
+      bold: true
+      color: "#111111"
+      wrap: false
+      align: [left, middle]
+      text: 2026-10-06
+  - elementId: col3-label
+    elementType: text
+    bounds: [624, 1104, 272, 22]
+    content:
+      fontSize: 13
+      fontFamily: Liter
+      color: "#999999"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: ISSUE
+  - elementId: col3-val
+    elementType: text
+    bounds: [624, 1130, 272, 30]
+    content:
+      fontSize: 20
+      fontFamily: MiSans
+      bold: true
+      color: "#FF4D00"
+      wrap: false
+      align: [left, middle]
+      text: "No.07"

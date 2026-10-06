@@ -1,0 +1,39 @@
+version: v2
+title: 小红书封面风格样稿 · 一层檐下
+size: [960, 1280]
+customFonts:
+  - family: 思源宋体
+    src: "https://statics.kimi.ai/neo-design-static/p-font/思源宋体.ttf"
+  - family: 阿里妈妈刀隶体
+    src: "https://statics.kimi.ai/neo-design-static/p-font/阿里妈妈刀隶体.ttf"
+  - family: 站酷文艺体
+    src: "https://statics.kimi.ai/neo-design-static/p-font/站酷文艺体.ttf"
+  - family: 得意黑
+    src: "https://statics.kimi.ai/neo-design-static/p-font/得意黑.ttf"
+  - family: ZCOOL KuaiLe
+    src: "https://statics.kimi.ai/neo-design-static/p-font/ZCOOL%20KuaiLe.ttf"
+  - family: 精品点阵体
+    src: "https://statics.kimi.ai/neo-design-static/p-font/精品点阵体.ttf"
+  - family: LXGW Bright
+    src: "https://statics.kimi.ai/neo-design-static/p-font/LXGW%20Bright.ttf"
+  - family: Liter
+    src: "https://statics.kimi.ai/neo-design-static/p-font/Liter.ttf"
+  - family: JetBrains Mono
+    src: "https://fonts.googleapis.com/css2?family=JetBrains+Mono"
+theme:
+  colors:
+    ink: "#16130E"
+    paper: "#FBFAF6"
+    gray: "#6E685F"
+    accent: "#B3402A"
+pages:
+  - pages/01_minimal.page
+  - pages/02_blueprint.page
+  - pages/03_poster.page
+  - pages/04_pixel.page
+  - pages/05_journal.page
+  - pages/06_terminal.page
+  - pages/07_chinese.page
+  - pages/08_swiss.page
+  - pages/09_photo.page
+  - pages/10_memphis.page

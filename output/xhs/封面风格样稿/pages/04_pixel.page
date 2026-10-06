@@ -1,0 +1,130 @@
+pageType: cover
+background:
+  type: solid
+  color: "#141428"
+elements:
+  - elementId: brand
+    elementType: text
+    bounds: [60, 56, 400, 30]
+    content:
+      fontSize: 22
+      fontFamily: 精品点阵体
+      color: "#FFFFFF"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: 一层檐下
+  - elementId: px1
+    elementType: shape
+    bounds: [60, 340, 24, 24]
+    shapeName: rect
+    fill: {type: solid, color: "#00E5A0"}
+  - elementId: px2
+    elementType: shape
+    bounds: [84, 340, 24, 24]
+    shapeName: rect
+    fill: {type: solid, color: "#00E5A0"}
+  - elementId: px3
+    elementType: shape
+    bounds: [108, 340, 24, 24]
+    shapeName: rect
+    fill: {type: solid, color: "#2E2E5C"}
+  - elementId: px4
+    elementType: shape
+    bounds: [84, 316, 24, 24]
+    shapeName: rect
+    fill: {type: solid, color: "#00E5A0"}
+  - elementId: px5
+    elementType: shape
+    bounds: [84, 364, 24, 24]
+    shapeName: rect
+    fill: {type: solid, color: "#2E2E5C"}
+  - elementId: px6
+    elementType: shape
+    bounds: [852, 316, 24, 24]
+    shapeName: rect
+    fill: {type: solid, color: "#2E2E5C"}
+  - elementId: px7
+    elementType: shape
+    bounds: [876, 340, 24, 24]
+    shapeName: rect
+    fill: {type: solid, color: "#00E5A0"}
+  - elementId: px8
+    elementType: shape
+    bounds: [852, 364, 24, 24]
+    shapeName: rect
+    fill: {type: solid, color: "#2E2E5C"}
+  - elementId: title1
+    elementType: text
+    bounds: [56, 470, 860, 100]
+    content:
+      fontSize: 80
+      fontFamily: 精品点阵体
+      color: "#00E5A0"
+      letterSpacing: 6
+      wrap: false
+      align: [left, middle]
+      text: 数据仓库
+  - elementId: title2
+    elementType: text
+    bounds: [56, 590, 860, 100]
+    content:
+      fontSize: 80
+      fontFamily: 精品点阵体
+      color: "#FFFFFF"
+      letterSpacing: 6
+      wrap: false
+      align: [left, middle]
+      text: 打工日志
+  - elementId: subtitle
+    elementType: text
+    bounds: [60, 730, 840, 36]
+    content:
+      fontSize: 24
+      fontFamily: 精品点阵体
+      color: "#8A8AB8"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: 第 1 关：主键重复了
+  - elementId: cursor
+    elementType: shape
+    bounds: [60, 790, 26, 34]
+    shapeName: rect
+    fill: {type: solid, color: "#00E5A0"}
+  - elementId: hint
+    elementType: text
+    bounds: [100, 790, 600, 34]
+    content:
+      fontSize: 20
+      fontFamily: JetBrains Mono
+      color: "#8A8AB8"
+      wrap: false
+      align: [left, middle]
+      text: PRESS START TO CONTINUE
+  - elementId: pxb1
+    elementType: shape
+    bounds: [60, 1120, 24, 24]
+    shapeName: rect
+    fill: {type: solid, color: "#2E2E5C"}
+  - elementId: pxb2
+    elementType: shape
+    bounds: [84, 1144, 24, 24]
+    shapeName: rect
+    fill: {type: solid, color: "#00E5A0"}
+  - elementId: pxb3
+    elementType: shape
+    bounds: [876, 1120, 24, 24]
+    shapeName: rect
+    fill: {type: solid, color: "#00E5A0"}
+  - elementId: meta
+    elementType: text
+    bounds: [60, 1210, 840, 26]
+    content:
+      fontSize: 18
+      fontFamily: 精品点阵体
+      color: "#5C5C8A"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: ODS · DWD · DWS · ADS

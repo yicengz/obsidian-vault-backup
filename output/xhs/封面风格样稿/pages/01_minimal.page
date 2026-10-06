@@ -1,0 +1,64 @@
+pageType: cover
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: brand
+    elementType: text
+    bounds: [60, 52, 400, 32]
+    content:
+      fontSize: 20
+      fontFamily: 思源宋体
+      color: "#8A8580"
+      letterSpacing: 10
+      wrap: false
+      align: [left, middle]
+      text: 一层檐下
+  - elementId: brand-rule
+    elementType: shape
+    bounds: [60, 100, 72, 2]
+    shapeName: rect
+    fill: {type: solid, color: "#16130E"}
+  - elementId: tick
+    elementType: shape
+    bounds: [60, 436, 56, 6]
+    shapeName: rect
+    fill: {type: solid, color: "$accent"}
+  - elementId: title
+    elementType: text
+    bounds: [52, 470, 860, 170]
+    content:
+      fontSize: 120
+      fontFamily: 思源宋体
+      color: "$ink"
+      letterSpacing: 8
+      wrap: false
+      align: [left, middle]
+      text: 主键重复了
+  - elementId: subtitle
+    elementType: text
+    bounds: [60, 668, 800, 40]
+    content:
+      fontSize: 26
+      fontFamily: 思源宋体
+      color: "$gray"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: 一次主键冲突背后的链路排查与自救
+  - elementId: meta-rule
+    elementType: shape
+    bounds: [60, 1140, 840, 1]
+    shapeName: rect
+    fill: {type: solid, color: "#D8D2C6"}
+  - elementId: meta
+    elementType: text
+    bounds: [60, 1164, 840, 30]
+    content:
+      fontSize: 17
+      fontFamily: 思源宋体
+      color: "#9A948A"
+      letterSpacing: 3
+      wrap: false
+      align: [left, middle]
+      text: 数仓手记 · No.01 —— 2026.10

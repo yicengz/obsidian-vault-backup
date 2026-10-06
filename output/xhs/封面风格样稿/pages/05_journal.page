@@ -1,0 +1,117 @@
+pageType: cover
+background:
+  type: solid
+  color: "#F6F0E4"
+elements:
+  - elementId: tape-tl
+    elementType: shape
+    bounds: [40, 30, 180, 44]
+    shapeName: rect
+    rotation: -8
+    opacity: 0.75
+    fill: {type: solid, color: "#A8C3A0"}
+  - elementId: tape-tr
+    elementType: shape
+    bounds: [760, 36, 160, 44]
+    shapeName: rect
+    rotation: 6
+    opacity: 0.75
+    fill: {type: solid, color: "#E8B4B8"}
+  - elementId: brand
+    elementType: text
+    bounds: [240, 44, 480, 36]
+    content:
+      fontSize: 24
+      fontFamily: 站酷文艺体
+      color: "#5B564C"
+      letterSpacing: 6
+      wrap: false
+      align: [center, middle]
+      text: 一层檐下的手账
+  - elementId: date-line
+    elementType: text
+    bounds: [60, 140, 400, 30]
+    content:
+      fontSize: 20
+      fontFamily: 站酷文艺体
+      color: "#8A8375"
+      wrap: false
+      align: [left, middle]
+      text: 2026年10月6日 · 晴
+  - elementId: title
+    elementType: text
+    bounds: [56, 220, 860, 160]
+    content:
+      fontSize: 64
+      fontFamily: 站酷文艺体
+      color: "#3E3A34"
+      lineHeight: 1.4
+      align: [left, top]
+      text: |
+        <p>实习生终于</p>
+        <p>向我求助了</p>
+  - elementId: circle-mark
+    elementType: shape
+    bounds: [176, 322, 150, 76]
+    shapeName: ellipse
+    border: {style: solid, width: 3, color: "#D96B4F"}
+    fill: {type: solid, color: "#FFFFFF00"}
+    rotation: -3
+  - elementId: sticky
+    elementType: shape
+    bounds: [560, 480, 300, 240]
+    shapeName: rect
+    rotation: 4
+    fill: {type: solid, color: "#FFF3B0"}
+    shadow: {blur: 12, color: "#3E3A3426", offset: [0, 6]}
+  - elementId: sticky-text
+    elementType: text
+    bounds: [580, 500, 264, 200]
+    rotation: 4
+    content:
+      fontSize: 26
+      fontFamily: ZCOOL KuaiLe
+      color: "#6B5E2E"
+      lineHeight: 1.5
+      align: [left, top]
+      text: |
+        <p>今天讲讲：</p>
+        <p>为什么她的报表</p>
+        <p>总数翻了一倍？</p>
+  - elementId: arrow-hand
+    elementType: line
+    bounds: [300, 640, 240, 120]
+    viewBox: [240, 120]
+    points: "0,120 80,20 200,60 240,10"
+    curve: smooth
+    arrow: [null, arrow]
+    border: {style: solid, width: 3, color: "#3E3A34"}
+  - elementId: note
+    elementType: text
+    bounds: [60, 700, 420, 120]
+    content:
+      fontSize: 26
+      fontFamily: 站酷文艺体
+      color: "#5B564C"
+      lineHeight: 1.6
+      align: [left, top]
+      text: |
+        <p>答案藏在维表的</p>
+        <p>缓慢变化里……</p>
+  - elementId: tape-b
+    elementType: shape
+    bounds: [640, 1080, 220, 44]
+    shapeName: rect
+    rotation: -5
+    opacity: 0.7
+    fill: {type: solid, color: "#9FB8D8"}
+  - elementId: meta
+    elementType: text
+    bounds: [60, 1160, 600, 32]
+    content:
+      fontSize: 20
+      fontFamily: 站酷文艺体
+      color: "#8A8375"
+      wrap: false
+      align: [left, middle]
+      text: 数仓工作手记 · 第 7 页

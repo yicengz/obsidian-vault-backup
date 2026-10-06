@@ -1,0 +1,108 @@
+pageType: cover
+background:
+  type: solid
+  color: "#0C0C0C"
+elements:
+  - elementId: brand
+    elementType: text
+    bounds: [60, 52, 700, 28]
+    content:
+      fontSize: 19
+      fontFamily: JetBrains Mono
+      color: "#4AF626"
+      wrap: false
+      align: [left, middle]
+      text: "yiceng@一层檐下:~$ whoami → dw_engineer"
+  - elementId: term-window
+    elementType: shape
+    bounds: [70, 300, 820, 480]
+    shapeName: roundRect
+    adjustments: [4000]
+    fill: {type: solid, color: "#161616"}
+    border: {style: solid, width: 1, color: "#3A3A3A"}
+  - elementId: term-bar
+    elementType: shape
+    bounds: [70, 300, 820, 52]
+    shapeName: roundRect
+    adjustments: [8000]
+    fill: {type: solid, color: "#242424"}
+  - elementId: dot-r
+    elementType: shape
+    bounds: [96, 320, 14, 14]
+    shapeName: ellipse
+    fill: {type: solid, color: "#FF5F57"}
+  - elementId: dot-y
+    elementType: shape
+    bounds: [120, 320, 14, 14]
+    shapeName: ellipse
+    fill: {type: solid, color: "#FEBC2E"}
+  - elementId: dot-g
+    elementType: shape
+    bounds: [144, 320, 14, 14]
+    shapeName: ellipse
+    fill: {type: solid, color: "#28C840"}
+  - elementId: term-title
+    elementType: text
+    bounds: [200, 312, 560, 28]
+    content:
+      fontSize: 16
+      fontFamily: JetBrains Mono
+      color: "#8A8A8A"
+      wrap: false
+      align: [center, middle]
+      text: zsh — dwd_trade_di.sql
+  - elementId: code
+    elementType: text
+    bounds: [110, 380, 740, 360]
+    content:
+      fontSize: 22
+      fontFamily: JetBrains Mono
+      color: "#4AF626"
+      lineHeight: 1.9
+      align: [left, top]
+      text: |
+        <p><span style="color:#8A8A8A">$</span> cat dwd_trade_di.sql</p>
+        <p>SELECT order_id, count(*)</p>
+        <p>FROM   dwd_trade_di</p>
+        <p>WHERE  dt = '2026-10-05'</p>
+        <p>GROUP  BY order_id</p>
+        <p>HAVING count(*) > 1;</p>
+        <p><span style="color:#8A8A8A">-- 10 亿条里多出的 237 条</span></p>
+  - elementId: title
+    elementType: text
+    bounds: [70, 850, 820, 110]
+    content:
+      fontSize: 84
+      fontFamily: MiSans
+      bold: true
+      color: "#FFFFFF"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: 主键重复了
+  - elementId: cursor
+    elementType: shape
+    bounds: [520, 880, 40, 64]
+    shapeName: rect
+    fill: {type: solid, color: "#4AF626"}
+  - elementId: subtitle
+    elementType: text
+    bounds: [70, 990, 820, 34]
+    content:
+      fontSize: 22
+      fontFamily: JetBrains Mono
+      color: "#8A8A8A"
+      wrap: false
+      align: [left, middle]
+      text: "ERROR: duplicate key value violates unique constraint"
+  - elementId: meta
+    elementType: text
+    bounds: [70, 1180, 820, 28]
+    content:
+      fontSize: 17
+      fontFamily: JetBrains Mono
+      color: "#5A5A5A"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: 一层檐下 · 数仓手记 · exit code 1

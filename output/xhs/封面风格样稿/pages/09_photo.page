@@ -1,0 +1,73 @@
+pageType: cover
+background:
+  type: image
+  src: media/night_office.png
+  fit: {mode: cover}
+elements:
+  - elementId: gradient-mask
+    elementType: shape
+    bounds: [0, 620, 960, 660]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      angle: 90
+      stops:
+        - {position: 0, color: "#00000000"}
+        - {position: 0.55, color: "#00000099"}
+        - {position: 1, color: "#000000D9"}
+  - elementId: brand
+    elementType: text
+    bounds: [60, 52, 400, 30]
+    content:
+      fontSize: 21
+      fontFamily: 思源宋体
+      color: "#FFFFFF"
+      letterSpacing: 8
+      wrap: false
+      align: [left, middle]
+      shadow: {blur: 6, color: "#00000080", offset: [0, 2]}
+      text: 一层檐下
+  - elementId: brand-rule
+    elementType: shape
+    bounds: [60, 96, 60, 2]
+    shapeName: rect
+    fill: {type: solid, color: "#FFFFFF"}
+  - elementId: title
+    elementType: text
+    bounds: [56, 950, 860, 110]
+    content:
+      fontSize: 72
+      fontFamily: 思源宋体
+      color: "#FFFFFF"
+      letterSpacing: 6
+      wrap: false
+      align: [left, middle]
+      text: 下班后，链路还在跑
+  - elementId: sub-rule
+    elementType: shape
+    bounds: [60, 1090, 40, 3]
+    shapeName: rect
+    fill: {type: solid, color: "#D96B4F"}
+  - elementId: subtitle
+    elementType: text
+    bounds: [60, 1112, 800, 36]
+    content:
+      fontSize: 24
+      fontFamily: 思源宋体
+      color: "#FFFFFFCC"
+      letterSpacing: 3
+      wrap: false
+      align: [left, middle]
+      text: 一个数仓工程师的夜晚
+  - elementId: meta
+    elementType: text
+    bounds: [60, 1176, 840, 26]
+    content:
+      fontSize: 15
+      fontFamily: JetBrains Mono
+      color: "#FFFFFF80"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: 数仓手记 · No.03
