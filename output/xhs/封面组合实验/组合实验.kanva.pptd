@@ -1,0 +1,19 @@
+version: v2
+title: 封面组合实验 · 05 × 07
+size: [960, 1280]
+customFonts:
+  - family: 思源宋体
+    src: "https://statics.kimi.ai/neo-design-static/p-font/思源宋体.ttf"
+  - family: 阿里妈妈刀隶体
+    src: "https://statics.kimi.ai/neo-design-static/p-font/阿里妈妈刀隶体.ttf"
+  - family: 站酷文艺体
+    src: "https://statics.kimi.ai/neo-design-static/p-font/站酷文艺体.ttf"
+  - family: ZCOOL KuaiLe
+    src: "https://statics.kimi.ai/neo-design-static/p-font/ZCOOL%20KuaiLe.ttf"
+  - family: LXGW Bright
+    src: "https://statics.kimi.ai/neo-design-static/p-font/LXGW%20Bright.ttf"
+pages:
+  - pages/01_daoli.page
+  - pages/02_lxgw.page
+  - pages/03_fusion_a.page
+  - pages/04_fusion_b.page

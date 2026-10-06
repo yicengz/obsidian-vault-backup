@@ -1,0 +1,127 @@
+pageType: cover
+background:
+  type: solid
+  color: "#F4EDDB"
+elements:
+  - elementId: tape-tr
+    elementType: shape
+    bounds: [740, 30, 170, 44]
+    shapeName: rect
+    rotation: 7
+    opacity: 0.7
+    fill: {type: solid, color: "#B7B3A0"}
+  - elementId: tape-bl
+    elementType: shape
+    bounds: [50, 1160, 170, 44]
+    shapeName: rect
+    rotation: -6
+    opacity: 0.65
+    fill: {type: solid, color: "#C9B8A3"}
+  - elementId: title-v
+    elementType: text
+    bounds: [600, 130, 200, 1000]
+    content:
+      fontSize: 96
+      fontFamily: 阿里妈妈刀隶体
+      color: "#1A1A1A"
+      textDirection: vertical
+      letterSpacing: 14
+      align: [center, top]
+      text: 实习生求助记
+  - elementId: sub-v
+    elementType: text
+    bounds: [490, 150, 56, 520]
+    content:
+      fontSize: 26
+      fontFamily: LXGW Bright
+      color: "#6E6850"
+      textDirection: vertical
+      letterSpacing: 8
+      align: [center, top]
+      text: 她的报表总数为什么翻了一倍
+  - elementId: ink-line
+    elementType: line
+    bounds: [452, 140, 1, 900]
+    viewBox: [1, 900]
+    points: "0,0 0,900"
+    curve: sharp
+    border: {style: solid, width: 1, color: "#B9AE93"}
+  - elementId: sticky
+    elementType: shape
+    bounds: [90, 300, 300, 240]
+    shapeName: rect
+    rotation: -4
+    fill: {type: solid, color: "#FFF3B0"}
+    shadow: {blur: 12, color: "#3E3A3426", offset: [0, 6]}
+  - elementId: sticky-tape
+    elementType: shape
+    bounds: [160, 280, 160, 40]
+    shapeName: rect
+    rotation: -4
+    opacity: 0.7
+    fill: {type: solid, color: "#A8C3A0"}
+  - elementId: sticky-text
+    elementType: text
+    bounds: [110, 322, 264, 200]
+    rotation: -4
+    content:
+      fontSize: 26
+      fontFamily: LXGW Bright
+      color: "#6B5E2E"
+      lineHeight: 1.5
+      align: [left, top]
+      text: |
+        <p>今天讲讲：</p>
+        <p>缓慢变化维</p>
+        <p>惹的祸</p>
+  - elementId: note
+    elementType: text
+    bounds: [90, 620, 320, 160]
+    content:
+      fontSize: 26
+      fontFamily: LXGW Bright
+      color: "#4A4638"
+      lineHeight: 1.8
+      align: [left, top]
+      text: |
+        <p>数仓里的 bug，</p>
+        <p>多半因为想得少，</p>
+        <p>和写得急无关。</p>
+  - elementId: date-line
+    elementType: text
+    bounds: [90, 140, 320, 30]
+    content:
+      fontSize: 20
+      fontFamily: LXGW Bright
+      color: "#8A8375"
+      wrap: false
+      align: [left, middle]
+      text: 2026年10月6日 · 晴
+  - elementId: seal
+    elementType: shape
+    bounds: [90, 940, 84, 84]
+    shapeName: rect
+    fill: {type: solid, color: "#A62B1F"}
+  - elementId: seal-text
+    elementType: text
+    bounds: [90, 940, 84, 84]
+    content:
+      fontSize: 33
+      fontFamily: 思源宋体
+      color: "#F4EDDB"
+      lineHeight: 1.05
+      align: [center, middle]
+      text: |
+        <p style="text-align:center">檐</p>
+        <p style="text-align:center">下</p>
+  - elementId: brand
+    elementType: text
+    bounds: [194, 966, 280, 34]
+    content:
+      fontSize: 22
+      fontFamily: LXGW Bright
+      color: "#4A4638"
+      letterSpacing: 6
+      wrap: false
+      align: [left, middle]
+      text: 一层檐下
