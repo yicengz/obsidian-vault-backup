@@ -1,0 +1,24 @@
+version: v2
+title: 小红书图文 · 寻找异常值
+size: [960, 1280]
+customFonts:
+  - family: 思源宋体
+    src: "https://statics.kimi.ai/neo-design-static/p-font/思源宋体.ttf"
+  - family: 阿里妈妈刀隶体
+    src: "https://statics.kimi.ai/neo-design-static/p-font/阿里妈妈刀隶体.ttf"
+  - family: LXGW Bright
+    src: "https://statics.kimi.ai/neo-design-static/p-font/LXGW%20Bright.ttf"
+theme:
+  colors:
+    paper: "#F4EDDB"
+    ink: "#1A1A1A"
+    body: "#3A362E"
+    gray: "#8A8375"
+    red: "#A62B1F"
+pages:
+  - pages/01_cover.page
+  - pages/02_quote.page
+  - pages/03_bridge.page
+  - pages/04_overstep.page
+  - pages/05_coffee.page
+  - pages/06_end.page

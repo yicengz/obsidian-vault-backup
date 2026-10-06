@@ -1,0 +1,79 @@
+pageType: cover
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: divider
+    elementType: line
+    bounds: [455, 150, 1, 900]
+    viewBox: [1, 900]
+    points: "0,0 0,900"
+    curve: sharp
+    border: {style: solid, width: 1, color: "#D9CFB4"}
+  - elementId: title-v
+    elementType: text
+    bounds: [700, 150, 170, 840]
+    content:
+      fontSize: 140
+      fontFamily: 阿里妈妈刀隶体
+      color: "$ink"
+      textDirection: vertical
+      letterSpacing: 12
+      align: [center, top]
+      text: 寻找异常值
+  - elementId: circle-mark
+    elementType: shape
+    bounds: [662, 445, 200, 345]
+    shapeName: ellipse
+    border: {style: solid, width: 3, color: "$red"}
+    fill: {type: solid, color: "#FFFFFF00"}
+    rotation: -2
+  - elementId: paper
+    elementType: image
+    bounds: [60, 320, 420, 420]
+    src: media/torn_paper.png
+    fit: {mode: fill}
+    rotation: -3
+  - elementId: paper-text
+    elementType: text
+    bounds: [112, 372, 320, 310]
+    rotation: -3
+    content:
+      fontSize: 26
+      fontFamily: LXGW Bright
+      color: "#4A4638"
+      lineHeight: 2.0
+      align: [left, top]
+      text: |
+        <p>协作伙伴问我：</p>
+        <p>"这活你怎么</p>
+        <p>干下去的？"</p>
+        <p>这篇是我的答案。</p>
+  - elementId: seal
+    elementType: shape
+    bounds: [80, 1000, 76, 76]
+    shapeName: rect
+    fill: {type: solid, color: "$red"}
+  - elementId: seal-text
+    elementType: text
+    bounds: [80, 1000, 76, 76]
+    content:
+      fontSize: 30
+      fontFamily: 思源宋体
+      color: "#F4EDDB"
+      lineHeight: 1.05
+      align: [center, middle]
+      text: |
+        <p style="text-align:center">一</p>
+        <p style="text-align:center">层</p>
+  - elementId: brand
+    elementType: text
+    bounds: [176, 1021, 300, 34]
+    content:
+      fontSize: 22
+      fontFamily: LXGW Bright
+      color: "#4A4638"
+      letterSpacing: 6
+      wrap: false
+      align: [left, middle]
+      text: 一层檐下

@@ -1,0 +1,67 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: header
+    elementType: text
+    bounds: [80, 66, 400, 28]
+    content:
+      fontSize: 18
+      fontFamily: LXGW Bright
+      color: "$gray"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: 寻找异常值 · 03
+  - elementId: header-rule
+    elementType: shape
+    bounds: [80, 104, 56, 3]
+    shapeName: rect
+    fill: {type: solid, color: "$red"}
+  - elementId: sec-title
+    elementType: text
+    bounds: [76, 160, 820, 90]
+    content:
+      fontSize: 54
+      fontFamily: 阿里妈妈刀隶体
+      color: "$ink"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: 咖啡、散步和闲聊
+  - elementId: body
+    elementType: text
+    bounds: [80, 300, 800, 700]
+    content:
+      fontSize: 25
+      fontFamily: LXGW Bright
+      color: "$body"
+      lineHeight: 1.95
+      align: [left, top]
+      text: |
+        <p>今年我开始刻意制造人际层面的"异常值"：约不同角色、不同岗位的同事喝杯咖啡，聊两句。</p>
+        <p style="margin-top:22px">被调去当虚线小组长后，我去请教了一位其他团队的实线 leader——他对虚线组长有什么期待；又请教了一位公认出色的虚线组长——怎么和上下沟通、在繁忙的需求里平衡精力。</p>
+        <p style="margin-top:22px">有事请教，我必提前说清楚，并主动提出<span style="color:$red">我请咖啡</span>。</p>
+        <p style="margin-top:22px">这些闲聊未必立刻有用，但像一面面镜子，照出我的盲区：比如偶尔"唱黑脸"拒绝需求也能被接受，比如协作团队近期的人事变动。</p>
+        <p style="margin-top:22px">线上沟通和线下喝杯咖啡，效果真的不一样。</p>
+  - elementId: keyline
+    elementType: text
+    bounds: [80, 1030, 800, 44]
+    content:
+      fontSize: 28
+      fontFamily: LXGW Bright
+      color: "$red"
+      wrap: false
+      align: [left, middle]
+      text: 异常值，既是做事的方式，也是与人连接的姿态。
+  - elementId: page-num
+    elementType: text
+    bounds: [760, 1190, 120, 28]
+    content:
+      fontSize: 18
+      fontFamily: LXGW Bright
+      color: "$gray"
+      wrap: false
+      align: [right, middle]
+      text: 05 / 06

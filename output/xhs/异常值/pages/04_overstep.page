@@ -1,0 +1,88 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: header
+    elementType: text
+    bounds: [80, 66, 400, 28]
+    content:
+      fontSize: 18
+      fontFamily: LXGW Bright
+      color: "$gray"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: 寻找异常值 · 02
+  - elementId: header-rule
+    elementType: shape
+    bounds: [80, 104, 56, 3]
+    shapeName: rect
+    fill: {type: solid, color: "$red"}
+  - elementId: sec-title
+    elementType: text
+    bounds: [76, 160, 860, 90]
+    content:
+      fontSize: 54
+      fontFamily: 阿里妈妈刀隶体
+      color: "$ink"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: 信任始于一次「超纲」
+  - elementId: body1
+    elementType: text
+    bounds: [80, 290, 800, 200]
+    content:
+      fontSize: 25
+      fontFamily: LXGW Bright
+      color: "$body"
+      lineHeight: 1.95
+      align: [left, top]
+      text: |
+        <p>今年对接一个内部标签平台，产品团队想引入 AI 推荐能力，也希望数仓提供一些想法和产品使用反馈。</p>
+        <p style="margin-top:18px">我根据自己的日常总结，当场列了 9 条建议：</p>
+  - elementId: paper
+    elementType: image
+    bounds: [110, 470, 740, 430]
+    src: media/torn_paper.png
+    fit: {mode: fill}
+    rotation: 1
+  - elementId: paper-text
+    elementType: text
+    bounds: [185, 530, 600, 320]
+    rotation: 1
+    content:
+      fontSize: 24
+      fontFamily: LXGW Bright
+      color: "#4A4638"
+      lineHeight: 2.0
+      align: [left, top]
+      text: |
+        <p>· AI 推荐不干扰原有用户动线，</p>
+        <p>　召回不足时再自动弹出</p>
+        <p>· 标签描述支持富文本，突出重点</p>
+        <p>· Hive 表名加超链接，</p>
+        <p>　一键跳转到数据平台</p>
+  - elementId: body2
+    elementType: text
+    bounds: [80, 950, 800, 200]
+    content:
+      fontSize: 25
+      fontFamily: LXGW Bright
+      color: "$body"
+      lineHeight: 1.95
+      align: [left, top]
+      text: |
+        <p>这些都不属于数仓的范畴。但后续，产品经理多次主动来找我讨论方案细节。</p>
+        <p style="margin-top:18px">只做<span style="color:$red">「回归值」</span>内的事——按时交付、不出错、不越界——短期看上去很安全，长期却会被困在越来越小的框架里。</p>
+  - elementId: page-num
+    elementType: text
+    bounds: [760, 1190, 120, 28]
+    content:
+      fontSize: 18
+      fontFamily: LXGW Bright
+      color: "$gray"
+      wrap: false
+      align: [right, middle]
+      text: 04 / 06

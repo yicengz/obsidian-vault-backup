@@ -1,0 +1,67 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: header
+    elementType: text
+    bounds: [80, 66, 400, 28]
+    content:
+      fontSize: 18
+      fontFamily: LXGW Bright
+      color: "$gray"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: 寻找异常值 · 引子
+  - elementId: header-rule
+    elementType: shape
+    bounds: [80, 104, 56, 3]
+    shapeName: rect
+    fill: {type: solid, color: "$red"}
+  - elementId: quote
+    elementType: text
+    bounds: [80, 300, 800, 420]
+    content:
+      fontSize: 38
+      fontFamily: LXGW Bright
+      color: "$body"
+      lineHeight: 2.1
+      align: [left, top]
+      text: |
+        <p>在生活中增添<span style="color:$red">「异常值」</span>，</p>
+        <p>让我探索新的可能；</p>
+        <p>在生活中习惯<span style="color:$red">「回归值」</span>，</p>
+        <p>让我死在本地最优解。</p>
+  - elementId: quote-src
+    elementType: text
+    bounds: [80, 760, 800, 32]
+    content:
+      fontSize: 20
+      fontFamily: LXGW Bright
+      color: "$gray"
+      wrap: false
+      align: [right, middle]
+      text: —— 播客《无人知晓》E42 · 沉默的主角
+  - elementId: intro
+    elementType: text
+    bounds: [80, 880, 800, 180]
+    content:
+      fontSize: 25
+      fontFamily: LXGW Bright
+      color: "$body"
+      lineHeight: 1.9
+      align: [left, top]
+      text: |
+        <p>作为一名数仓工程师，我的工作常被形容为"和冰冷的数字对话"。过去我说：把没法用的数据加工成大家看得懂的东西，很有成就感。</p>
+        <p>但现在，我有了更深一层的答案。</p>
+  - elementId: page-num
+    elementType: text
+    bounds: [760, 1190, 120, 28]
+    content:
+      fontSize: 18
+      fontFamily: LXGW Bright
+      color: "$gray"
+      wrap: false
+      align: [right, middle]
+      text: 02 / 06

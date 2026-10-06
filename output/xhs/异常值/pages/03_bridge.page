@@ -1,0 +1,57 @@
+pageType: content
+background:
+  type: solid
+  color: "$paper"
+elements:
+  - elementId: header
+    elementType: text
+    bounds: [80, 66, 400, 28]
+    content:
+      fontSize: 18
+      fontFamily: LXGW Bright
+      color: "$gray"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: 寻找异常值 · 01
+  - elementId: header-rule
+    elementType: shape
+    bounds: [80, 104, 56, 3]
+    shapeName: rect
+    fill: {type: solid, color: "$red"}
+  - elementId: sec-title
+    elementType: text
+    bounds: [76, 160, 820, 90]
+    content:
+      fontSize: 54
+      fontFamily: 阿里妈妈刀隶体
+      color: "$ink"
+      letterSpacing: 4
+      wrap: false
+      align: [left, middle]
+      text: 数仓不是搬砖，是搭桥
+  - elementId: body
+    elementType: text
+    bounds: [80, 300, 800, 760]
+    content:
+      fontSize: 25
+      fontFamily: LXGW Bright
+      color: "$body"
+      lineHeight: 1.95
+      align: [left, top]
+      text: |
+        <p>建 Hive 表、调度任务、回溯数据、配置监控——只停在这一层，很容易陷入重复劳动的泥潭。其实任何岗位都一样。</p>
+        <p style="margin-top:22px">我逐渐意识到，真正的价值在于<span style="color:$red">「理解」</span>：理解业务指标背后的逻辑，理解产品功能如何影响数据流，理解运营动作如何改变用户行为。</p>
+        <p style="margin-top:22px">于是，我会主动找产品经理聊需求背景，和运营讨论活动效果。这些看似越界的事，恰恰是打破认知局限的关键一步。</p>
+        <p style="margin-top:22px">当我能用业务语言解释技术问题，也能用技术逻辑反推业务瓶颈——我就不再是<span style="color:$red">工具人</span>，而是值得信赖的<span style="color:$red">合作伙伴</span>。</p>
+        <p style="margin-top:22px">信誉的积累是核心资产，有复利效果：时间拉长，认可与信任会被放大，还能为偶尔的失利兜底。</p>
+  - elementId: page-num
+    elementType: text
+    bounds: [760, 1190, 120, 28]
+    content:
+      fontSize: 18
+      fontFamily: LXGW Bright
+      color: "$gray"
+      wrap: false
+      align: [right, middle]
+      text: 03 / 06
