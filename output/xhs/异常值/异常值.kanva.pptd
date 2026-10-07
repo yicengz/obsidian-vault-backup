@@ -17,8 +17,12 @@ theme:
     red: "#A62B1F"
 pages:
   - pages/01_cover.page
+  - pages/photo_intro.page
   - pages/02_quote.page
+  - pages/photo_bridge.page
   - pages/03_bridge.page
+  - pages/photo_overstep.page
   - pages/04_overstep.page
+  - pages/photo_coffee.page
   - pages/05_coffee.page
   - pages/06_end.page

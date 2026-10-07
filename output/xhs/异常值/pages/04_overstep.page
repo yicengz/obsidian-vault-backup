@@ -85,4 +85,4 @@ elements:
       color: "$gray"
       wrap: false
       align: [right, middle]
-      text: 04 / 06
+      text: 07 / 10

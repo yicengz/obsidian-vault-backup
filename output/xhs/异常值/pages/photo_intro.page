@@ -1,0 +1,49 @@
+pageType: content
+background:
+  type: image
+  src: media/photo_intro.png
+  fit: {mode: cover}
+elements:
+  - elementId: gradient
+    elementType: shape
+    bounds: [0, 700, 960, 580]
+    shapeName: rect
+    fill:
+      type: gradient
+      gradientType: linear
+      angle: 90
+      stops:
+        - {position: 0, color: "#00000000"}
+        - {position: 1, color: "#000000B3"}
+  - elementId: sec-num
+    elementType: text
+    bounds: [80, 1030, 200, 44]
+    content:
+      fontSize: 36
+      fontFamily: 思源宋体
+      bold: true
+      color: "#E0784F"
+      wrap: false
+      align: [left, middle]
+      text: 序
+  - elementId: sec-title
+    elementType: text
+    bounds: [80, 1086, 860, 66]
+    content:
+      fontSize: 48
+      fontFamily: 思源宋体
+      color: "#FFFFFF"
+      letterSpacing: 2
+      wrap: false
+      align: [left, middle]
+      text: "“这活，你是怎么干下去的？”"
+  - elementId: credit
+    elementType: text
+    bounds: [80, 1232, 500, 22]
+    content:
+      fontSize: 13
+      fontFamily: LXGW Bright
+      color: "#FFFFFF73"
+      wrap: false
+      align: [left, middle]
+      text: AI 影像 · 一层檐下
