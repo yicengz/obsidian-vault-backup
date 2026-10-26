@@ -1,0 +1,38 @@
+{
+ "rank4": {
+  "paragraphs_total": 165,
+  "paragraphs_missing_verbatim": [],
+  "speaker_segments_in_body": 165,
+  "segments_match_paras": true,
+  "nav_entries": 26,
+  "body_chapters": 26,
+  "nav_equals_body": false,
+  "nav_body_titles_match": true,
+  "chapter_ts_match_real_ms": true,
+  "keywords_count": 21,
+  "n_chapters": 26,
+  "blacklist_hits_intro": {
+   "不端着": 0,
+   "接住": 0
+  },
+  "blacklist_not_but_pattern_intro": 0
+ },
+ "rank7": {
+  "paragraphs_total": 240,
+  "paragraphs_missing_verbatim": [],
+  "speaker_segments_in_body": 240,
+  "segments_match_paras": true,
+  "nav_entries": 26,
+  "body_chapters": 26,
+  "nav_equals_body": false,
+  "nav_body_titles_match": true,
+  "chapter_ts_match_real_ms": true,
+  "keywords_count": 20,
+  "n_chapters": 26,
+  "blacklist_hits_intro": {
+   "不端着": 0,
+   "接住": 0
+  },
+  "blacklist_not_but_pattern_intro": 0
+ }
+}
