@@ -85,3 +85,7 @@ category:
 [Emma Simpson](https://unsplash.com/@esdesignisms) | [from unsplash.com](https://unsplash.com/photos/woman-walking-on-pathway-during-daytime-mNGaaLeWEp0)
 
 我是个喜欢去散步的人，不带有明确目标。2025年有一段时间，我的工作强度比较小，心理负担也轻。我几乎每天下午四点准时下楼，在公司附近溜达一圈，晒晒太阳。同事开玩笑说我上班费鞋。
+
+## 相关
+
+- [[raw/inbox/20261028005000|三篇文章对读：蒋方舟《37岁才明白的事》与两篇数仓文章]]
